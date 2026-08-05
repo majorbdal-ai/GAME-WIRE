@@ -14,6 +14,15 @@
    ============================================================ */
 const NEWS_ALL = [
   {
+    tag: "BREAKING",
+    category: "TECH",
+    color: "var(--brand)",
+    title: "New AI Hardware Benchmarks for August 2026",
+    body: "Latest benchmarks reveal significant performance gains in local inferencing, setting a new bar for consumer-grade GPU AI workloads.",
+    time: "just now",
+    link: "ai-hardware-benchmarks.html"
+  },
+  {
     tag: "TRENDING",
     category: "CONSOLE",
     color: "var(--brand)",
