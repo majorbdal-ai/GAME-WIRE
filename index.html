@@ -20,20 +20,27 @@
     </section>
 
     <main class="content-grid">
-        <div class="card" onclick="openModal('Gaming News Item 1')">
-            <span class="badge">HOT</span>
-            <h2>Trending News</h2>
-            <p>Latest updates on AAA titles...</p>
+        <div class="card card-trending" onclick="openModal('Gaming News Item 1')">
+            <span class="badge">Trending</span>
+            <h2>Top Gaming News</h2>
+            <ul class="sub-list">
+                <li>• GTA 6 Trailer hits 200M views</li>
+                <li>• New Valorant Agent leaked</li>
+            </ul>
         </div>
-        <div class="card" onclick="openModal('Esports Score')">
-            <span class="badge live">LIVE</span>
-            <h2>Esports Live Score</h2>
-            <p>Score: 2-1 | Watching: <span id="viewer-count">48,203</span></p>
+        <div class="card card-esports" onclick="openModal('Esports Score')">
+            <span class="badge live">Live Score</span>
+            <h2>Esports Arena</h2>
+            <div class="live-score">
+                <span class="live-badge">● LIVE</span> SEN vs FNATC
+            </div>
+            <p>Score: 2 - 1 | 48,203 spectators</p>
         </div>
-        <div class="card" onclick="openModal('Game Release')">
-            <span class="badge">UPCOMING</span>
-            <h2>Game Releases</h2>
-            <p>Expected: Q4 2026</p>
+        <div class="card card-releases" onclick="openModal('Game Release')">
+            <span class="badge">Releases</span>
+            <h2>Game Launches</h2>
+            <p>Prepare for upcoming major releases.</p>
+            <div class="release-date">Cyberpunk DLC — Oct 2026</div>
         </div>
     </main>
 
