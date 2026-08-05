@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>আমার চিঠি লাইব্রেরি | স্মৃতির পাতায় জমানো কিছু কথা</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Hind+Siliguri:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="main-header">
+        <h1>আমার চিঠি লাইব্রেরি</h1>
+        <p class="tagline">স্মৃতির পাতায় জমানো কিছু কথা</p>
+    </header>
+
+    <main class="container">
+        <section class="hero-card">
+            <h2>স্বাগতম</h2>
+            <p>আমাদের ছোট এই লাইব্রেরিতে আপনার জীবনের বিশেষ মুহূর্ত আর অনুভূতির চিঠিগুলো সংরক্ষণ করুন। প্রতিটি অক্ষরের পেছনে আছে এক একটি গল্প।</p>
+        </section>
+
+        <section class="letter-grid">
+            <div class="letter-card">
+                <h3>প্রিয় মানুষের জন্য প্রথম চিঠি</h3>
+                <p>স্মৃতির পাতায় লেখা প্রথম শব্দগুলো...</p>
+            </div>
+            <div class="letter-card">
+                <h3>পুরানো স্মৃতির পাতা</h3>
+                <p>কিছু কথা যা আজও হৃদয়ে অমলিন...</p>
+            </div>
+            <div class="letter-card">
+                <h3>অপ্রকাশিত অনুভূতি</h3>
+                <p>যা বলা হয়নি, লেখা হয়েই থাকল...</p>
+            </div>
+        </section>
+    </main>
+
+    <footer class="main-footer">
+        <p>&copy; ২০২৫ আমার চিঠি লাইব্রেরি। সংরক্ষিত।</p>
+    </footer>
+
+    <!-- Letter View Modal -->
+    <div id="letter-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn">&times;</span>
+            <h2 id="modal-title"></h2>
+            <div id="modal-body" class="handwritten-font"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

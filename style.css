@@ -1,0 +1,123 @@
+:root {
+    --ivory: #FFFFF0;
+    --soft-beige: #F5F5DC;
+    --dark-espresso: #2C1E1B;
+    --accent: #8B5E3C;
+}
+
+body {
+    background-color: var(--ivory);
+    color: var(--dark-espresso);
+    font-family: 'Hind Siliguri', sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+.main-header {
+    text-align: center;
+    padding: 3rem 1rem;
+    border-bottom: 1px solid var(--soft-beige);
+}
+
+.main-header h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    color: var(--accent);
+}
+
+.tagline {
+    font-style: italic;
+    opacity: 0.8;
+}
+
+.container {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+.hero-card {
+    background: var(--soft-beige);
+    padding: 2rem;
+    border-radius: 4px;
+    margin-bottom: 3rem;
+    text-align: center;
+}
+
+.letter-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+}
+
+.letter-card {
+    background: #fff;
+    padding: 1.5rem;
+    border: 1px solid var(--soft-beige);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+}
+
+.letter-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.05);
+}
+
+.letter-card h3 {
+    font-family: 'Playfair Display', serif;
+    margin-top: 0;
+}
+
+/* Modal Styles */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(44, 30, 27, 0.6);
+}
+
+.modal-content {
+    background-color: var(--ivory);
+    margin: 10% auto;
+    padding: 3rem;
+    width: 80%;
+    max-width: 600px;
+    border-radius: 4px;
+    position: relative;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+}
+
+.close-btn {
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    font-size: 2rem;
+    cursor: pointer;
+    color: var(--dark-espresso);
+}
+
+.handwritten-font {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    font-size: 1.4rem;
+    color: var(--dark-espresso);
+    white-space: pre-wrap;
+}
+
+.main-footer {
+    text-align: center;
+    padding: 2rem;
+    font-size: 0.9rem;
+    opacity: 0.6;
+}
+
+@media (max-width: 600px) {
+    .main-header h1 { font-size: 1.8rem; }
+    .modal-content { width: 90%; padding: 1.5rem; }
+}
