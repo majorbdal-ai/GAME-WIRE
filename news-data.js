@@ -14,30 +14,39 @@
    ============================================================ */
 const NEWS_ALL = [
   {
-    tag: "TRENDING",
+    tag: "MAJOR",
     category: "CONSOLE",
     color: "var(--brand)",
-    title: "Nintendo Switch 2 & Elden Ring Craze",
-    body: "August 2026 is stacked with Elden Ring: Tarnished Edition launching on Nintendo Switch 2, breaking the usual summer drought.",
-    time: "just now",
-    link: "#"
-  },
-  {
-    tag: "MAJOR",
-    category: "INDUSTRY",
-    color: "var(--cyan)",
-    title: "Xbox Division Restructuring",
-    body: "A major reset of Microsoft's Xbox division, shifting back toward console exclusivity and structural optimization.",
+    title: "Marvel Tokon: Fighting Souls Officially Launches Today",
+    body: "The highly anticipated anime-style fighter 'Marvel Tokon: Fighting Souls' drops today on PS5 and PC, featuring an explosive roster, smooth rollback netcode, and tactical tag-team mechanics.",
     time: "just now",
     link: "#"
   },
   {
     tag: "UPDATE",
-    category: "RPG",
-    color: "var(--amber)",
-    title: "Lies of P: Complete Edition",
-    body: "The base game bundled with its 'Overture DLC', releasing this August.",
+    category: "ESPORTS",
+    color: "var(--violet)",
+    title: "Valorant Patch Notes: Duelist Meta Receives Massive Shakeup",
+    body: "Riot Games releases a surprising mid-summer balance patch, introducing major ability reworks for key Duelists to diversify team compositions.",
     time: "just now",
+    link: "#"
+  },
+  {
+    tag: "INDIE",
+    category: "INDIE",
+    color: "var(--amber)",
+    title: "Indie Sensation 'Tactical Toad' Surpasses 1 Million Copies sold",
+    body: "The cozy turn-based strategy indie game 'Tactical Toad' hits a massive milestone today, proving that small-studio passion projects are dominating the 2026 gaming market.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    tag: "TRENDING",
+    category: "CONSOLE",
+    color: "var(--brand)",
+    title: "Nintendo Switch 2 & Elden Ring Craze",
+    body: "August 2026 is stacked with Elden Ring: Tarnished Edition launching on Nintendo Switch 2, breaking the usual summer drought.",
+    time: "2 hr ago",
     link: "#"
   },
   {
@@ -130,10 +139,11 @@ const NEWS_ALL = [
 ];
 
 const LAUNCHES = [
+  { game: "Marvel Tokon: Fighting Souls", platform: "PS5, PC", req: "Aug 6, 2026" },
   { game: "Grand Theft Auto 6", platform: "Console", req: "Nov 2026" },
   { game: "Resonance: A Plague Tale Legacy", platform: "PC, Xbox Series, PS5", req: "Aug 27, 2026" },
   { game: "The Sinking City 2", platform: "PC, PS5, Xbox Series", req: "Aug 18, 2026" },
-  { game: "Marvel Tokon: Fighting Souls", platform: "PS5, PC", req: "Aug 6, 2026" },
+  { game: "Marvel Tokon: Fighting Souls", platform: "PS5 / PC", req: "Aug 6, 2026" },
   { game: "Marvel Tokon: Fighting Souls", platform: "PS5 / PC", req: "Aug 6, 2026" },
   { game: "The Sinking City 2", platform: "PC / PS5 / Xbox", req: "Aug 18, 2026" }
 ];
