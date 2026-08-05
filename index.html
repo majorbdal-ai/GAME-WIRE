@@ -1,50 +1,46 @@
 <!DOCTYPE html>
-<html lang="bn">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>আমার চিঠি লাইব্রেরি | স্মৃতির পাতায় জমানো কিছু কথা</title>
+    <title>NEXUS HUB | Gaming & Animation</title>
     <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Hind+Siliguri:wght@300;400;600&family=Galada&display=swap" rel="stylesheet">
 </head>
 <body>
-    <header class="main-header">
-        <h1>আমার চিঠি লাইব্রেরি</h1>
-        <p class="tagline">স্মৃতির পাতায় জমানো কিছু কথা</p>
-    </header>
+    <div class="grid-overlay"></div>
+    <header class="glitch">NEXUS HUB</header>
+    
+    <div class="ticker">
+        <marquee>LIVE: GTA 6 Trailer Breakdown... | TOURNAMENT: Valorant Champions League Tonight! | NEW: Cyberpunk DLC Expansion Pack Released!</marquee>
+    </div>
 
-    <main class="container">
-        <section class="hero-card">
-            <h2>স্বাগতম</h2>
-            <p>আমাদের ছোট এই লাইব্রেরিতে আপনার জীবনের বিশেষ মুহূর্ত আর অনুভূতির চিঠিগুলো সংরক্ষণ করুন। প্রতিটি অক্ষরের পেছনে আছে এক একটি গল্প।</p>
-        </section>
+    <section class="hero">
+        <h1>NEXT GEN GAMING</h1>
+        <button class="cta-glow">JOIN THE ARENA</button>
+    </section>
 
-        <section class="letter-grid">
-            <div class="letter-card">
-                <h3>প্রিয় মানুষের জন্য প্রথম চিঠি</h3>
-                <p>স্মৃতির পাতায় লেখা প্রথম শব্দগুলো...</p>
-            </div>
-            <div class="letter-card">
-                <h3>পুরানো স্মৃতির পাতা</h3>
-                <p>কিছু কথা যা আজও হৃদয়ে অমলিন...</p>
-            </div>
-            <div class="letter-card">
-                <h3>অপ্রকাশিত অনুভূতি</h3>
-                <p>যা বলা হয়নি, লেখা হয়েই থাকল...</p>
-            </div>
-        </section>
+    <main class="content-grid">
+        <div class="card" onclick="openModal('Gaming News Item 1')">
+            <span class="badge">HOT</span>
+            <h2>Trending News</h2>
+            <p>Latest updates on AAA titles...</p>
+        </div>
+        <div class="card" onclick="openModal('Esports Score')">
+            <span class="badge live">LIVE</span>
+            <h2>Esports Live Score</h2>
+            <p>Score: 2-1 | Watching: <span id="viewer-count">48,203</span></p>
+        </div>
+        <div class="card" onclick="openModal('Game Release')">
+            <span class="badge">UPCOMING</span>
+            <h2>Game Releases</h2>
+            <p>Expected: Q4 2026</p>
+        </div>
     </main>
 
-    <footer class="main-footer">
-        <p>&copy; ২০২৫ আমার চিঠি লাইব্রেরি। সংরক্ষিত।</p>
-    </footer>
-
-    <!-- Letter View Modal -->
-    <div id="letter-modal" class="modal">
+    <div id="news-modal" class="modal">
         <div class="modal-content">
-            <span class="close-btn">&times;</span>
             <h2 id="modal-title"></h2>
-            <div id="modal-body" class="handwritten-font"></div>
+            <button onclick="closeModal()">Close</button>
         </div>
     </div>
 
