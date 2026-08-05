@@ -428,21 +428,28 @@ const LAUNCHES = [
 
 // --- Render hero ---
 document.getElementById('heroSection').innerHTML = `
-  <span class="hero-tag">${TOP_NEWS.tag}</span>
-  <h1 class="display">${TOP_NEWS.title}</h1>
-  <p>${TOP_NEWS.body}</p>
-  <div class="hero-meta">
-    <span><b>${TOP_NEWS.category}</b></span>
-    <span>${TOP_NEWS.time}</span>
-  </div>
+  <a href="gta6.html" style="text-decoration:none; color:inherit; display:block;">
+    <span class="hero-tag">${TOP_NEWS.tag}</span>
+    <h1 class="display">${TOP_NEWS.title}</h1>
+    <p>${TOP_NEWS.body}</p>
+    <div class="hero-meta">
+      <span><b>${TOP_NEWS.category}</b></span>
+      <span>${TOP_NEWS.time}</span>
+    </div>
+  </a>
 `;
 
 // --- Render news grid ---
 const grid = document.getElementById('newsGrid');
-NEWS.forEach(n => {
-  const card = document.createElement('div');
+const newsLinks = ["valorant-agent.html", "cyberpunk-dlc.html", "fortnite-update.html"];
+NEWS.forEach((n, index) => {
+  const card = document.createElement('a');
+  card.href = newsLinks[index];
   card.className = 'card reveal';
   card.style.setProperty('--card-color', n.color);
+  card.style.textDecoration = 'none';
+  card.style.color = 'inherit';
+  card.style.display = 'block';
   card.innerHTML = `
     <div class="card-meta"><span>${n.category}</span><span class="dot">•</span><span>${n.time}</span></div>
     <h3>${n.title}</h3>
