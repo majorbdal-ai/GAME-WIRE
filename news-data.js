@@ -1,24 +1,10 @@
-/* ============================================================
-   EDIT ZONE
-   নতুন খবর যোগ করতে চাইলে শুধু NEWS_ALL অ্যারের একদম উপরে
-   (শুরুতে, প্রথম আইটেম হিসেবে) একটা নতুন অবজেক্ট বসিয়ে দিন।
-
-   - সবচেয়ে উপরের (প্রথম) আইটেমটাই সবসময় স্বয়ংক্রিয়ভাবে
-     Hero/Breaking হিসেবে দেখাবে।
-   - হোমপেজের "Latest" গ্রিডে হিরো বাদে সর্বোচ্চ PAGE_SIZE-টা
-     খবর দেখানো হয় (সবচেয়ে নতুনগুলো)।
-   - এর বাইরের পুরনো খবরগুলো হোমপেজে লিস্ট হয় না — সেগুলো শুধু
-     archive.html পেজে নাম দিয়ে সার্চ করলে খুঁজে পাওয়া যাবে।
-   - প্রতিটা আইটেমে link ফিল্ডে আসল আর্টিকেল পেজের ফাইলনেম দিন,
-     যাতে হোমপেজ ও আর্কাইভ দুই জায়গা থেকেই সেই পেজ খোলা যায়।
-   ============================================================ */
 const NEWS_ALL = [
   {
     tag: "BREAKING",
-    category: "CONSOLE",
+    category: "FIGHTER",
     color: "var(--brand)",
-    title: "PlayStation 5 Pro Details Finally Revealed",
-    body: "Sony officially announces specs for the PS5 Pro today, August 6, 2026, promising 4K gaming at 120FPS for titles like GTA 6.",
+    title: "Marvel Tokon: Fighting Souls Officially Launches Today",
+    body: "The highly anticipated anime-style fighter 'Marvel Tokon: Fighting Souls' drops today on PS5 and PC, featuring an explosive roster, smooth rollback netcode, and tactical tag-team mechanics.",
     time: "just now",
     link: "#"
   },
@@ -26,9 +12,9 @@ const NEWS_ALL = [
     tag: "MAJOR",
     category: "CONSOLE",
     color: "var(--brand)",
-    title: "Marvel Tokon: Fighting Souls Officially Launches Today",
-    body: "The highly anticipated anime-style fighter 'Marvel Tokon: Fighting Souls' drops today on PS5 and PC, featuring an explosive roster, smooth rollback netcode, and tactical tag-team mechanics.",
-    time: "4 hr ago",
+    title: "PlayStation 5 Pro Details Finally Revealed",
+    body: "Sony officially announces specs for the PS5 Pro today, August 6, 2026, promising 4K gaming at 120FPS for titles like GTA 6.",
+    time: "2 hr ago",
     link: "#"
   },
   {
@@ -139,12 +125,10 @@ const NEWS_ALL = [
 ];
 
 const LAUNCHES = [
-  { game: "PlayStation 5 Pro", platform: "Console", req: "Aug 6, 2026" },
   { game: "Marvel Tokon: Fighting Souls", platform: "PS5, PC", req: "Aug 6, 2026" },
-  { game: "Grand Theft Auto 6", platform: "Console", req: "Nov 2026" },
+  { game: "The Sinking City 2", platform: "PC, PS5, Xbox Series X/S", req: "Aug 18, 2026" },
   { game: "Resonance: A Plague Tale Legacy", platform: "PC, Xbox Series, PS5", req: "Aug 27, 2026" },
-  { game: "The Sinking City 2", platform: "PC, PS5, Xbox Series", req: "Aug 18, 2026" }
+  { game: "Metal Gear Solid Master Collection Vol. 2", platform: "Switch 2, PC, PS5", req: "Aug 27, 2026" }
 ];
 
-const PAGE_SIZE = 6; // হোমপেজে হিরো বাদে "Latest" গ্রিডে একসাথে কতগুলো খবর দেখাবে
-/* ============================================================ */
+const PAGE_SIZE = 6;
