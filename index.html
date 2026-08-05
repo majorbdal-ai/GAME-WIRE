@@ -3,516 +3,179 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>GAME WIRE — Live Gaming News</title>
+<title>চিঠির বাক্স — টেমপ্লেট বেছে নাও</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;500;600;700&family=Baloo+Da+2:wght@600;700;800&display=swap" rel="stylesheet">
 <style>
   :root{
-    --bg:#0B0E14;
-    --bg-soft:#10141C;
-    --surface:#161B26;
-    --surface-2:#1B2230;
-    --line:#232A38;
-    --text:#E9EDF5;
-    --muted:#8891A3;
-    --brand:#FF3B7C;
-    --brand-dim:#FF3B7C33;
-    --cyan:#22D3EE;
-    --cyan-dim:#22D3EE33;
-    --amber:#FFB020;
-    --amber-dim:#FFB02033;
-    --violet:#8B7CF6;
-    --violet-dim:#8B7CF633;
+    --plum-deep:#1f0a22;
+    --plum-mid:#3a1240;
+    --plum-glow:#5c1f52;
+    --gold:#d8ab6a;
+    --gold-soft:#e8cfa0;
+    --rose:#e6a9c4;
+    --paper:#f6ecd9;
   }
-  *{box-sizing:border-box; margin:0; padding:0;}
-  html{scroll-behavior:smooth;}
-  body{
-    background:var(--bg);
-    color:var(--text);
-    font-family:'Inter',sans-serif;
-    -webkit-font-smoothing:antialiased;
-    background-image:
-      radial-gradient(circle at 15% 0%, #1a1030 0%, transparent 40%),
-      radial-gradient(circle at 100% 20%, #061a22 0%, transparent 45%);
-    background-attachment:fixed;
+  *{box-sizing:border-box;}
+  html,body{
+    margin:0;
+    min-height:100vh;
+    background:radial-gradient(120% 90% at 50% -10%, var(--plum-glow) 0%, var(--plum-mid) 45%, var(--plum-deep) 100%);
+    font-family:'Hind Siliguri', sans-serif;
+    color:var(--gold-soft);
   }
-  .display{font-family:'Rajdhani',sans-serif; letter-spacing:.02em;}
-  .mono{font-family:'JetBrains Mono',monospace;}
-
-  /* ===== Topbar ===== */
-  .topbar{
-    display:flex; align-items:center; justify-content:space-between;
-    padding:16px 18px;
-    border-bottom:1px solid var(--line);
-    position:sticky; top:0; z-index:50;
-    background:rgba(11,14,20,.88);
-    backdrop-filter:blur(10px);
+  .wrap{max-width:560px; margin:0 auto; padding:52px 20px 70px;}
+  .eyebrow{
+    font-family:'Baloo Da 2', sans-serif;
+    letter-spacing:.35em;
+    font-size:12.5px;
+    color:var(--gold);
+    text-align:center;
+    margin:0 0 10px;
   }
-  .logo{
-    display:flex; align-items:baseline; gap:2px;
-    font-family:'Rajdhani',sans-serif;
-    font-weight:700; font-size:22px; letter-spacing:.04em;
+  h1{
+    font-family:'Baloo Da 2', sans-serif;
+    font-size:clamp(28px,7vw,38px);
+    color:var(--paper);
+    text-align:center;
+    margin:0 0 14px;
   }
-  .logo span:first-child{color:var(--text);}
-  .logo span:last-child{color:var(--brand);}
-  .clock{
-    font-size:11px; color:var(--muted);
-    display:flex; align-items:center; gap:6px;
-  }
-  .live-dot{
-    width:7px; height:7px; border-radius:50%;
-    background:var(--brand);
-    box-shadow:0 0 0 0 var(--brand-dim);
-    animation:pulse 1.6s infinite;
-  }
-  @keyframes pulse{
-    0%{box-shadow:0 0 0 0 rgba(255,59,124,.55);}
-    70%{box-shadow:0 0 0 8px rgba(255,59,124,0);}
-    100%{box-shadow:0 0 0 0 rgba(255,59,124,0);}
+  p.lead{
+    text-align:center;
+    color:var(--rose);
+    line-height:1.85;
+    max-width:420px;
+    margin:0 auto 44px;
   }
 
-  /* ===== Ticker ===== */
-  .ticker-wrap{
-    border-bottom:1px solid var(--line);
-    background:var(--bg-soft);
-    display:flex; overflow:hidden; white-space:nowrap;
-    position:relative;
-  }
-  .ticker-label{
-    flex:0 0 auto;
-    background:var(--brand);
-    color:#0B0E14;
-    font-family:'Rajdhani',sans-serif; font-weight:700;
-    font-size:12px; letter-spacing:.08em;
-    padding:8px 12px;
-    display:flex; align-items:center;
-    z-index:2;
-  }
-  .ticker-track{
+  .list{display:flex; flex-direction:column; gap:18px;}
+
+  .card{
+    background:linear-gradient(160deg, rgba(216,171,106,.08), rgba(216,171,106,.02));
+    border:1px solid rgba(216,171,106,.35);
+    border-radius:14px;
+    padding:20px 20px 18px;
     display:flex;
-    animation:scroll-left 32s linear infinite;
+    align-items:center;
+    gap:16px;
   }
-  .ticker-track span{
-    font-family:'JetBrains Mono',monospace;
-    font-size:12px; color:var(--muted);
-    padding:8px 28px 8px 0;
+  .swatch{
+    width:52px; height:52px; flex:0 0 52px;
+    border-radius:50%;
+    border:2px solid var(--gold);
+    display:flex; align-items:center; justify-content:center;
+    font-size:22px;
+    background:radial-gradient(circle at 40% 35%, var(--plum-glow), var(--plum-mid));
+  }
+  .card-body{flex:1; min-width:0;}
+  .card-title{
+    font-family:'Baloo Da 2', sans-serif;
+    color:var(--paper);
+    font-size:18px;
+    margin:0 0 4px;
+  }
+  .card-desc{
+    font-size:14px;
+    color:var(--rose);
+    margin:0;
+    line-height:1.6;
+  }
+  .card-actions{
+    display:flex; flex-direction:column; gap:8px;
     flex:0 0 auto;
   }
-  .ticker-track span b{color:var(--text); font-weight:500;}
-  @keyframes scroll-left{
-    0%{transform:translateX(0);}
-    100%{transform:translateX(-50%);}
+  .btn{
+    font-family:'Hind Siliguri', sans-serif;
+    font-size:13.5px;
+    font-weight:600;
+    border:1px solid var(--gold);
+    background:transparent;
+    color:var(--gold-soft);
+    padding:9px 14px;
+    border-radius:8px;
+    cursor:pointer;
+    white-space:nowrap;
+    transition:background .2s ease, color .2s ease, transform .15s ease;
+  }
+  .btn:hover{background:var(--gold); color:var(--plum-deep);}
+  .btn:active{transform:scale(.96);}
+  .btn.copied{background:var(--gold); color:var(--plum-deep);}
+  .btn-view{
+    display:inline-block;
+    text-align:center;
+    text-decoration:none;
+    font-size:13px;
+    color:var(--rose);
+    opacity:.85;
+  }
+  .btn-view:hover{opacity:1;}
+
+  .foot{
+    text-align:center;
+    margin-top:48px;
+    font-size:12px;
+    color:rgba(230,169,196,.5);
+    letter-spacing:.05em;
   }
 
-  main{max-width:720px; margin:0 auto; padding:0 16px 60px;}
-
-  /* ===== Hero / Top news ===== */
-  .hero{
-    margin-top:22px;
-    position:relative;
-    border:1px solid var(--brand-dim);
-    background:linear-gradient(180deg, #1A0E17 0%, var(--surface) 70%);
-    border-radius:2px;
-    padding:26px 20px 22px;
-    overflow:hidden;
-  }
-  .hero::before{
-    content:"";
-    position:absolute; inset:0;
-    background:
-      repeating-linear-gradient(0deg, rgba(255,255,255,.02) 0px, rgba(255,255,255,.02) 1px, transparent 1px, transparent 3px);
-    pointer-events:none;
-  }
-  .hero-tag{
-    display:inline-flex; align-items:center; gap:6px;
-    font-family:'Rajdhani',sans-serif; font-weight:700; font-size:13px;
-    letter-spacing:.12em; color:var(--brand);
-    border:1px solid var(--brand); padding:3px 10px;
-  }
-  .hero h1{
-    font-family:'Rajdhani',sans-serif; font-weight:700;
-    font-size:34px; line-height:1.08;
-    margin:16px 0 10px;
-    letter-spacing:.01em;
-  }
-  .hero p{color:var(--muted); font-size:14.5px; line-height:1.55; max-width:52ch;}
-  .hero-meta{
-    display:flex; gap:16px; margin-top:16px;
-    font-family:'JetBrains Mono',monospace; font-size:11px; color:var(--muted);
-  }
-  .hero-meta b{color:var(--cyan);}
-
-  /* ===== Section headers ===== */
-  .section-head{
-    display:flex; align-items:center; gap:10px;
-    margin:38px 0 14px;
-  }
-  .section-head .num{
-    font-family:'JetBrains Mono',monospace; font-size:11px; color:var(--muted);
-  }
-  .section-head h2{
-    font-family:'Rajdhani',sans-serif; font-weight:700; font-size:18px;
-    letter-spacing:.06em; text-transform:uppercase;
-  }
-  .section-head .rule{flex:1; height:1px; background:var(--line);}
-
-  /* ===== News grid ===== */
-  .grid{display:flex; flex-direction:column; gap:12px;}
-  .card{
-    position:relative;
-    background:var(--surface);
-    border:1px solid var(--line);
-    padding:16px 16px 16px 18px;
-    transition:transform .15s ease, border-color .15s ease;
-  }
-  .card:active, .card:hover{
-    transform:translateY(-2px);
-    border-color:var(--card-color, var(--cyan));
-  }
-  .card::before{
-    content:"";
-    position:absolute; left:0; top:0; bottom:0; width:3px;
-    background:var(--card-color, var(--cyan));
-  }
-  .card-meta{
-    display:flex; align-items:center; gap:8px;
-    font-family:'JetBrains Mono',monospace; font-size:10.5px;
-    color:var(--card-color, var(--cyan));
-    letter-spacing:.06em; margin-bottom:8px;
-  }
-  .card-meta .dot{opacity:.4; color:var(--muted);}
-  .card h3{
-    font-family:'Rajdhani',sans-serif; font-weight:600; font-size:19px;
-    line-height:1.25; margin-bottom:6px;
-  }
-  .card p{color:var(--muted); font-size:13.5px; line-height:1.5;}
-
-  /* ===== Scoreboard (esports) ===== */
-  .scoreboard{
-    background:var(--surface);
-    border:1px solid var(--cyan-dim);
-    padding:18px;
-  }
-  .scoreboard-head{
-    display:flex; justify-content:space-between; align-items:center;
-    margin-bottom:14px;
-  }
-  .scoreboard-head h3{font-family:'Rajdhani',sans-serif; font-weight:700; font-size:18px;}
-  .live-pill{
-    display:flex; align-items:center; gap:6px;
-    font-family:'JetBrains Mono',monospace; font-size:10px;
-    color:var(--brand); border:1px solid var(--brand); padding:3px 8px;
-  }
-  .stat-row{display:flex; gap:10px; margin-bottom:14px;}
-  .stat{
-    flex:1; background:var(--bg-soft); border:1px solid var(--line);
-    text-align:center; padding:10px 4px;
-  }
-  .stat .v{font-family:'Rajdhani',sans-serif; font-weight:700; font-size:22px; color:var(--cyan);}
-  .stat .l{font-family:'JetBrains Mono',monospace; font-size:9.5px; color:var(--muted); letter-spacing:.08em; margin-top:2px;}
-  .chat{
-    background:var(--bg-soft); border:1px solid var(--line);
-    padding:12px; font-family:'JetBrains Mono',monospace; font-size:12px;
-    line-height:1.9; color:var(--muted);
-  }
-  .chat b{color:var(--cyan);}
-
-  /* ===== Launch table ===== */
-  .table-wrap{
-    background:var(--surface); border:1px solid var(--amber-dim);
-    overflow:hidden;
-  }
-  table{width:100%; border-collapse:collapse;}
-  th{
-    text-align:left; font-family:'JetBrains Mono',monospace; font-size:10px;
-    color:var(--amber); letter-spacing:.1em; text-transform:uppercase;
-    padding:12px 12px 10px; border-bottom:1px solid var(--line);
-  }
-  td{
-    padding:12px; font-size:13.5px; border-bottom:1px solid var(--line);
-    font-family:'Inter',sans-serif;
-  }
-  tr:last-child td{border-bottom:none;}
-  td.game{font-weight:600; color:var(--text);}
-  td.req{color:var(--muted); font-family:'JetBrains Mono',monospace; font-size:11.5px;}
-
-  footer{
-    margin-top:50px; padding-top:20px; border-top:1px solid var(--line);
-    display:flex; justify-content:space-between; align-items:center;
-    font-family:'JetBrains Mono',monospace; font-size:10.5px; color:var(--muted);
-  }
-
-  /* ===== Animations ===== */
-
-  /* Hero: signal "tunes in" on load, like a broadcast locking on */
-  .hero{
-    animation:tune-in .7s cubic-bezier(.2,.8,.2,1) both;
-  }
-  @keyframes tune-in{
-    0%{opacity:0; transform:translateY(10px); filter:blur(6px); clip-path:inset(0 0 60% 0);}
-    45%{opacity:1; filter:blur(0); clip-path:inset(0 0 0 0);}
-    50%{clip-path:inset(0 0 0 0); transform:translateY(0);}
-    52%{opacity:.7; transform:translateX(-3px);}
-    54%{opacity:1; transform:translateX(2px);}
-    56%{transform:translateX(0);}
-    100%{opacity:1; transform:translateY(0); filter:blur(0);}
-  }
-  .hero-tag{animation:tag-flicker 2.6s ease-in-out .8s infinite;}
-  @keyframes tag-flicker{
-    0%,100%{opacity:1;}
-    92%{opacity:1;}
-    94%{opacity:.35;}
-    96%{opacity:1;}
-  }
-
-  /* Reveal-on-scroll for cards / sections */
-  .reveal{
-    opacity:0; transform:translateY(16px);
-    transition:opacity .5s ease, transform .5s ease;
-  }
-  .reveal.is-visible{opacity:1; transform:translateY(0);}
-  .grid .reveal:nth-child(1){transition-delay:.05s;}
-  .grid .reveal:nth-child(2){transition-delay:.15s;}
-  .grid .reveal:nth-child(3){transition-delay:.25s;}
-  .grid .reveal:nth-child(4){transition-delay:.35s;}
-
-  /* Card hover: lift + border glow (glow strength via card-color) */
-  .card{
-    box-shadow:0 0 0 0 transparent;
-    transition:transform .18s ease, border-color .18s ease, box-shadow .18s ease;
-  }
-  .card:hover, .card:active{
-    box-shadow:0 8px 24px -12px var(--card-color, var(--cyan));
-  }
-
-  /* Live dot ping ring (extra layer for the header/scoreboard indicators) */
-  .live-dot{position:relative;}
-  .live-dot::after{
-    content:"";
-    position:absolute; inset:-5px;
-    border:1px solid var(--brand);
-    border-radius:50%;
-    animation:ping 1.6s cubic-bezier(0,.6,.6,1) infinite;
-  }
-  @keyframes ping{
-    0%{transform:scale(.6); opacity:.9;}
-    100%{transform:scale(1.8); opacity:0;}
-  }
-
-  /* Scoreboard stat pop when counted up */
-  .stat .v{transition:color .2s ease;}
-  .stat.counting .v{color:var(--brand);}
-
-  /* Ticker label subtle glow pulse to match the live theme */
-  .ticker-label{animation:label-glow 2.4s ease-in-out infinite;}
-  @keyframes label-glow{
-    0%,100%{box-shadow:0 0 0 rgba(255,59,124,0);}
-    50%{box-shadow:0 0 14px rgba(255,59,124,.55);}
-  }
-
-  @media (prefers-reduced-motion: reduce){
-    *{animation-duration:.001ms !important; animation-iteration-count:1 !important; transition-duration:.001ms !important;}
-    .reveal{opacity:1; transform:none;}
+  @media (max-width:420px){
+    .card{flex-wrap:wrap;}
+    .card-actions{flex-direction:row; width:100%;}
+    .btn{flex:1;}
   }
 </style>
 </head>
 <body>
+<div class="wrap">
+  <p class="eyebrow">চিঠির বাক্স</p>
+  <h1>পছন্দের স্টাইলটা বেছে নাও</h1>
+  <p class="lead">নিচের যেকোনো একটা টেমপ্লেট বেছে নিয়ে "লিংক কপি করো"-তে চাপ দাও, তারপর সেই লিংকটাই তোমার প্রিয় মানুষকে পাঠিয়ে দাও।</p>
 
-<div class="topbar">
-  <div class="logo"><span>GAME</span><span>WIRE</span></div>
-  <div class="clock"><span class="live-dot"></span><span id="clockText" class="mono">--:--:--</span></div>
+  <div class="list" id="list">
+    <div class="card" data-file="locket.html">
+      <div class="swatch">🔒</div>
+      <div class="card-body">
+        <p class="card-title">লকেট চিঠি</p>
+        <p class="card-desc">৫টা হৃদয় ছুঁয়ে লকেট খুলতে হবে, ভেতরে লুকানো চিঠি।</p>
+      </div>
+      <div class="card-actions">
+        <button class="btn copy-btn" type="button">লিংক কপি করো</button>
+        <a class="btn-view" href="locket.html" target="_blank" rel="noopener">প্রিভিউ দেখো</a>
+      </div>
+    </div>
+
+    <!-- নতুন টেমপ্লেট যোগ করতে চাইলে এখানে আরেকটা .card বসাও, data-file-এ ফাইলের নাম দাও -->
+  </div>
+
+  <p class="foot">নিজের নাম/মেসেজ জুড়ে দিতে চাইলে লিংকের শেষে <code>?to=নাম&amp;msg=তোমার+লেখা</code> যোগ করো</p>
 </div>
-
-<div class="ticker-wrap">
-  <div class="ticker-label">LIVE</div>
-  <div class="ticker-track" id="tickerTrack"></div>
-</div>
-
-<main>
-  <!-- ===== HERO: distinct top-news treatment ===== -->
-  <section class="hero" id="heroSection"></section>
-
-  <!-- ===== Other news ===== -->
-  <div class="section-head">
-    <span class="num mono">02</span>
-    <h2>Latest</h2>
-    <div class="rule"></div>
-  </div>
-  <div class="grid" id="newsGrid"></div>
-
-  <!-- ===== Esports scoreboard ===== -->
-  <div class="section-head">
-    <span class="num mono">03</span>
-    <h2>Esports Arena</h2>
-    <div class="rule"></div>
-  </div>
-  <div class="scoreboard reveal" id="scoreboardSection">
-    <div class="scoreboard-head">
-      <h3>SEN vs LOUD — Map 3</h3>
-      <div class="live-pill"><span class="live-dot"></span>LIVE</div>
-    </div>
-    <div class="stat-row">
-      <div class="stat"><div class="v" data-target="142">0</div><div class="l">KILLS</div></div>
-      <div class="stat"><div class="v" data-target="2">0</div><div class="l">MAPS WON</div></div>
-      <div class="stat"><div class="v" data-target="3">0</div><div class="l">MVPS</div></div>
-    </div>
-    <div class="chat">
-      <div><b>User123:</b> let's go SEN!</div>
-      <div><b>ProGamer:</b> insane play by TenZ</div>
-      <div><b>Bot_Zero:</b> GGWP everyone</div>
-    </div>
-  </div>
-
-  <!-- ===== Launch table ===== -->
-  <div class="section-head">
-    <span class="num mono">04</span>
-    <h2>Upcoming Launches</h2>
-    <div class="rule"></div>
-  </div>
-  <div class="table-wrap reveal">
-    <table>
-      <thead><tr><th>Game</th><th>Platform</th><th>Reqs</th></tr></thead>
-      <tbody id="launchBody"></tbody>
-    </table>
-  </div>
-
-  <footer>
-    <span>GAME WIRE © 2026</span>
-    <span id="footerDate" class="mono"></span>
-  </footer>
-</main>
 
 <script>
-/* ============================================================
-   EDIT ZONE — add / change news items here. Everything below
-   this array is generated automatically.
-   ============================================================ */
-const TOP_NEWS = {
-  tag: "BREAKING",
-  title: "GTA 6 Trailer Breaks 200M Views in 24 Hours",
-  body: "Rockstar confirms the 2026 launch window as the reveal trailer shatters every prior record for a single-day view count across platforms.",
-  time: "2 min ago",
-  category: "GTA 6"
-};
-
-const NEWS = [
-  {
-    category: "VALORANT",
-    color: "var(--cyan)",
-    title: "New Valorant Agent Teased for Next Season",
-    body: "A controller-class agent with gravity-bending abilities is set to reshape map control in competitive play.",
-    time: "18 min ago"
-  },
-  {
-    category: "CYBERPUNK",
-    color: "var(--violet)",
-    title: "Cyberpunk Expansion: \"Phantom City\" DLC",
-    body: "A full redesign of Night City's districts arrives this winter, alongside a rebalanced skill tree.",
-    time: "41 min ago"
-  },
-  {
-    category: "UPDATE",
-    color: "var(--amber)",
-    title: "Fortnite Chapter Update Adds New Biome",
-    body: "A snow-covered zone brings fresh loot pools and a limited-time mode to the island.",
-    time: "1 hr ago"
-  }
-];
-
-const LAUNCHES = [
-  { game: "Cyberpunk 2078", platform: "PC / PS5", req: "RTX 5090" },
-  { game: "Final Fantasy XVII", platform: "PS5 / Xbox", req: "SSD Required" },
-  { game: "Star Citizen (Launch)", platform: "PC", req: "High End" }
-];
-/* ============================================================ */
-
-// --- Render hero ---
-document.getElementById('heroSection').innerHTML = `
-  <a href="gta6.html" style="text-decoration:none; color:inherit; display:block;">
-    <span class="hero-tag">${TOP_NEWS.tag}</span>
-    <h1 class="display">${TOP_NEWS.title}</h1>
-    <p>${TOP_NEWS.body}</p>
-    <div class="hero-meta">
-      <span><b>${TOP_NEWS.category}</b></span>
-      <span>${TOP_NEWS.time}</span>
-    </div>
-  </a>
-`;
-
-// --- Render news grid ---
-const grid = document.getElementById('newsGrid');
-const newsLinks = ["valorant-agent.html", "cyberpunk-dlc.html", "fortnite-update.html"];
-NEWS.forEach((n, index) => {
-  const card = document.createElement('a');
-  card.href = newsLinks[index];
-  card.className = 'card reveal';
-  card.style.setProperty('--card-color', n.color);
-  card.style.textDecoration = 'none';
-  card.style.color = 'inherit';
-  card.style.display = 'block';
-  card.innerHTML = `
-    <div class="card-meta"><span>${n.category}</span><span class="dot">•</span><span>${n.time}</span></div>
-    <h3>${n.title}</h3>
-    <p>${n.body}</p>
-  `;
-  grid.appendChild(card);
-});
-
-// --- Render launch table ---
-const tbody = document.getElementById('launchBody');
-LAUNCHES.forEach(l => {
-  const row = document.createElement('tr');
-  row.innerHTML = `<td class="game">${l.game}</td><td>${l.platform}</td><td class="req">${l.req}</td>`;
-  tbody.appendChild(row);
-});
-
-// --- Render ticker (top news + all news headlines, duplicated for seamless loop) ---
-const headlines = [TOP_NEWS.title, ...NEWS.map(n => n.title)];
-const tickerHTML = headlines.map(h => `<span><b>▶</b> ${h}</span>`).join('');
-document.getElementById('tickerTrack').innerHTML = tickerHTML + tickerHTML;
-
-// --- Live clock ---
-function updateClock(){
-  const now = new Date();
-  document.getElementById('clockText').textContent = now.toLocaleTimeString('en-GB');
-  document.getElementById('footerDate').textContent = now.toLocaleDateString('en-GB');
-}
-updateClock();
-setInterval(updateClock, 1000);
-
-// --- Reveal-on-scroll + stat count-up ---
-const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-
-function countUp(el){
-  const target = parseInt(el.dataset.target, 10);
-  const stat = el.closest('.stat');
-  stat.classList.add('counting');
-  if (reduceMotion){ el.textContent = target; return; }
-  const duration = 700;
-  const start = performance.now();
-  function tick(now){
-    const p = Math.min((now - start) / duration, 1);
-    const eased = 1 - Math.pow(1 - p, 3);
-    el.textContent = Math.round(eased * target);
-    if (p < 1) requestAnimationFrame(tick);
-    else setTimeout(() => stat.classList.remove('counting'), 200);
-  }
-  requestAnimationFrame(tick);
-}
-
-const revealObserver = new IntersectionObserver((entries) => {
-  entries.forEach(entry => {
-    if (entry.isIntersecting){
-      entry.target.classList.add('is-visible');
-      if (entry.target.id === 'scoreboardSection'){
-        entry.target.querySelectorAll('.stat .v').forEach(countUp);
+  document.querySelectorAll('.copy-btn').forEach(btn => {
+    btn.addEventListener('click', async () => {
+      const card = btn.closest('.card');
+      const file = card.getAttribute('data-file');
+      const url = window.location.origin + window.location.pathname.replace(/index\.html$/, '') + file;
+      try{
+        await navigator.clipboard.writeText(url);
+      }catch(e){
+        // fallback for older browsers
+        const ta = document.createElement('textarea');
+        ta.value = url;
+        document.body.appendChild(ta);
+        ta.select();
+        document.execCommand('copy');
+        document.body.removeChild(ta);
       }
-      revealObserver.unobserve(entry.target);
-    }
+      const original = btn.textContent;
+      btn.textContent = 'কপি হয়েছে ✓';
+      btn.classList.add('copied');
+      setTimeout(() => {
+        btn.textContent = original;
+        btn.classList.remove('copied');
+      }, 1800);
+    });
   });
-}, { threshold: 0.15 });
-
-document.querySelectorAll('.reveal').forEach(el => revealObserver.observe(el));
 </script>
 </body>
 </html>
