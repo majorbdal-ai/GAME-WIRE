@@ -20,7 +20,7 @@
     </section>
 
     <main class="content-grid">
-        <div class="card card-trending" onclick="openModal('Gaming News Item 1')">
+        <div class="card card-trending" onclick="openModal('news')">
             <span class="badge">Trending</span>
             <h2>Top Gaming News</h2>
             <ul class="sub-list">
@@ -28,7 +28,7 @@
                 <li>• New Valorant Agent leaked</li>
             </ul>
         </div>
-        <div class="card card-esports" onclick="openModal('Esports Score')">
+        <div class="card card-esports" onclick="openModal('esports')">
             <span class="badge live">Live Score</span>
             <h2>Esports Arena</h2>
             <div class="live-score">
@@ -36,7 +36,7 @@
             </div>
             <p>Score: 2 - 1 | 48,203 spectators</p>
         </div>
-        <div class="card card-releases" onclick="openModal('Game Release')">
+        <div class="card card-releases" onclick="openModal('launches')">
             <span class="badge">Releases</span>
             <h2>Game Launches</h2>
             <p>Prepare for upcoming major releases.</p>
@@ -44,10 +44,10 @@
         </div>
     </main>
 
-    <div id="news-modal" class="modal">
-        <div class="modal-content">
-            <h2 id="modal-title"></h2>
-            <button onclick="closeModal()">Close</button>
+    <div id="modal-overlay" class="modal">
+        <div class="modal-window">
+            <button class="close-btn" onclick="closeModal()">[ CLOSE ]</button>
+            <div id="modal-body"></div>
         </div>
     </div>
 
