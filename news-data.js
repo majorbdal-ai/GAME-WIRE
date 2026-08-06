@@ -1,12 +1,12 @@
 const NEWS_ALL = [
   {
     tag: "BREAKING",
-    category: "FIGHTER",
+    category: "CONSOLE",
     color: "var(--brand)",
-    title: "Marvel Tokon: Fighting Souls Officially Launches Today",
-    body: "The highly anticipated anime-style fighter 'Marvel Tokon: Fighting Souls' drops today on PS5 and PC, featuring an explosive roster, smooth rollback netcode, and tactical tag-team mechanics.",
+    title: "Xbox Announces Major Restructuring Today",
+    body: "Microsoft's gaming division undergoes a significant strategic shift today, August 6, 2026, focusing on cloud integration and cross-platform ecosystem expansion.",
     time: "just now",
-    link: "#"
+    link: "xbox-restructuring.html"
   },
   {
     tag: "MAJOR",
