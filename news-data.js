@@ -4,17 +4,17 @@ const NEWS_ALL = [
     category: "CONSOLE",
     color: "var(--brand)",
     title: "Xbox Announces Major Restructuring Today",
-    body: "Microsoft's gaming division undergoes a significant strategic shift today, August 6, 2026, focusing on cloud integration and cross-platform ecosystem expansion.",
+    body: "Microsoft's gaming division undergoes a significant strategic shift today, August 7, 2026, focusing on cloud integration and cross-platform ecosystem expansion.",
     time: "just now",
     link: "xbox-restructuring.html"
   },
   {
     tag: "MAJOR",
-    category: "CONSOLE",
-    color: "var(--brand)",
-    title: "PlayStation 5 Pro Details Finally Revealed",
-    body: "Sony officially announces specs for the PS5 Pro today, August 6, 2026, promising 4K gaming at 120FPS for titles like GTA 6.",
-    time: "2 hr ago",
+    category: "TECH",
+    color: "var(--cyan)",
+    title: "Global Cloud Gaming Standards Set by Tech Giants",
+    body: "A coalition of gaming giants officially ratified global low-latency standards today, August 7, 2026, targeting sub-10ms cloud responsiveness.",
+    time: "1 hr ago",
     link: "#"
   },
   {
@@ -37,12 +37,12 @@ const NEWS_ALL = [
   },
   {
     tag: "TRENDING",
-    category: "CONSOLE",
-    color: "var(--brand)",
-    title: "Nintendo Switch 2 & Elden Ring Craze",
-    body: "August 2026 is stacked with the launch of Elden Ring: Tarnished Edition on Nintendo Switch 2, breaking the usual summer drought.",
+    category: "PC",
+    color: "var(--cyan)",
+    title: "New Nvidia Driver Fixes Frame Spikes in Latest RPG Releases",
+    body: "Game Ready Driver 560.81 is available today, August 7, 2026, optimizing performance for major upcoming August PC titles.",
     time: "10 hr ago",
-    link: "nintendo-switch-2.html"
+    link: "#"
   },
   {
     tag: "UPDATE",
