@@ -71,6 +71,25 @@
     100%{box-shadow:0 0 0 0 rgba(255,59,124,0);}
   }
 
+  /* ===== Section Nav ===== */
+  .sitenav{
+    display:flex; gap:4px; overflow-x:auto;
+    padding:10px 18px;
+    border-bottom:1px solid var(--line);
+    background:var(--bg-soft);
+  }
+  .sitenav a{
+    flex:0 0 auto;
+    font-family:'Rajdhani',sans-serif; font-weight:600; font-size:13px;
+    letter-spacing:.04em; text-transform:uppercase;
+    color:var(--muted); text-decoration:none;
+    padding:6px 12px; border-radius:2px;
+    border:1px solid transparent;
+    transition:color .15s ease, border-color .15s ease;
+  }
+  .sitenav a:hover{color:var(--text); border-color:var(--line);}
+  .sitenav a.active{color:var(--brand); border-color:var(--brand-dim); background:var(--brand-dim);}
+
   /* ===== Ticker ===== */
   .ticker-wrap{
     border-bottom:1px solid var(--line);
@@ -337,17 +356,24 @@
   <div class="clock"><span class="live-dot"></span><span id="clockText" class="mono">--:--:--</span></div>
 </div>
 
+<nav class="sitenav">
+  <a href="index.html" class="active">Home</a>
+  <a href="gaming.html">Gaming</a>
+  <a href="tech.html">Tech &amp; Hacking</a>
+  <a href="archive.html">Archive</a>
+</nav>
+
 <div class="ticker-wrap">
   <div class="ticker-label">LIVE</div>
   <div class="ticker-track" id="tickerTrack"></div>
 </div>
 
 <main>
-  <!-- ===== HERO: distinct top-news treatment ===== -->
+  <!-- ===== HERO: distinct top-news treatment (filled by script from NEWS_ALL) ===== -->
   <section class="hero" id="heroSection">
-    <span class="hero-tag">BREAKING</span>
-    <h1 class="display">Marvel Tōkon: Fighting Souls Officially Launches Today</h1>
-    <p>Arc System Works' highly anticipated 4v4 tag-team fighter 'Marvel Tōkon: Fighting Souls' officially releases today on PC and PS5, featuring a gorgeous 20-hero roster and seamless rollback netcode.</p>
+    <span class="hero-tag" id="heroTag">BREAKING</span>
+    <h1 class="display" id="heroTitle"></h1>
+    <p id="heroBody"></p>
   </section>
 
   <!-- ===== Other news ===== -->
@@ -356,18 +382,7 @@
     <h2>Latest</h2>
     <div class="rule"></div>
   </div>
-  <div class="grid" id="newsGrid">
-    <div class="card reveal" style="--card-color: var(--cyan);">
-        <div class="card-meta"><span>CONSOLE</span><span class="dot">•</span><span>just now</span></div>
-        <h3>Gears of War: E-Day Open Beta Kicks Off on Game Pass</h3>
-        <p>The Early Access Open Beta for Gears of War: E-Day goes live today, allowing Game Pass Ultimate and PC members to jump into the Marcus Fenix origin story with advanced DLSS features.</p>
-    </div>
-    <div class="card reveal" style="--card-color: var(--amber);">
-        <div class="card-meta"><span>TECH</span><span class="dot">•</span><span>just now</span></div>
-        <h3>Quakecon 2026 Begins Its Massive 30th Anniversary LAN Party</h3>
-        <p>Celebrating three decades of competitive arena shooters, Quakecon 2026 officially kicks off today with a massive community LAN event, bringing together thousands of classic and modern FPS fans.</p>
-    </div>
-  </div>
+  <div class="grid" id="newsGrid"></div>
   <div class="load-more-wrap">
     <a class="load-more-btn" href="archive.html">
       <span>Search Older News</span>
@@ -401,12 +416,7 @@
   <div class="table-wrap reveal">
     <table>
       <thead><tr><th>Game</th><th>Platform</th><th>Reqs</th></tr></thead>
-      <tbody>
-        <tr><td class="game">Marvel Tōkon: Fighting Souls</td><td>PS5, PC</td><td class="req">August 6, 2026</td></tr>
-        <tr><td class="game">The Sinking City 2</td><td>PC, PS5, Xbox Series X/S</td><td class="req">August 18, 2026</td></tr>
-        <tr><td class="game">Metal Gear Solid: Master Collection Vol. 2</td><td>PC, PS5, Switch 2</td><td class="req">August 27, 2026</td></tr>
-        <tr><td class="game">Resonance: A Plague Tale Legacy</td><td>PC, Xbox Series X/S, PS5</td><td class="req">August 27, 2026</td></tr>
-      </tbody>
+      <tbody id="launchesBody"></tbody>
     </table>
   </div>
 
@@ -418,6 +428,54 @@
 
 <script src="news-data.js"></script>
 <script>
+// --- Filter to this page's section: Home shows the "gaming" feed ---
+const gamingNews = NEWS_ALL.filter(n => n.section === 'gaming');
+
+// --- Render hero (গেমিং ফিডের প্রথম আইটেম) ---
+const heroItem = gamingNews[0];
+if (heroItem){
+  document.getElementById('heroTag').textContent = heroItem.tag || heroItem.category;
+  document.getElementById('heroTitle').textContent = heroItem.title;
+  document.getElementById('heroBody').textContent = heroItem.body;
+  document.getElementById('heroSection').onclick = () => {
+    if (heroItem.link && heroItem.link !== '#') window.location.href = heroItem.link;
+  };
+  if (heroItem.link && heroItem.link !== '#') document.getElementById('heroSection').style.cursor = 'pointer';
+}
+
+// --- Render ticker (সব সেকশনের সাম্প্রতিক শিরোনাম) ---
+const tickerTrack = document.getElementById('tickerTrack');
+const tickerItems = NEWS_ALL.slice(0, 10);
+const tickerHtml = tickerItems.map(n => `<span><b>${n.category}</b> — ${n.title}</span>`).join('');
+tickerTrack.innerHTML = tickerHtml + tickerHtml; // duplicate for seamless scroll
+
+// --- Render news grid: hero বাদে গেমিং ফিডের পরের PAGE_SIZE-টা খবর ---
+const restNews = gamingNews.slice(1, 1 + PAGE_SIZE);
+const grid = document.getElementById('newsGrid');
+restNews.forEach(n => {
+  const card = document.createElement('a');
+  card.href = n.link || '#';
+  card.className = 'card reveal';
+  card.style.setProperty('--card-color', n.color || 'var(--cyan)');
+  card.style.textDecoration = 'none';
+  card.style.color = 'inherit';
+  card.style.display = 'block';
+  card.innerHTML = `
+    <div class="card-meta"><span>${n.category}</span><span class="dot">•</span><span>${n.time}</span></div>
+    <h3>${n.title}</h3>
+    <p>${n.body}</p>
+  `;
+  grid.appendChild(card);
+});
+
+// --- Render launches table ---
+const launchesBody = document.getElementById('launchesBody');
+LAUNCHES.forEach(l => {
+  const tr = document.createElement('tr');
+  tr.innerHTML = `<td class="game">${l.game}</td><td>${l.platform}</td><td class="req">${l.req}</td>`;
+  launchesBody.appendChild(tr);
+});
+
 // --- Live clock ---
 function updateClock(){
   const now = new Date();
