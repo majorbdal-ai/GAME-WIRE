@@ -344,7 +344,11 @@
 
 <main>
   <!-- ===== HERO: distinct top-news treatment ===== -->
-  <section class="hero" id="heroSection"></section>
+  <section class="hero" id="heroSection">
+    <span class="hero-tag">BREAKING</span>
+    <h1 class="display">Marvel Tōkon: Fighting Souls Officially Launches Today</h1>
+    <p>Arc System Works' highly anticipated 4v4 tag-team fighter 'Marvel Tōkon: Fighting Souls' officially releases today on PC and PS5, featuring a gorgeous 20-hero roster and seamless rollback netcode.</p>
+  </section>
 
   <!-- ===== Other news ===== -->
   <div class="section-head">
@@ -352,7 +356,18 @@
     <h2>Latest</h2>
     <div class="rule"></div>
   </div>
-  <div class="grid" id="newsGrid"></div>
+  <div class="grid" id="newsGrid">
+    <div class="card reveal" style="--card-color: var(--cyan);">
+        <div class="card-meta"><span>CONSOLE</span><span class="dot">•</span><span>just now</span></div>
+        <h3>Gears of War: E-Day Open Beta Kicks Off on Game Pass</h3>
+        <p>The Early Access Open Beta for Gears of War: E-Day goes live today, allowing Game Pass Ultimate and PC members to jump into the Marcus Fenix origin story with advanced DLSS features.</p>
+    </div>
+    <div class="card reveal" style="--card-color: var(--amber);">
+        <div class="card-meta"><span>TECH</span><span class="dot">•</span><span>just now</span></div>
+        <h3>Quakecon 2026 Begins Its Massive 30th Anniversary LAN Party</h3>
+        <p>Celebrating three decades of competitive arena shooters, Quakecon 2026 officially kicks off today with a massive community LAN event, bringing together thousands of classic and modern FPS fans.</p>
+    </div>
+  </div>
   <div class="load-more-wrap">
     <a class="load-more-btn" href="archive.html">
       <span>Search Older News</span>
@@ -367,18 +382,13 @@
   </div>
   <div class="scoreboard reveal" id="scoreboardSection">
     <div class="scoreboard-head">
-      <h3>SEN vs LOUD — Map 3</h3>
+      <h3>PUBG Mobile World Cup (PMWC 2026)</h3>
       <div class="live-pill"><span class="live-dot"></span>LIVE</div>
     </div>
-    <div class="stat-row">
-      <div class="stat"><div class="v" data-target="142">0</div><div class="l">KILLS</div></div>
-      <div class="stat"><div class="v" data-target="2">0</div><div class="l">MAPS WON</div></div>
-      <div class="stat"><div class="v" data-target="3">0</div><div class="l">MVPS</div></div>
-    </div>
+    <p style="margin-bottom:14px; color:var(--muted); font-size:14px;">The $3,000,000 World Cup officially kicks off today in Paris! 32 elite squads are dropping in for Day 1 Group Stages.</p>
     <div class="chat">
-      <div><b>Fan_Vandal:</b> What a crazy series!</div>
-      <div><b>Esports_Tracker:</b> GG Sentinels take the trophy!</div>
-      <div><b>Bot_Zero:</b> GGWP everyone</div>
+      <div><b>EWC_Fan:</b> Paris Expo is packed, let's go!</div>
+      <div><b>PUBG_Tracker:</b> KRX and G2 looking absolutely dangerous today!</div>
     </div>
   </div>
 
@@ -391,7 +401,12 @@
   <div class="table-wrap reveal">
     <table>
       <thead><tr><th>Game</th><th>Platform</th><th>Reqs</th></tr></thead>
-      <tbody id="launchBody"></tbody>
+      <tbody>
+        <tr><td class="game">Marvel Tōkon: Fighting Souls</td><td>PS5, PC</td><td class="req">August 6, 2026</td></tr>
+        <tr><td class="game">The Sinking City 2</td><td>PC, PS5, Xbox Series X/S</td><td class="req">August 18, 2026</td></tr>
+        <tr><td class="game">Metal Gear Solid: Master Collection Vol. 2</td><td>PC, PS5, Switch 2</td><td class="req">August 27, 2026</td></tr>
+        <tr><td class="game">Resonance: A Plague Tale Legacy</td><td>PC, Xbox Series X/S, PS5</td><td class="req">August 27, 2026</td></tr>
+      </tbody>
     </table>
   </div>
 
@@ -403,36 +418,6 @@
 
 <script src="news-data.js"></script>
 <script>
-// NEWS_ALL, LAUNCHES ও PAGE_SIZE এখন news-data.js ফাইলে আছে —
-// নতুন খবর যোগ করতে হলে সেই ফাইলটাই এডিট করুন।
-
-// --- Render hero (তালিকার প্রথম আইটেম) ---
-const heroNews = NEWS_ALL[0];
-document.getElementById('heroSection').innerHTML = `
-  <a href="${heroNews.link || '#'}" style="text-decoration:none; color:inherit; display:block;">
-    <span class="hero-tag">${heroNews.tag || 'BREAKING'}</span>
-    <h1 class="display">${heroNews.title}</h1>
-    <p>${heroNews.body}</p>
-    <div class="hero-meta">
-      <span><b>${heroNews.category}</b></span>
-      <span>${heroNews.time}</span>
-    </div>
-  </a>
-`;
-
-// --- Render launch table ---
-const tbody = document.getElementById('launchBody');
-LAUNCHES.forEach(l => {
-  const row = document.createElement('tr');
-  row.innerHTML = `<td class="game">${l.game}</td><td>${l.platform}</td><td class="req">${l.req}</td>`;
-  tbody.appendChild(row);
-});
-
-// --- Render ticker (সাম্প্রতিক কয়েকটা খবর, seamless loop-এর জন্য ডুপ্লিকেট) ---
-const tickerNews = NEWS_ALL.slice(0, 10); // ticker-কে বেশি লম্বা না করার জন্য সীমা
-const tickerHTML = tickerNews.map(n => `<span><b>▶</b> ${n.title}</span>`).join('');
-document.getElementById('tickerTrack').innerHTML = tickerHTML + tickerHTML;
-
 // --- Live clock ---
 function updateClock(){
   const now = new Date();
@@ -444,60 +429,16 @@ setInterval(updateClock, 1000);
 
 // --- Reveal-on-scroll + stat count-up ---
 const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-
-function countUp(el){
-  const target = parseInt(el.dataset.target, 10);
-  const stat = el.closest('.stat');
-  stat.classList.add('counting');
-  if (reduceMotion){ el.textContent = target; return; }
-  const duration = 700;
-  const start = performance.now();
-  function tick(now){
-    const p = Math.min((now - start) / duration, 1);
-    const eased = 1 - Math.pow(1 - p, 3);
-    el.textContent = Math.round(eased * target);
-    if (p < 1) requestAnimationFrame(tick);
-    else setTimeout(() => stat.classList.remove('counting'), 200);
-  }
-  requestAnimationFrame(tick);
-}
-
 const revealObserver = new IntersectionObserver((entries) => {
   entries.forEach(entry => {
     if (entry.isIntersecting){
       entry.target.classList.add('is-visible');
-      if (entry.target.id === 'scoreboardSection'){
-        entry.target.querySelectorAll('.stat .v').forEach(countUp);
-      }
       revealObserver.unobserve(entry.target);
     }
   });
 }, { threshold: 0.15 });
 
 document.querySelectorAll('.reveal').forEach(el => revealObserver.observe(el));
-
-// --- Render news grid: hero বাদে সবচেয়ে নতুন PAGE_SIZE-টা খবর দেখায়। ---
-// এর বাইরের পুরনো খবর হোমপেজে লিস্ট হয় না, শুধু archive.html-এ সার্চ করলে পাওয়া যাবে।
-const restNews = NEWS_ALL.slice(1, 1 + PAGE_SIZE);
-const grid = document.getElementById('newsGrid');
-
-restNews.forEach(n => {
-  const card = document.createElement('a');
-  card.href = n.link || '#';
-  card.className = 'card reveal';
-  card.style.setProperty('--card-color', n.color || 'var(--cyan)');
-  card.style.textDecoration = 'none';
-  card.style.color = 'inherit';
-  card.style.display = 'block';
-  card.innerHTML = `
-    <div class="card-meta"><span>${n.category}</span><span class="dot">•</span><span>${n.time}</span></div>
-    <h3>${n.title}</h3>
-    <p>${n.body}</p>
-  `;
-  grid.appendChild(card);
-  revealObserver.observe(card);
-  requestAnimationFrame(() => card.classList.add('is-visible'));
-});
 </script>
 </body>
 </html>
