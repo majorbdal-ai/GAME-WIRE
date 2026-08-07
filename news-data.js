@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Control Resonant: Exclusive Metro Fault Mission Gameplay \u2014 IGN First",
+    body: "Control Resonant is our IGN First for August, and we have a whole new mission of gameplay to kick things off.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Take-Two CEO Strauss Zelnick Won't Rule Out GTA 6 on Disc at Some Point, Insists Decision Had Nothing to Do With Concern Over Leaks",
+    body: "One of the big questions following the shock decision not to release GTA 6 on-disc at launch is whether Rockstar will ever release a disc version of the game. In a new interview with IGN, Strauss Zeln",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
+    body: "A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath.\n\nThe flaw ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory",
+    body: "A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every ma",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Amazon Knocks $10 off Physical Nintendo Switch Sports Resort Preorders",
     body: "Amazon has knocked $10 off Nintendo Switch Sports Resort preorders for Switch 2 again, matching digital pricing ahead of its October launch this year.",
     time: "just now",
