@@ -1,0 +1,36 @@
+name: Auto Sync News
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch latest news and update news-data.js
+        run: python3 auto_update_ci.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "GameWire News Bot"
+          git config user.email "actions@users.noreply.github.com"
+          if git diff --quiet -- news-data.js; then
+            echo "কোনো পরিবর্তন নেই, push করার দরকার নেই।"
+          else
+            git add news-data.js
+            git commit -m "feed(news): auto-sync from RSS"
+            git push
+          fi
