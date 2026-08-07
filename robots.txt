@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://majorbdal-ai.github.io/GAME-WIRE/sitemap.xml
