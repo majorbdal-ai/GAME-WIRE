@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Big Walk Review",
+    body: "A clever co-op puzzle adventure that uses communication like no other.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Doom 2016 Composer Mick Gordon Is Performing the Game's Soundtrack at a Music Festival for the Very First Time",
+    body: "Mick Gordon, the composer of Doom 2016\u2019s award-winning soundtrack, is taking the game\u2019s music on tour for the first time ever \u2014 and he\u2019s bringing the Doom Machine with him.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
+    body: "A recent wave of cyber attacks targeting financial services, private equity, and professional services is attributed to a data extortion group known as UNC6671.\n\n\"UNC6671 continues to rely on voice ph",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory",
+    body: "A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every ma",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Take-Two Boss Predicts Actual Good Video Game Streaming Within 3 Years, Says for Streaming to Matter It Would Have to Run GTA 6 as Well as Consoles",
     body: "The boss of Take-Two has suggested the video game industry will be in \u201ccommercial streaming mode\u201d within three years \u2014 but for video game streaming to matter, it will have to run GTA 6 just as well as",
     time: "just now",
