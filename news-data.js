@@ -57,6 +57,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "HACKING",
     color: "var(--violet)",
+    title: "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
+    body: "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address o",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Control Resonant: Exclusive Metro Fault Mission Gameplay \u2014 IGN First",
+    body: "Control Resonant is our IGN First for August, and we have a whole new mission of gameplay to kick things off.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "'Pricing Has Not Kept Pace With Inflation' \u2014 Take-Two Boss Insists Rockstar Got GTA 6 Standard and Ultimate Edition Price Points Right",
+    body: "The standard edition of GTA 6 costs $80, which represents a $10 increase on the established price of a triple-A console game. That hike raised more than a few eyebrows when Rockstar launched GTA 6 pre",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory",
+    body: "A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every ma",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
     title: "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
     body: "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django.\n\nThe three most serious:\n\n\n  An unauthenti",
     time: "just now",
