@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Marvel Tokon Stumbles to Mixed Steam Reviews as 'Miserable' PC Port Complaints Prompt Response From Arc System Works",
+    body: "Marvel Tokon: Fighting Souls stumbled on Steam with \"Mixed\" user reviews as players complain of PlayStation account requirements, anti-cheat roadblocks, and other technical issues.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Palworld 1.0 Showed Me Why Everyone Loves Survival Games",
+    body: "Palworld 1.0 does a great job of easing you into its many complex systems.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory",
+    body: "A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every ma",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
+    body: "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on inf",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Newly Discovered Demon's Souls Prototype Footage Shows Scrapped First-Person Option",
     body: "Demon's Souls almost had an option to play the game in first-person, as shown in newly discovered footage from a 2007 presentation brought to light by famed Elden Ring dataminer Lance McDonald.",
     time: "just now",
