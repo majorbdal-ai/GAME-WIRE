@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More",
+    body: "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Upcoming PS5 Games: The Future of PlayStation Exclusives",
+    body: "Checking in with the PS5 generation.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory",
+    body: "A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every ma",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
+    body: "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-b",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Control Resonant: Exclusive Metro Fault Mission Gameplay \u2014 IGN First",
     body: "Control Resonant is our IGN First for August, and we have a whole new mission of gameplay to kick things off.",
     time: "just now",
