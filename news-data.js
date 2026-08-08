@@ -47,6 +47,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "HACKING",
     color: "var(--violet)",
+    title: "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
+    body: "Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens",
+    body: "New research shows content inside an email can escape its message boundary and interfere with the webmail interface.\n\nAcross attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail, a",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Control Resonant: Exclusive Metro Fault Mission Gameplay \u2014 IGN First",
+    body: "Control Resonant is our IGN First for August, and we have a whole new mission of gameplay to kick things off.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "'Pricing Has Not Kept Pace With Inflation' \u2014 Take-Two Boss Insists Rockstar Got GTA 6 Standard and Ultimate Edition Price Points Right",
+    body: "The standard edition of GTA 6 costs $80, which represents a $10 increase on the established price of a triple-A console game. That hike raised more than a few eyebrows when Rockstar launched GTA 6 pre",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
     title: "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
     body: "Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day.\n\nThe vulnerability (",
     time: "just now",
