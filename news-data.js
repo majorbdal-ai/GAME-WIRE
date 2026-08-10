@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "'If You're Not a Netflix Subscriber, You Definitely Should Be' \u2014 Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
+    body: "Take-Two Boss Strauss Zelnick discusses Grand Theft Auto VI: An Extended Look Netflix reveal.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "'They Fundamentally Don't Understand Art' \u2014 Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
+    body: "After layoffs ripped through Doom developer id Software in July, lead services programmer Chris Hays has taken aim at Xbox: \"They fundamentally don't understand art.\"",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
+    body: "Cybersecurity researchers have flagged a malicious Microsoft Visual Studio Code (VS Code) extension named Solidity Pro (\"solidity-pro\") that has been observed delivering a browser wallet and credentia",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
+    body: "OpenAI has announced that it's pausing some \"internal activities\" involving its upcoming artificial intelligence (AI) model Astra after an internal evaluation found it had made significant advancement",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More",
     body: "The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More",
     time: "just now",
