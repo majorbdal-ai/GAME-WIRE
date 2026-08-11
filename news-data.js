@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Assassin's Creed Black Flag Resynced Players Only Have a 47% Win Rate Against Legendary Ships",
+    body: "Struggling against the Legendary Ships in Assassin's Creed Black Flag Resynced? Don't worry, you're not alone.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Beloved Terraria Mod Shut Down Following Sexual Misconduct Allegations, Creators Reportedly Turn Down Streamer xQc's Offer to Save It",
+    body: "Development on a beloved Terraria mod is shutting down following sexual misconduct allegations revolving around its lead developer. Meanwhile, the creators of the mod have reportedly turned down an of",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
+    body: "Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
+    body: "The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience.\n\n\"I",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Selling Impossible Pok\u00e9mon: Ban Reports Point to Long-Rumored Black Market for 'Injecting' Rare Pok\u00e9mon Go Quests, Sparking Speculation of Insider Involvement",
     body: "Pok\u00e9mon Go players are reportedly being banned for obtaining rare creatures from questlines \"in an unauthorized manner\", seemingly confirming past whispers of a black market that allows fans to fraudu",
     time: "just now",
