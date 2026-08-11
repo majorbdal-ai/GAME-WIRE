@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes",
+    body: "Kazuhisa Wada, producer for Atlus' P-Studio, says he \"can't say for sure\" if Persona 1 and 2 remakes are coming, but said they are still games he thinks \"we have to do.\"",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Fields of Mistria Review So Far",
+    body: "This fantasy farming sim takes place in a pastel pixel art world full of mythical creatures and magic.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Shipping 10\u201350\u00d7 More Code? Watch This Webinar on Securing AI-Speed Development",
+    body: "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed.\n\nWhe",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
+    body: "A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed. Trusting the default.\n\nThat pretty much covers the mood th",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Madden NFL 27 Arcade Edition Is Officially Live on Apple Arcade",
     body: "Madden NFL 27 Arcade Edition has officially launched on Apple Arcade. Get ready to enjoy football with no ads, no in-app purchases, no currencies, and no paywalls.",
     time: "just now",
