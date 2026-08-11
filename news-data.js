@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Halloween: The Game Refused Classification in Australia, So It Won\u2019t Be Sold in New Zealand Despite the Fact That\u2019s a Different Country",
+    body: "The determination involves Australia\u2019s rules against having incentives for illicit drug use, but it\u2019s entirely unclear why it impacts NZ, or why Illfonic won\u2019t tweak its terminology to skirt the rules",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Professional Smash Bros. Melee Payer Hungrybox Popped Off So Hard After Winning a Game That He Literally Fainted",
+    body: "Professional Super Smash Bros. Melee player Juan \u2018Hungrybox\u2019 Debiedma went viral over the weekend after fainting while celebrating a victory over fellow player Hugh \u2018SluG\u2019 Hegarty.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
+    body: "Attackers shut down a steam turbine and the process-water treatment system at a Polish combined heat and power plant by coming in over the private cellular network the local grid operator uses to reac",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
+    body: "Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform's plugins team to temporarily dis",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
     body: "Grand Theft Auto 6 fans are pre-ordering the $100 Ultimate Edition more than the standard edition of the game.",
     time: "just now",
