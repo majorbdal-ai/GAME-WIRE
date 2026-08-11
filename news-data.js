@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The Lord of the Rings: War in the North Legacy Edition Gets Shadow Drop on Modern Consoles and PC",
+    body: "A brand new re-release of The Lord of the Rings: War in the North has been launched out of the blue on modern consoles and PC.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The Legend of Zelda 40th Anniversary Nintendo Switch 2 Console Images Reportedly Leak",
+    body: "Leaked images of a The Legend of Zelda 40th Anniversary Nintendo Switch 2 console and Pro Controller appear to be circulating online.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
+    body: "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the coun",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo",
+    body: "Mozilla has scrapped the cryptographic key behind Firefox and Thunderbird downloads for Linux after an unencrypted copy of it was committed by mistake to one of the company's own private code reposito",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Assassin's Creed Black Flag Resynced Players Only Have a 47% Win Rate Against Legendary Ships",
     body: "Struggling against the Legendary Ships in Assassin's Creed Black Flag Resynced? Don't worry, you're not alone.",
     time: "just now",
