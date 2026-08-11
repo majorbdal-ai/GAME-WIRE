@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Selling Impossible Pok\u00e9mon: Ban Reports Point to Long-Rumored Black Market for 'Injecting' Rare Pok\u00e9mon Go Quests, Sparking Speculation of Insider Involvement",
+    body: "Pok\u00e9mon Go players are reportedly being banned for obtaining rare creatures from questlines \"in an unauthorized manner\", seemingly confirming past whispers of a black market that allows fans to fraudu",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "'A Must-Have Day 1 Purchase': Remedy Bets Big on Control Resonant, as Alan Wake 2 Passes 3 Million Sold",
+    body: "Alan Wake and Control developer Remedy is betting big on Control Resonant, as Alan Wake 2 finally passes 3 million copies sold.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
+    body: "OpenAI on Monday unveiled a new cybersecurity-focused model called GPT\u20115.6\u2011Cyber that it said is focused on vulnerability research, penetration testing, and incident response.\n\n\"Built on GPT\u20115.6 Sol, ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices",
+    body: "A malicious SIM card can order the device it sits in to run commands of the attacker's choosing. On the cellular modules built into electric-vehicle chargers, industrial routers, and car telematics un",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Saber CEO Admits 'Dig' at Gearbox Boss Randy Pitchford in New Game Trailer, Saying It's Payback for 'Shots at Embracer in Borderlands 4'",
     body: "Beef between two high-profile video game industry CEOs has bubbled over into the public domain, via a trailer for new taxi simulation game Rideshare Stimulator.",
     time: "just now",
