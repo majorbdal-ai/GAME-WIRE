@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Saber CEO Admits 'Dig' at Gearbox Boss Randy Pitchford in New Game Trailer, Saying It's Payback for 'Shots at Embracer in Borderlands 4'",
+    body: "Beef between two high-profile video game industry CEOs has bubbled over into the public domain, via a trailer for new taxi simulation game Rideshare Stimulator.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "New, Temporary Time Attack Circuit Coming to Forza Horizon 6 for Four Weeks",
+    body: "The Horizon Mascot Party brings new cars, a new track, and new custom props.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
+    body: "Windows Plug and Play can be abused to fetch signed vendor software for an emulated USB device and execute privileged installation components that researchers chained to SYSTEM access on a fully updat",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
+    body: "A malicious tool server connected to an AI coding assistant can quietly walk off with SSH keys, environment secrets, source code, and customer data without ever sending one obviously harmful instructi",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Halloween: The Game Refused Classification in Australia, So It Won\u2019t Be Sold in New Zealand Despite the Fact That\u2019s a Different Country",
     body: "The determination involves Australia\u2019s rules against having incentives for illicit drug use, but it\u2019s entirely unclear why it impacts NZ, or why Illfonic won\u2019t tweak its terminology to skirt the rules",
     time: "just now",
