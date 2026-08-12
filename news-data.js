@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "CD Projekt Confirms Layoffs on The Witcher Multiplayer Spin-Off, Issues Statement",
+    body: "CD Projekt has confirmed layoffs on The Witcher multiplayer spin-off, codenamed Project Sirius.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "PlayStation Plus Game Catalog for August 2026 Confirmed",
+    body: "Sony has confirmed the PlayStation Plus Game Catalog for August 2026, which is headlined by Helldivers 2, Kingdom Come Deliverance 2, and Vampire Survivors.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Gunra Ransomware Exploits Fortinet FortiOS, FortiProxy Flaws to Breach Networks",
+    body: "Cybersecurity and intelligence agencies from South Korea and the U.S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world.\n\nTargets of these",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Shipping 10\u201350\u00d7 More Code? Watch This Webinar on Securing AI-Speed Development",
+    body: "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed.\n\nWhe",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Gears of War: E-Day-Themed Xbox Controller Is Up for Preorder",
     body: "Microsoft is releasing a new limited-edition controller decked out with Gears of War: E-Day imagery to coincide with the game's release.",
     time: "just now",
