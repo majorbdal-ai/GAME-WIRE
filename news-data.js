@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Disney Confirms D23 Kingdom Hearts Panel Details, and Given Who's on It, We're Expecting Kingdom Hearts 4 News",
+    body: "Kingdom Hearts 4 news looks set for later this week after Disney confirmed the details of its Kingdom Hearts panel at fan convention D23.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Huge Helldivers 2 Patch Adds New Illuminate Enemies, a New Biome 'Full of Fresh Horrors,' a Level Cap Increase and Much More",
+    body: "Helldivers 2 developer Arrowhead has released a major update for the game, adding new Illuminate enemies, a new biome, and raising the level cap. Check out the 7.0.0 patch notes.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
+    body: "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code exe",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
+    body: "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO.\n\nThe vulnerability in question is CVE-2026-593",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "More Lord of the Rings Remasters Are in the Works Following War in the North Re-Release, Confirms Aspyr",
     body: "Aspyr has plans to re-release more Lord of the Rings games following its shadow drop of The Lord of the Rings: War in the North on modern platforms.",
     time: "just now",
