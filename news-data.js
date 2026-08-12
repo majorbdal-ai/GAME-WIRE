@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The One Piece: Escape from Egghead Board Game Is Runny and Undercooked",
+    body: "The push-your-luck dice rolling can be fun with the right group, but One Piece: Escape from Egghead stumbles due to ambiguous rules, questionable designs, and mechanics that break at different player ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Halo 2's Midnight Release Turns Into a Hostage Situation in a New Short Film",
+    body: "A new short film known as Midnight Drop will turn Halo 2's highly anticipated midnight release into the worst night for a group of gamers.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
+    body: "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdo",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
+    body: "Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none.\n\nAccording to Picus Labs' new Blue Report 2026, which measured more than 33",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "There Are Many Solid The Elder Scrolls 6 Subtitle Theories Based on Xbox Boss Asha Sharma\u2019s Asterisk-Filled Tease \u2014 but Let\u2019s Rule Out Skyrim 2 Right Now",
     body: "Yesterday, Xbox boss Asha Sharma teased The Elder Scrolls 6 with a tweet confirming she\u2019d witnessed a live playthrough of Bethesda\u2019s hotly anticipated open-world fantasy role-playing game. She did so ",
     time: "just now",
