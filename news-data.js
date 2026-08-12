@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Gears of War: E-Day-Themed Xbox Controller Is Up for Preorder",
+    body: "Microsoft is releasing a new limited-edition controller decked out with Gears of War: E-Day imagery to coincide with the game's release.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Warhammer 40,000: Dawn of War 4 Delayed Out of the September Crush, Dev Updates Roadmap of DLC",
+    body: "Warhammer 40,000: Dawn of War 4 has been hit by a delay of two-and-a-half months, forcing an update to the DLC roadmap.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
+    body: "The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldB",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
+    body: "Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild.\n\nThe hi",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "The One Piece: Escape from Egghead Board Game Is Runny and Undercooked",
     body: "The push-your-luck dice rolling can be fun with the right group, but One Piece: Escape from Egghead stumbles due to ambiguous rules, questionable designs, and mechanics that break at different player ",
     time: "just now",
