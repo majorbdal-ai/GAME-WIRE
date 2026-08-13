@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Dataminers Uncover Five Possible DLC Characters for Marvel Tokon: Fighting Souls",
+    body: "Now that Marvel Tokon: Fighting Souls is officially out in the wild, dataminers have wasted no time digging through the game\u2019s files, and they\u2019ve found some interesting heroes mentioned within them.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Hogwarts Legacy 2 Is Officially in the Works, Confirms Warner Bros.",
+    body: "A sequel to Hogwarts Legacy is actively in development, according to Warner Bros.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
+    body: "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code.\n\nThe vulnerability in question is CVE-2026-55040 (CVSS ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Shipping 10\u201350\u00d7 More Code? Watch This Webinar on Securing AI-Speed Development",
+    body: "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed.\n\nWhe",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "McDonald's Announces Eight Hello Kitty x Godzilla Toys Coming to Happy Meals This August",
     body: "Hello Kitty and Godzilla are coming to McDonald\u2019s Happy Meals this August in one of the most highly-anticipated collaborations to ever hit the fast food franchise.",
     time: "just now",
