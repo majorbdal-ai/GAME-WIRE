@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Xbox's Separation from Compulsion Games Seems Complete as Studio Is Listed as the Publisher of South of Midnight on Steam",
+    body: "Xbox's separation from Compulsion Games \u2013 one of four studios it spun out independently during the recent Xbox \"reset\" amidst thousands of layoffs \u2013 appears to be complete, as the developer itself is ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Night School Staff Speak Out After Netflix Shuts Down Developer Following 'Top Tier' Launch of Unhinged",
+    body: "Netflix is shuttering its Los Angeles-based game studio Night School, best known for side-scrolling psychological thrillers Oxenfree and Oxenfree 2: Lost Signals.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Shipping 10\u201350\u00d7 More Code? Watch This Webinar on Securing AI-Speed Development",
+    body: "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed.\n\nWhe",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
+    body: "A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed. Trusting the default.\n\nThat pretty much covers the mood th",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Magic's New Foundations Commander Decks Are Worth Buying \u2014 Here's Why I'm So Excited",
     body: "Here is why MTG Foundations' $30 Commander precons are a must-buy for beginners and veterans alike.",
     time: "just now",
