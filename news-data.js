@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Magic: The Gathering's The Hobbit Booster Boxes Secure a New Price Cut on Launch Day",
+    body: "Amazon discounted MTG The Hobbit Play Booster Boxes for launch day. Here is where to find the deal and the most valuable cards in the set.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "'It Doesn't Make Sense' \u2014 Uncharted Designer Doesn't Want a Remake of Drake's Fortune",
+    body: "Benson Russell, designer for two of the original Uncharted games, explained why he\u2019s hesitant to welcome a potential remake of Drake\u2019s Fortune.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Shipping 10\u201350\u00d7 More Code? Watch This Webinar on Securing AI-Speed Development",
+    body: "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed.\n\nWhe",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
+    body: "A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed. Trusting the default.\n\nThat pretty much covers the mood th",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "'It Doesn't Make Sense' \u2014 Uncharted Designer Doesn't Want a Remake of Drake's Fortune",
     body: "Benson Russell, designer for two of the original Uncharted games, explained why he\u2019s hesitant to welcome a potential remake of Drake\u2019s Fortune.",
     time: "just now",
