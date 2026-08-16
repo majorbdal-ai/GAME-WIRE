@@ -87,6 +87,36 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "'I Want to Set the Record Straight: That Is Not Happening' \u2014 Kingdom Hearts 4 Devs Say KH4 '100%' Will Not Be Delayed Past Late 2027 Launch | D23 2026",
+    body: "Kingdom Hearts 4 co-director Tai Yasue and series creator Tetsuya Nomura have assured fans that it is a \"100% thing\" the game will not be delayed past its late 2027 launch window.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Shipping 10\u201350\u00d7 More Code? Watch This Webinar on Securing AI-Speed Development",
+    body: "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed.\n\nWhe",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
+    body: "A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed. Trusting the default.\n\nThat pretty much covers the mood th",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Simu Liu Says Sleeping Dogs Movie Has 'a REAL Path Forward' Amid Dealmaking With Square Enix",
     body: "Marvel star Simu Liu has offered a positive update on his long-in-development Sleeping Dogs movie adaptation, saying the film has \"a REAL path forward\" as discussions with game publisher Square Enix c",
     time: "just now",
