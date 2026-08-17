@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Tides of Annihilation Producer Responds After Gwendolyn's New Face Sparks Debate Among Fans",
+    body: "Some fans are expressing some confusion after seeing the latest gameplay footage from Eclipse Glow Games\u2019 Tides of Annihilation, which features some distinct graphical changes that were made to its ma",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Star Citizen Developer Stream Goes Horribly Off the Rails, Creating Further Distrust Among Players",
+    body: "A recent Star Citizen development stream went horribly wrong and resulted in some fans losing confidence in the long-awaited sci-fi game.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+    body: "The expensive attacks are not always the clever ones.\n\nThis week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problem",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Chrome DevTools Technique Enables Authenticated Session Hijacking in Live Windows Browsers",
+    body: "Cybersecurity researchers have detailed a post-exploitation technique that enables the&nbsp;Chrome DevTools Protocol (CDP)&nbsp;inside a running Google Chrome or Microsoft Edge process on Windows, all",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Kingdom Hearts Becomes Second Top-Selling Steam Game in the US After Extended D23 Trailer Sparks Fan Excitement",
     body: "Kingdom Hearts is having a big moment on Steam, becoming the platform\u2019s second best-selling game in the United States following the Kingdom Hearts IV gameplay trailer that was shown at D23 over the we",
     time: "just now",
