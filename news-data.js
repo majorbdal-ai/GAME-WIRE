@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Metroid Prime 4 and Pok\u00e9mon Legends: Z-A Drop to Just $32 for Switch 2",
+    body: "Get Metroid Prime 4: Beyond and Pok\u00e9mon Legends: Z-A for just $31.99 each during Woot's 24-hour flash sale.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Star Wars: Magellan Was a AAA Action RPG Where You Could Play as a Jedi or Mandalorian",
+    body: "Footage has emerged of Star Wars: Magellan, a scrapped action RPG that let you play as either a Jedi or Mandalorian.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+    body: "The expensive attacks are not always the clever ones.\n\nThis week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problem",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
+    body: "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, wit",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Mortal Shell 2 Review",
     body: "This sequel's expansion into a large scale action-RPG is mostly a successful one.",
     time: "just now",
