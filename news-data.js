@@ -37,6 +37,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The Original Mass Effect Is the Trilogy\u2019s Best Story, Hands Down",
+    body: "The entire Mass Effect trilogy is fantastic, but the first game's story is head-and-shoulders above the tales told in the later games.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
+    body: "Cybersecurity researchers at Wiz&nbsp;have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public&nbsp;snowflakedb/snowflake-connector-net repository that it said could ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
+    body: "A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on suscepti",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Aliens: Fireteam Elite 2 \u2013 The Final Preview",
+    body: "Aliens: Fireteam Elite 2 seems like one of those lazy Sunday games, where you kill part of an afternoon playing a couple hours with friends. It gets Aliens and understands that forty miles of bad road",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "There's Now a Fortnite Star Wars Skin You Need to Visit Disneyland to Unlock",
     body: "Fortnite now has an exclusive Star Wars skin available only to those who visit two Disneyland parks.",
     time: "just now",
