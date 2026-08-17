@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Aliens: Fireteam Elite 2 \u2013 The Final Preview",
+    body: "Aliens: Fireteam Elite 2 seems like one of those lazy Sunday games, where you kill part of an afternoon playing a couple hours with friends. It gets Aliens and understands that forty miles of bad road",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "There's Now a Fortnite Star Wars Skin You Need to Visit Disneyland to Unlock",
+    body: "Fortnite now has an exclusive Star Wars skin available only to those who visit two Disneyland parks.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+    body: "The expensive attacks are not always the clever ones.\n\nThis week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problem",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Mustang Panda Adds Signed Windows Rootkit to CoolClient Backdoor for Stealth",
+    body: "The threat actor known as HoneyMyte (aka&nbsp;Mustang Panda) has been observed deploying an updated version of the CoolClient backdoor with a signed Windows kernel-mode rootkit that can hide and prote",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Metroid Prime 4 and Pok\u00e9mon Legends: Z-A Drop to Just $32 for Switch 2",
     body: "Get Metroid Prime 4: Beyond and Pok\u00e9mon Legends: Z-A for just $31.99 each during Woot's 24-hour flash sale.",
     time: "just now",
