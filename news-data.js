@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The 10 Most Expensive Pok\u00e9mon Cards of 2026 (So Far)",
+    body: "These are the most expensive Pok\u00e9mon TCG cards of 2026 so far, including high-value Ascended Heroes pulls like SIR Pikachu ex and SIR Mega Gengar ex, along with a couple of surprises as well.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "'It's Incredibly Well-Made, But\u2026' \u2014 Former PlayStation Boss Warned Clair Obscur: Expedition 33 Devs It Would Be 'Overlooked' if They Called It a Turn-Based RPG",
+    body: "Former PlayStation lead Shuhei Yoshida warned the developers behind Clair Obscur: Expedition 33 about calling it a \"turn-based RPG\" because \"that alone might cause players to overlook it.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
+    body: "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+    body: "The expensive attacks are not always the clever ones.\n\nThis week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problem",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Aliens: Fireteam Elite 2 \u2013 The Final Preview",
     body: "Aliens: Fireteam Elite 2 seems like one of those lazy Sunday games, where you kill part of an afternoon playing a couple hours with friends. It gets Aliens and understands that forty miles of bad road",
     time: "just now",
