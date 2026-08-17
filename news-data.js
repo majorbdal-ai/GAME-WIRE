@@ -27,6 +27,36 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "'I Want to Set the Record Straight: That Is Not Happening' \u2014 Kingdom Hearts 4 Devs Say KH4 '100%' Will Not Be Delayed Past Late 2027 Launch | D23 2026",
+    body: "Kingdom Hearts 4 co-director Tai Yasue and series creator Tetsuya Nomura have assured fans that it is a \"100% thing\" the game will not be delayed past its late 2027 launch window.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
+    body: "A maximum-severity security vulnerability impacting SAP Commerce Cloud is witnessing active exploitation efforts.\n\nThe vulnerability, tracked as CVE-2026-58231, is rated 10.0 on the CVSS scoring syste",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
+    body: "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC) has warned.\n\nThe ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Halloween: The Game Will Actually Be Available in New Zealand After All",
     body: "Developer IllFonic alters course, and the game will now be made available digitally for NZ.",
     time: "just now",
