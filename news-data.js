@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "GTA 6 Gameplay and Map Appear to Leak Online, Group Reportedly Responsible Threatens Rockstar Over All-Digital Future",
+    body: "Grand Theft Auto 6 appears to have suffered yet another significant leak after what looks like legitimate gameplay videos and an image of the full map appeared online. Rockstar has yet to comment.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Do Not Boycott GTA 6, Fired Rockstar Workers Tell Fans: 'There\u2019s a Better Way to Support Us and Hold Rockstar to Account'",
+    body: "The first Rockstar workers who are embroiled in a legal battle with the company have told fans they shouldn\u2019t boycott GTA 6 to protest on their behalf.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
+    body: "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+    body: "The expensive attacks are not always the clever ones.\n\nThis week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problem",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Uncharted: Drake's Fortune Developer Reveals the Game Had Dynamic Difficulty to Stop Players From Finishing It Too Quickly",
     body: "A former Naughty Dog developer has revealed that Uncharted: Drake's Fortune had dynamic scaling difficulty in order to make the game longer.",
     time: "just now",
