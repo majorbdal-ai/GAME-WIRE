@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Tomb Raider: Legacy of Atlantis Is 'Reimagining' The Series' Original Game With a Focus Meter, Skill Tree, and Herb Brewing",
+    body: "Tomb Raider: Legacy of Atlantis will include an RPG-like skill tree, herb brewing and a new chargable focus meter in its reimagining of the series' first game.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Do Not Boycott GTA 6, Fired Rockstar Workers Tell Fans: 'There\u2019s a Better Way to Support Us and Hold Rockstar to Account'",
+    body: "The first Rockstar workers who are embroiled in a legal battle with the company have told fans they shouldn\u2019t boycott GTA 6 to protest on their behalf.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
+    body: "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+    body: "The expensive attacks are not always the clever ones.\n\nThis week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problem",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Xbox Game Pass August 2026 Wave 2 Lineup Announced",
     body: "Microsoft has announced the Xbox Game Pass August 2026 Wave 2 lineup, and it includes a number of day-one releases.",
     time: "just now",
