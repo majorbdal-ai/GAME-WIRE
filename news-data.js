@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The 10 Most Expensive Pok\u00e9mon Cards of 2026 (So Far)",
+    body: "These are the most expensive Pok\u00e9mon TCG cards of 2026 so far, including high-value Ascended Heroes pulls like SIR Pikachu ex and SIR Mega Gengar ex, along with a couple of surprises as well.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "'It's Incredibly Well-Made, But\u2026' \u2014 Former PlayStation Boss Warned Clair Obscur: Expedition 33 Devs It Would Be 'Overlooked' if They Called It a Turn-Based RPG",
+    body: "Former PlayStation lead Shuhei Yoshida warned the developers behind Clair Obscur: Expedition 33 about calling it a \"turn-based RPG\" because \"that alone might cause players to overlook it.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+    body: "The expensive attacks are not always the clever ones.\n\nThis week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problem",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Trump Memo Paves Way for U.S. Firms to Hack and Disrupt Foreign Crime Groups",
+    body: "A new White House memo signed by U.S. President Donald Trump has instructed the National Coordination Center (NCC) to establish a program that would allow private sector companies to take advantage of",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Kingdom Hearts Becomes Second Top-Selling Steam Game in the U.S. After Extended D23 Trailer Sparks Fan Excitement",
     body: "Kingdom Hearts is having a big moment on Steam, becoming the platform\u2019s second best-selling game in the United States following the Kingdom Hearts IV gameplay trailer that was shown at D23 over the we",
     time: "just now",
