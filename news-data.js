@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Fallout 4 Patch Updates the Creation Kit, Fixes Various Bugs Including Steam Deck Crash",
+    body: "Bethesda has released a new patch for Fallout 4 that updates the Creation Kit and makes a number of crash and bug fixes. Check out the patch notes.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Control Resonant Developer Announces Last-Minute Delay For Physical Edition",
+    body: "Control Resonant has been hit by a last-minute delay that will impact the launch of its physical editions.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
+    body: "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+    body: "The expensive attacks are not always the clever ones.\n\nThis week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problem",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Tomb Raider: Legacy of Atlantis Is 'Reimagining' The Series' Original Game With a Focus Meter, Skill Tree, and Herb Brewing",
     body: "Tomb Raider: Legacy of Atlantis will include an RPG-like skill tree, herb brewing and a new chargable focus meter in its reimagining of the series' first game.",
     time: "just now",
