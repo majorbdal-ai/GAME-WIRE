@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Deus Ex, System Shock, and Thief Developer Legend Warren Spector Announces Retirement",
+    body: "Video game developer legend Warren Spector has announced his retirement from video game development.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The 10 Most Expensive Pok\u00e9mon Cards of 2026 (So Far)",
+    body: "These are the most expensive Pok\u00e9mon TCG cards of 2026 so far, including high-value Ascended Heroes pulls like SIR Pikachu ex and SIR Mega Gengar ex, along with a couple of surprises as well.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+    body: "The expensive attacks are not always the clever ones.\n\nThis week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problem",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "GeoServer Zero-Day Targeted in Active Exploitation Attempts, Can Lead to RCE",
+    body: "A newly disclosed zero-day flaw in GeoServer is seeing active exploitation efforts, per watchTowr.\n\nThe vulnerability, which has yet to be assigned a CVE identifier, is an SQL injection vulnerability ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "The 10 Most Expensive Pok\u00e9mon Cards of 2026 (So Far)",
     body: "These are the most expensive Pok\u00e9mon TCG cards of 2026 so far, including high-value Ascended Heroes pulls like SIR Pikachu ex and SIR Mega Gengar ex, along with a couple of surprises as well.",
     time: "just now",
