@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Kingdom Hearts Becomes Second Top-Selling Steam Game in the U.S. After Extended D23 Trailer Sparks Fan Excitement",
+    body: "Kingdom Hearts is having a big moment on Steam, becoming the platform\u2019s second best-selling game in the United States following the Kingdom Hearts IV gameplay trailer that was shown at D23 over the we",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The 10 Most Expensive Pok\u00e9mon Cards of 2026 (So Far)",
+    body: "These are the most expensive Pok\u00e9mon TCG cards of 2026 so far, including high-value Ascended Heroes pulls like SIR Pikachu ex and SIR Mega Gengar ex, along with a couple of surprises as well.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+    body: "The expensive attacks are not always the clever ones.\n\nThis week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problem",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Apple Warns Users in 110 Countries They May Be Targets of Mercenary Spyware",
+    body: "Apple on Thursday sent a fresh batch of notifications to customers whom it suspects may have been targeted by mercenary spyware attacks.\n\nIn a statement shared with TechCrunch, the iPhone maker said i",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "US Army Battalion Reportedly Giving Soldiers Time Off to Play GTA 6 in Exchange for Reenlisting",
     body: "A battalion in the United States Army is reportedly offering soldiers four days off to let them play Grand Theft Auto 6 when it releases this November if they reenlist.",
     time: "just now",
