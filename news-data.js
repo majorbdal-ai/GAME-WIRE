@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Xbox Game Pass August 2026 Wave 2 Lineup Announced",
+    body: "Microsoft has announced the Xbox Game Pass August 2026 Wave 2 lineup, and it includes a number of day-one releases.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Marvel's Wolverine's Glowing Red Tracking Trail Has an In-Universe Explanation",
+    body: "If you\u2019ve been keeping an eye on the reaction to the latest gameplay reveal for Marvel\u2019s Wolverine, you might have noticed plenty of debate about a red line. Well, there's an in-universe explanation f",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
+    body: "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+    body: "The expensive attacks are not always the clever ones.\n\nThis week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problem",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "'No Disc No Buy' Comments Dominate Sony's Phantom Blade Zero State of Play Livestream, as Planned PlayStation Boycott Nears",
     body: "Sony held its planned Phantom Blade Zero State of Play livestream with \u2014 somewhat surprisingly \u2014 the comments turned on, and they went exactly how everyone thought they would.",
     time: "just now",
