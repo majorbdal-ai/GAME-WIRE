@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The 10 Most Expensive Pok\u00e9mon Cards of 2026 (So Far)",
+    body: "These are the most expensive Pok\u00e9mon TCG cards of 2026 so far, including high-value Ascended Heroes pulls like SIR Pikachu ex and SIR Mega Gengar ex, along with a couple of surprises as well.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "'It's Incredibly Well-Made, But\u2026' \u2014 Former PlayStation Boss Warned Clair Obscur: Expedition 33 Devs It Would Be 'Overlooked' if They Called It a Turn-Based RPG",
+    body: "Former PlayStation lead Shuhei Yoshida warned the developers behind Clair Obscur: Expedition 33 about calling it a \"turn-based RPG\" because \"that alone might cause players to overlook it.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
+    body: "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer.\n\nOpenSourceMalware, which discovered the activity on August 15, 2",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025",
+    body: "A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a year, according to research published this week b",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Deus Ex, System Shock, and Thief Developer Legend Warren Spector Announces Retirement",
     body: "Video game developer legend Warren Spector has announced his retirement from video game development.",
     time: "just now",
