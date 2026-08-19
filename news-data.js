@@ -37,6 +37,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "RuneScape: Dragonwilds Confirmed for Day One Xbox Game Pass Launch",
+    body: "RuneScape: Dragonwilds will be available as a day one Xbox Game Pass title next month, developer Jagex has announced.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
+    body: "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+    body: "The expensive attacks are not always the clever ones.\n\nThis week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problem",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "\u2018You Don\u2019t Get XP, But Zones Do\u2019 \u2014 How Control Resonant Is Rewriting the Action RPG Rule Book",
+    body: "In Control Resonant, taking down Manhattan\u2019s monsters comes with consequences. We take a deep dive into Remedy's new approach to boss design and how killing them changes the world around you.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Subnautica 2 Early Access 1.2 Update Out Now Alongside Patch Notes, Dev Donates $100,000 to Ocean Cleanup",
     body: "Subnautica 2 Early Access 1.2 is out now, adding the Buddy System to the underwater survival and crafting game. check out the patch notes in full.",
     time: "just now",
