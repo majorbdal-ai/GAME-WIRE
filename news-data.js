@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Marvel\u2019s Wolverine Limited-Edition PS5, DualSense Controller, and Console Covers Are Up for Preorder",
+    body: "Marvel's Wolverine for PS5 is getting the royal treatment, with limited-edition PS5 consoles, covers, and controllers up for preorder now.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "PlayStation Reportedly Reboots Horizon Multiplayer Spinoff Following Negative Feedback",
+    body: "Sony has reportedly rebooted PlayStation live-service game Horizon Hunters Gathering after negative feedback from playtests.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
+    body: "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia.\n\nThe intrusion set makes use of seven remote access tool (RAT) fami",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
+    body: "Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two auth",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Do Not Boycott GTA 6, Fired Rockstar Workers Tell Fans: 'There\u2019s a Better Way to Support Us and Hold Rockstar to Account'",
     body: "The first Rockstar workers who are embroiled in a legal battle with the company have told fans they shouldn\u2019t boycott GTA 6 to protest on their behalf.",
     time: "just now",
