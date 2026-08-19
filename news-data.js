@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Silver Pines Preview: It Plays and Looks Like If Alan Wake Were Made in the \u201890s",
+    body: "Silver Pines' pixelated art is surprisingly fluid and expressive, the voice acting is off-putting and eerie, and every part of the small town you find yourself in is just so ominous and filled with li",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The Witcher 3 NPCs Kept Dropping Their Babies Due to an Unintended Side Effect of a Cut Mechanic",
+    body: "The Witcher 3 developers were so focused on making a realistic environment for players that they accidentally created a morbidly hilarious side effect for the game\u2019s female NPCs.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
+    body: "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+    body: "The expensive attacks are not always the clever ones.\n\nThis week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problem",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "\u2018You Don\u2019t Get XP, But Zones Do\u2019 \u2014 How Control Resonant Is Rewriting the Action RPG Rule Book",
     body: "In Control Resonant, taking down Manhattan\u2019s monsters comes with consequences. We take a deep dive into Remedy's new approach to boss design and how killing them changes the world around you.",
     time: "just now",
