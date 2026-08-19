@@ -37,6 +37,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "New LEGO Batman DLC Trailer to Debut on IGN\u2019s gamescom Livestream",
+    body: "Get a sneak peek at LEGO Batman: Legacy of the Dark Knight\u2019s Mayhem Collection DLC with an exclusive trailer and developer interview during IGN\u2019s gamescom livestream.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
+    body: "Cybersecurity researchers have disclosed details of a&nbsp;remote Spectre attack&nbsp;against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environme",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
+    body: "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "\u2018You Don\u2019t Get XP, But Zones Do\u2019 \u2014 How Control Resonant Is Rewriting the Action RPG Rule Book",
+    body: "In Control Resonant, taking down Manhattan\u2019s monsters comes with consequences. We take a deep dive into Remedy's new approach to boss design and how killing them changes the world around you.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "RuneScape: Dragonwilds Confirmed for Day One Xbox Game Pass Launch",
     body: "RuneScape: Dragonwilds will be available as a day one Xbox Game Pass title next month, developer Jagex has announced.",
     time: "just now",
