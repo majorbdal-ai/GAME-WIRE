@@ -47,6 +47,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "HACKING",
     color: "var(--violet)",
+    title: "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
+    body: "Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing infr",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
+    body: "A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Ma",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Do Not Boycott GTA 6, Fired Rockstar Workers Tell Fans: 'There\u2019s a Better Way to Support Us and Hold Rockstar to Account'",
+    body: "The first Rockstar workers who are embroiled in a legal battle with the company have told fans they shouldn\u2019t boycott GTA 6 to protest on their behalf.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The 10 Most Expensive Pok\u00e9mon Cards of 2026 (So Far)",
+    body: "These are the most expensive Pok\u00e9mon TCG cards of 2026 so far, including high-value Ascended Heroes pulls like SIR Pikachu ex and SIR Mega Gengar ex, along with a couple of surprises as well.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
     title: "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
     body: "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system",
     time: "just now",
