@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Marvel\u2019s Wolverine Limited-Edition PS5 and DualSense Controller Up for Preorder in the UK",
+    body: "Marvel's Wolverine for PS5 is getting limited-edition PS5 consoles, covers, and controllers. All of which are now up for preorder in the UK.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "I Played Halo 2 Before the Rest of the World and Almost Reported the Abrupt Ending as a Bug",
+    body: "Halo 2's ending is so abrupt that, back in 2004, I thought it was a game-breaking bug and almost reported it to Bungie.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
+    body: "Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
+    body: "Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability.\n\nAccording to th",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Where to Buy Pok\u00e9mon Cards in 2026",
     body: "Trying to buy Pok\u00e9mon cards in 2026 without significant markup? Here is where to find Booster Bundles, ETBs, and restocks at MSRP or \"market price\" from Amazon, Target, and Walmart.",
     time: "just now",
