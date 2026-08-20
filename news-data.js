@@ -37,6 +37,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The Last of Us Online Was Not a 'Side Project,' Majority of Intergalactic's Team Came Over After Multiplayer Game Was Scrapped",
+    body: "Naughty Dog's The Last of Us Online was more than just a \"side project\" and is a big reason why the studio hasn't had a brand new game since 2020.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
+    body: "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+    body: "The expensive attacks are not always the clever ones.\n\nThis week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problem",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Director of Marvel\u2019s Wolverine Responds After Extended Gameplay Footage Sparks Backlash",
+    body: "The director of Marvel\u2019s Wolverine, Mike Daly, opened up about the recent backlash toward the game after its extended gameplay showcase drew criticism online.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Modern Warfare 4 Beta Reveals Multiplayer Matchmaking Plans, Will Continue to Use Divisive New Matchmaking System",
     body: "Call of Duty: Modern Warfare 4's beta will utilize a divisive new matchmaking system in addition to the open matchmaking introduced last year.",
     time: "just now",
