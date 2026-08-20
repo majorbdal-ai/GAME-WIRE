@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Riot to End Active Development for 2XKO in December 2026, Online Play to Remain Unaffected",
+    body: "In one of the more heartbreaking developments in the games industry this year, Riot\u2019s League of Legends fighting game, 2XKO, will officially end active development in December.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "'I Bet Many of You Would Not Like It'  \u2014 Halo Co-Creator Says He Would Make Series 'Darker' if He Made a New Game",
+    body: "The co-creator of Halo claims fans wouldn't like his vision for new games in the series if he were still working on the franchise.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
+    body: "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, gov",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Why \"Shady AI\" is Security's Next Big Governance Problem",
+    body: "In March 2026, an internal AI agent at Meta triggered a \u201cSev 1\u201d incident after sensitive company and user data was exposed to employees who weren\u2019t authorized to access it.&nbsp;\n\nThe incident began w",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "'I Bet Many of You Would Not Like It'  \u2014 Halo Co-Creator Says He Would Make Series 'Darker' if He Made a New Game",
     body: "The co-creator of Halo claims fans wouldn't like his vision for new games in the series if he were still working on the franchise.",
     time: "just now",
