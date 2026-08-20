@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "FromSoftware Isn't Done With Single-Player Games, Miyazaki Reassures",
+    body: "While Elden Ring: Nightreign and The Duskbloods are back-to-back multiplayer games, FromSoftware's Miyazaki says they're still focused on single-player content.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Best Buy Is Offering a Free $10 Gift Card With These Game Preorders",
+    body: "Best Buy is the only retailer offering a free $10 gift card as a preorder bonus on some of the biggest games coming this Fall.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
+    body: "The U.S. government on Wednesday warned of an \"active threat\" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts.\n\nThe activity",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
+    body: "Researchers at the University of Massachusetts Amherst have demonstrated an attack that revives expired Visa contactless credit cards for real in-store purchases by rewriting the expiration date a poi",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "The Duskbloods Preview: FromSoftware's Multiplayer Switch 2 Exclusive Is Special, Here's How It Plays",
     body: "With tabletop rules and Souls-style gameplay, The Duskbloods, a Nintendo Switch 2 exclusive, is ambitious even for FromSoftware.",
     time: "just now",
