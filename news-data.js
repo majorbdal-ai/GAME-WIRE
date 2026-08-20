@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Yujiro Hanma in Tekken 8: How Do You Balance a Character Famous for Never Losing a Fight?",
+    body: "IGN interviews Tekken series chief producer, Naoya Yasuda, to find out more on Yujiro's upcoming addition to the Tekken 8 roster.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Resident Evil Requiem on PS5 Drops to a New Low Price at Amazon and Best Buy of $54",
+    body: "Resident Evil Requiem on PS5 has dropped to a new low price at Amazon and Best Buy of $53.99, beating out its Prime Day price.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
+    body: "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+    body: "The expensive attacks are not always the clever ones.\n\nThis week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problem",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Stunning Black Myth: Zhong Kui Gameplay Trailer Gives Us a Closer Look at the New Protagonist, Combat, and a Truly Impressive Parry",
     body: "Game Science has released a 15-minute gameplay trailer for its Black Myth: Wukong follow-up, Black Myth: Zhong Kui. It gives us a close look at the new protagonist, combat, and the world.",
     time: "just now",
