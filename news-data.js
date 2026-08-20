@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The Duskbloods Preview: FromSoftware's Multiplayer Switch 2 Exclusive Is Special, Here's How It Plays",
+    body: "With tabletop rules and Souls-style gameplay, The Duskbloods, a Nintendo Switch 2 exclusive, is ambitious even for FromSoftware.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Hidetaka Miyazaki Interview: FromSoftware's Boss On The Duskbloods' TTRPG Influences, the Nintendo Partnership, and the Future of Games",
+    body: "We talked to FromSoftware president and The Duskbloods director Hidetaka Miyazaki after a hands-on preview and shared many of the ideas behind his games and where the team goes from here.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
+    body: "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
+    body: "A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska).\n\nThe vulnerabil",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Marvel\u2019s Wolverine Limited-Edition PS5 and DualSense Controller Up for Preorder in the UK",
     body: "Marvel's Wolverine for PS5 is getting limited-edition PS5 consoles, covers, and controllers. All of which are now up for preorder in the UK.",
     time: "just now",
