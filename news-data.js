@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Stunning Black Myth: Zhong Kui Gameplay Trailer Gives Us a Closer Look at the New Protagonist, Combat, and a Truly Impressive Parry",
+    body: "Game Science has released a 15-minute gameplay trailer for its Black Myth: Wukong follow-up, Black Myth: Zhong Kui. It gives us a close look at the new protagonist, combat, and the world.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Director of Marvel\u2019s Wolverine Responds After Extended Gameplay Footage Sparks Backlash",
+    body: "The director of Marvel\u2019s Wolverine, Mike Daly, opened up about the recent backlash toward the game after its extended gameplay showcase drew criticism online.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
+    body: "Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution.\n\nThe vulnerability, trac",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
+    body: "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Director of Marvel\u2019s Wolverine Responds After Extended Gameplay Footage Sparks Backlash",
     body: "The director of Marvel\u2019s Wolverine, Mike Daly, opened up about the recent backlash toward the game after its extended gameplay showcase drew criticism online.",
     time: "just now",
