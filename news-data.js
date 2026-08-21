@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Worms: The Board Game Is on Sale for Its Lowest Price Ever at Amazon",
+    body: "Worms: The Board Game Is on Sale for Its Lowest Price Ever at Amazon",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "'I Bet Many of You Would Not Like It'  \u2014 Halo Co-Creator Says He Would Make Series 'Darker' if He Made a New Game",
+    body: "The co-creator of Halo claims fans wouldn't like his vision for new games in the series if he were still working on the franchise.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Why \"Shady AI\" is Security's Next Big Governance Problem",
+    body: "In March 2026, an internal AI agent at Meta triggered a \u201cSev 1\u201d incident after sensitive company and user data was exposed to employees who weren\u2019t authorized to access it.&nbsp;\n\nThe incident began w",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
+    body: "A set of 40 Mozilla Firefox extensions has been found to engage in cryptocurrency wallet theft by masquerading as OKX, Rabby Wallet, TronLink, and other Web3 products.\n\nAccording to the Socket Threat ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Halo: Reach Designer Reveals that Modern Warfare Series Were a 'Huge' Inspiration for Bungie",
     body: "Halo: Reach designer Niles Sankey has revealed that the game was massively influenced by the first two Modern Warfare games.",
     time: "just now",
