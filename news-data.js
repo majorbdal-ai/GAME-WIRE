@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "13 Movie, Game, and TV Trailers You Might Have Missed This Week",
+    body: "13 Movie, Game, and TV Trailers You Might Have Missed This Week",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The Blood of Dawnwalker Won\u2019t Run at 60fps on Console, and Fans Aren\u2019t Happy",
+    body: "The Blood of Dawnwalker console footage has shown off the game's graphical modes available at launch, but none will hit 60fps.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution",
+    body: "Update: The story was updated after publication to note that the vulnerability has not been exploited.\n\nAlthough the security bulletin originally marked the \"Exploited\" field under the Exploitability ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Why \"Shady AI\" is Security's Next Big Governance Problem",
+    body: "In March 2026, an internal AI agent at Meta triggered a \u201cSev 1\u201d incident after sensitive company and user data was exposed to employees who weren\u2019t authorized to access it.&nbsp;\n\nThe incident began w",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "FromSoftware 'Sincerely Apologizes' for The Duskbloods Network Test 'Server Issues,' Ends First Slot Early",
     body: "FromSoftware has announced The Duskbloods network test has reached an early end after the first day of testing resulted in \"game server issues\" that barred players from logging in.",
     time: "just now",
