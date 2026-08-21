@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Rock Band Was a Multiplayer Experience Truly Unlike Anything That Came Before or Since",
+    body: "Rock Band remains, to this day, the most unique and physically satisfying gaming experience I\u2019ve ever had. And at Official Xbox Magazine, we played it so much that we ended up pissing off our sister m",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The Duskbloods, Tides of Annihilation, Aliens: Fireteam Elite 2 \u2013 Catch Up on IGN's Game Previews This Week ICYMI",
+    body: "Your one-stop shop for any game preview coverage you might've missed at IGN this week from The Duskbloods, Tides of Annihilation, Aliens: Fireteam Elite 2, Star Wars: Smuggler's Gambit, and Silver Pin",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Why \"Shady AI\" is Security's Next Big Governance Problem",
+    body: "In March 2026, an internal AI agent at Meta triggered a \u201cSev 1\u201d incident after sensitive company and user data was exposed to employees who weren\u2019t authorized to access it.&nbsp;\n\nThe incident began w",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
+    body: "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Woot Is Practically Giving Away Sonic Games to New Customers Today",
     body: "Amazon-owned retailer Woot is practically giving away top Sonic titles today\u2014including Sonic x Shadow Generations for just $1\u2014to new customers.",
     time: "just now",
