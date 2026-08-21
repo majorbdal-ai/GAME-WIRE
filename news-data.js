@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "FromSoftware 'Sincerely Apologizes' for The Duskbloods Network Test 'Server Issues,' Ends First Slot Early",
+    body: "FromSoftware has announced The Duskbloods network test has reached an early end after the first day of testing resulted in \"game server issues\" that barred players from logging in.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Marvel's Wolverine: 6 Comics to Read to Prepare for the Game",
+    body: "If you're impatiently waiting for the release of Marvel's Wolverine on the PS5, these six essential X-Men comics will help you prepare.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
+    body: "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Win",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
+    body: "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun.\n\nKaspersky, which discovered the threat ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Rock Band Was a Multiplayer Experience Truly Unlike Anything That Came Before or Since",
     body: "Rock Band remains, to this day, the most unique and physically satisfying gaming experience I\u2019ve ever had. And at Official Xbox Magazine, we played it so much that we ended up pissing off our sister m",
     time: "just now",
