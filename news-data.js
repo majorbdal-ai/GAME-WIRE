@@ -37,6 +37,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The Blood of Dawnwalker Won\u2019t Run at 60fps on Console, and Fans Aren\u2019t Happy",
+    body: "The Blood of Dawnwalker console footage has shown off the game's graphical modes available at launch, but none will hit 60fps.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Why \"Shady AI\" is Security's Next Big Governance Problem",
+    body: "In March 2026, an internal AI agent at Meta triggered a \u201cSev 1\u201d incident after sensitive company and user data was exposed to employees who weren\u2019t authorized to access it.&nbsp;\n\nThe incident began w",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
+    body: "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Pok\u00e9mon TCG Prismatic Evolutions Mini Tins Are Back in Stock at Amazon",
+    body: "Amazon has restocked Pok\u00e9mon TCG Prismatic Evolutions Mini Tins, but TCGplayer offers cheaper prices and lets you pick your favorite Eeveelution.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "YouTuber Named in Take-Two GTA 6 Leaker Subpoena Insists He Did Nothing Wrong",
     body: "The YouTuber named in Take-Two's GTA 6 leaker subpoena has denied any wrongdoing.",
     time: "just now",
