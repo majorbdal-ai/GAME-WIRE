@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Pok\u00e9mon TCG Prismatic Evolutions Mini Tins Are Back in Stock at Amazon",
+    body: "Amazon has restocked Pok\u00e9mon TCG Prismatic Evolutions Mini Tins, but TCGplayer offers cheaper prices and lets you pick your favorite Eeveelution.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Intergalactic: The Heretic Prophet Cast Expands With Uncharted, The Last of Us Veteran",
+    body: "Veteran voice actor Robin Atkin Downes has confirmed his involvement in Naughty Dog's upcoming Intergalactic: The Heretic Prophet, following work on Uncharted and The Last of Us.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
+    body: "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Why \"Shady AI\" is Security's Next Big Governance Problem",
+    body: "In March 2026, an internal AI agent at Meta triggered a \u201cSev 1\u201d incident after sensitive company and user data was exposed to employees who weren\u2019t authorized to access it.&nbsp;\n\nThe incident began w",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Want a Gears of War Lancer Replica? You Can Preorder One Now",
     body: "Preorders are live for a full-scale 1:1 Gears of War Prototype Lancer replica, but it'll set you back $300.",
     time: "just now",
