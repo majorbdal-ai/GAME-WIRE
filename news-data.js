@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "GTA 6 Leaker Releases More Gameplay Videos Despite Rockstar Owner Take-Two's Microsoft and Discord Subpoenas",
+    body: "The alleged GTA 6 leaker has released two further gameplay videos despite Rockstar owner Take-Two's subpoenas requesting identifying information from Microsoft and Discord.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The Best Deals Today: Nintendo Switch 2, LEGO Tropical Aquarium, Final Fantasy VII Rebirth, and More",
+    body: "The Best Deals Today: Nintendo Switch 2, LEGO Tropical Aquarium, Final Fantasy VII Rebirth, and More",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
+    body: "The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
+    body: "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Layoffs Hit Staff at Crossfire Developer That\u2019s No Moon",
     body: "In yet another sweep of layoffs within the gaming space, Crossfire developer That\u2019s No Moon has axed an as-yet undetermined number of staff.",
     time: "just now",
