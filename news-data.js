@@ -37,6 +37,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Pok\u00e9mon ETBs are Surprisingly Easy to Get Hold of Right Now on Amazon",
+    body: "Amazon has quietly restocked high-demand Pok\u00e9mon TCG Elite Trainer Boxes below secondary market prices, including hard-to-find Pok\u00e9mon Center Exclusives and new releases.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
+    body: "Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability.\n\nAccording to th",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
+    body: "A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska).\n\nThe vulnerabil",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Marvel\u2019s Wolverine Limited-Edition PS5 Controller Is Still Available for Preorder (But It May Sell Out)",
+    body: "The Marvel's Wolverine-themed PS5 controller has been a huge bestseller among the IGN audience, but it may be starting to sell out ahead of release.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "[UPDATE] GTA 6 Leaker Shows No Sign of Slowing Down as Ninth Gameplay Video Hits the Internet",
     body: "The GTA 6 leaks have stretched into a sixth consecutive day, as the person or group responsible shows no sign of slowing down even in the face of court action from Rockstar parent company Take-Two.",
     time: "just now",
