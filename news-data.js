@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Marvel\u2019s Wolverine Limited-Edition PS5 Controller Is Still Available for Preorder (But It May Sell Out)",
+    body: "The Marvel's Wolverine-themed PS5 controller has been a huge bestseller among the IGN audience, but it may be starting to sell out ahead of release.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "[UPDATE] GTA 6 Leaker Shows No Sign of Slowing Down as Ninth Gameplay Video Hits the Internet",
+    body: "The GTA 6 leaks have stretched into a sixth consecutive day, as the person or group responsible shows no sign of slowing down even in the face of court action from Rockstar parent company Take-Two.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
+    body: "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
+    body: "Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Pok\u00e9mon ETBs are Surprisingly Easy to Get Hold of Right Now on Amazon",
     body: "Amazon has quietly restocked high-demand Pok\u00e9mon TCG Elite Trainer Boxes below secondary market prices, including hard-to-find Pok\u00e9mon Center Exclusives and new releases.",
     time: "just now",
