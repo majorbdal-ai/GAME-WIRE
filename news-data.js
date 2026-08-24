@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "As Hideo Kojima Turns 63, The Metal Gear Solid Creator Says He Has More Ideas Than Ever But Less Time Left to Make Them",
+    body: "Metal Gear Solid and Death Stranding creator Hideo Kojima has reflected on turning 63 and what he wants to do next, in the years he has left remaining.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Black Myth: Zhong Kui Doesn\u2019t Look as Epic as Wukong \u2013 and That\u2019s Great",
+    body: "Black Myth: Zhong Kui looks more grounded than the epic myth that Black Myth: Wukong told, and I think it'll be more ambitious with its story because of that.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
+    body: "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet.\n\nThat\u2019s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Why \"Shady AI\" is Security's Next Big Governance Problem",
+    body: "In March 2026, an internal AI agent at Meta triggered a \u201cSev 1\u201d incident after sensitive company and user data was exposed to employees who weren\u2019t authorized to access it.&nbsp;\n\nThe incident began w",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "GTA 6 Leaker Drops New Nudity-Filled Gameplay, Polls People on Whether to Release Story Spoilers",
     body: "The past week's extraordinary set of GTA 6 leaks appear to have continued today with a significant new release of footage that depicts mass nudity. Meanwhile, the leaker has suggested story spoilers c",
     time: "just now",
