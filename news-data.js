@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Why Everybody Loves Zork, The Duskbloods' Weirdest Character and Miyazaki's Favorite",
+    body: "Zork is one of six characters in The Duskbloods' network test and he's gone viral as many players are, quote, \"Zorkin' It.\"",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Magic: The Gathering Marvel Super Heroes Bundle Gets a Surprise 15% Discount on Amazon",
+    body: "Save 15% on this Magic: The Gathering bundle at Amazon right now and get a promo card and packs for less.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
+    body: "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet.\n\nThat\u2019s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
+    body: "Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent.\n\nThe campaign, codenamed O",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "The Elder Scrolls IV: Oblivion \u2013 I Spent 44 Hours in 4 Days Playing it in Bethesda's Basement",
     body: "The Elder Scrolls IV: Oblivion was arguably the defining moment of the first months of the HD Era and a true killer app for the Xbox 360 \u2013 you had to buy the console so you wouldn\u2019t miss out on this g",
     time: "just now",
