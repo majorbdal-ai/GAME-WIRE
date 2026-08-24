@@ -37,6 +37,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Former Rockstar Dev Calls GTA 6 Leaks 'A Nothing Burger,' Insists Hot Coffee Was Much, Much Worse",
+    body: "As Take-Two works to identify the person or group behind the GTA 6 'CyberLeek' account, one former Rockstar developer has insisted the recent spate of gameplay leaks will have little impact on the suc",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
+    body: "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet.\n\nThat\u2019s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
+    body: "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The Elder Scrolls IV: Oblivion \u2013 I Spent 44 Hours in 4 Days Playing it in Bethesda's Basement",
+    body: "The Elder Scrolls IV: Oblivion was arguably the defining moment of the first months of the HD Era and a true killer app for the Xbox 360 \u2013 you had to buy the console so you wouldn\u2019t miss out on this g",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "7 Magic: The Gathering Crossovers We Want for Universes Beyond in 2027 and Beyond",
     body: "Following Hasbro's tease of more \"fantasy-adjacent\" Magic: The Gathering Universes Beyond sets for 2027, here are our predictions for what could join the lineup next year.",
     time: "just now",
