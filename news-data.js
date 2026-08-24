@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "GTA 6 Leaker Drops New Nudity-Filled Gameplay, Polls People on Whether to Release Story Spoilers",
+    body: "The past week's extraordinary set of GTA 6 leaks appear to have continued today with a significant new release of footage that depicts mass nudity. Meanwhile, the leaker has suggested story spoilers c",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Nautus Exclusive Hands-On Preview: It Feels Like Mash-Up of Steamworld Dig and Subnautica",
+    body: "To be a cozy game is to embrace all things chill and atmospheric, finding comfort in routine and bonding with a growing community of characters, taking it one day at a time. With the upcoming Nautus f",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
+    body: "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet.\n\nThat\u2019s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
+    body: "Big security risks come in small packages. While enterprise security teams focus on policing the proliferation of employees using ChatGPT and Claude for quick drafting tasks, a more urgent threat is p",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Why Everybody Loves Zork, The Duskbloods' Weirdest Character and Miyazaki's Favorite",
     body: "Zork is one of six characters in The Duskbloods' network test and he's gone viral as many players are, quote, \"Zorkin' It.\"",
     time: "just now",
