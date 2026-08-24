@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The Elder Scrolls IV: Oblivion \u2013 I Spent 44 Hours in 4 Days Playing it in Bethesda's Basement",
+    body: "The Elder Scrolls IV: Oblivion was arguably the defining moment of the first months of the HD Era and a true killer app for the Xbox 360 \u2013 you had to buy the console so you wouldn\u2019t miss out on this g",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "7 Magic: The Gathering Crossovers We Want for Universes Beyond in 2027 and Beyond",
+    body: "Following Hasbro's tease of more \"fantasy-adjacent\" Magic: The Gathering Universes Beyond sets for 2027, here are our predictions for what could join the lineup next year.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
+    body: "Cybersecurity researchers have flagged two new malware families called  WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups.\n\nAccording",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+    body: "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work.\n\nThe harder part is what comes after. AI c",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Marvel\u2019s Wolverine Limited-Edition PS5 Controller Is Still Available for Preorder (But It May Sell Out)",
     body: "The Marvel's Wolverine-themed PS5 controller has been a huge bestseller among the IGN audience, but it may be starting to sell out ahead of release.",
     time: "just now",
