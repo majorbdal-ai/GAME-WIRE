@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The Chronicles of Riddick: Escape from Butcher Bay Remains One of the Most Underrated Games Ever",
+    body: "The Chronicles of Riddick: Escape from Butcher Bay didn\u2019t just break the licensed-game curse, it was a bona fide Game of the Year contender on Xbox that year (it was won by a little game called Halo 2",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "GTA 6 Leak Subpoena: Discord Says It Will 'Evaluate the Validity and Scope Before Responding'",
+    body: "Discord has countered online reports about Take-Two\u2019s hunt for the identity of the GTA 6 leaker, saying it has yet to be formally served a subpoena, and when it does receive it, it will take a long, h",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
+    body: "Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
+    body: "Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Grand Theft Auto 6: An Extended Look Global Release Times Confirmed",
     body: "Here's when you'll be able to watch Grand Theft Auto 6: An Extended Look as soon as it debuts on Netflix, and when it will arrive on YouTube.",
     time: "just now",
