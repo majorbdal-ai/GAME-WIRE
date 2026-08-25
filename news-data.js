@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Pok\u00e9mon Veteran James Turner Rejoins Franchise Following Work on The Plucky Squire",
+    body: "Pok\u00e9mon development veteran James Turner is returning to the world of pocket monsters, after previously leaving to make The Plucky Squire.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Clutch Picks Up a Publisher as Maverick Games Partners with Focus Entertainment",
+    body: "Focus Entertainment has announced it has forged a \u201cmajor publishing partnership\u201d with independent racing studio Maverick Games for its upcoming project, Clutch, after Amazon backed out earlier this ye",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
+    body: "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as an",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
+    body: "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet.\n\nThat\u2019s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Pok\u00e9mon Collector Poses as Buyer to Recover $4,000 Worth of Stolen Cards in 'Vigilante' Sting Operation",
     body: "Canadian collector Emilio Kihien took matters into his own hands after police said they \u201ccouldn\u2019t do much\u201d to help him recover $4,000 worth of stolen Pokemon cards.",
     time: "just now",
