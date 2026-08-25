@@ -37,6 +37,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Preorder Metal Gear Solid Master Collection Vol. 2 on PC and Save 23% (Out Thursday)",
+    body: "Metal Gear Solid Master Collection Vol. 2 is out this week, but if you preorder the Steam PC version, you can save 23% off list price.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
+    body: "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet.\n\nThat\u2019s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Why \"Shady AI\" is Security's Next Big Governance Problem",
+    body: "In March 2026, an internal AI agent at Meta triggered a \u201cSev 1\u201d incident after sensitive company and user data was exposed to employees who weren\u2019t authorized to access it.&nbsp;\n\nThe incident began w",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Pok\u00e9mon Collector Poses as Buyer to Recover $4,000 Worth of Stolen Cards in 'Vigilante' Sting Operation",
+    body: "Canadian collector Emilio Kihien took matters into his own hands after police said they \u201ccouldn\u2019t do much\u201d to help him recover $4,000 worth of stolen Pokemon cards.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Magic: The Gathering Unveils Masters of the Universe Secret Lair Drop Featuring He-Man and Skeletor",
     body: "Wizards of the Coast has revealed all five Masters of the Universe Secret Lair drops for Magic: The Gathering. Check out the full card list, pricing, and release date here.",
     time: "just now",
