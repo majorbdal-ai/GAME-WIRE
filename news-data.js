@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "KFC Reveals the Oreo Chicken Burger, and We're Both Revolted and Intrigued",
+    body: "Has capitalism gone too far? KFC China has just revealed the Oreo Original Recipe Chicken Burger, and we can't help but be intrigued.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "PlayStation Plus Monthly Games for September 2026 Leak, Headlined by Sniper Elite: Resistance",
+    body: "September's PlayStation Plus monthly games lineup has leaked online ahead of Sony's official announcement.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
+    body: "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet.\n\nThat\u2019s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Why \"Shady AI\" is Security's Next Big Governance Problem",
+    body: "In March 2026, an internal AI agent at Meta triggered a \u201cSev 1\u201d incident after sensitive company and user data was exposed to employees who weren\u2019t authorized to access it.&nbsp;\n\nThe incident began w",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "gamescom Opening Night Live 2026: Everything Announced",
     body: "Opening Night Live 2026 is upon us, and with it comes the promise of big new gameplay reveals, plenty of new trailers, and a long list of announcements. Check out IGN's live report, direct from gamesc",
     time: "just now",
