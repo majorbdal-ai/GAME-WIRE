@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "NBA 2K27 Is Teasing a GTA 6-Themed Event in Collaboration with Rockstar Games",
+    body: "NBA 2K27 is teasing a crossover with Rockstar Games, seemingly to promote Grand Theft Auto 6.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Marvel Tokon Devs Confess Regaining Trust After Fumbled PC Launch Will Be 'Extremely Challenging'",
+    body: "Arc System Works has apologized for Marvel Tokon: Fighting Souls' PC launch and admitted it will be \"extremely difficult\" to regain player trust.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
+    body: "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages.\n\n\"While ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
+    body: "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "The Chronicles of Riddick: Escape from Butcher Bay Remains One of the Most Underrated Games Ever",
     body: "The Chronicles of Riddick: Escape from Butcher Bay didn\u2019t just break the licensed-game curse, it was a bona fide Game of the Year contender on Xbox that year (it was won by a little game called Halo 2",
     time: "just now",
