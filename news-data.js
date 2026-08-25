@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Sea of Remnants Director Reveals 10 Minutes of Exclusive Gameplay, Details the Game\u2019s Hidden Secrets",
+    body: "Watch 10 exclusive minutes of Sea of Remnants gameplay as the game's creative director details the RPG's roguelike structure, dice mechanics, and hidden secrets.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Final Fantasy 7 Revelation Gets New Trailer at Gamescom 2026 Showing off Submarine Combat, Weapons, and More",
+    body: "Fans were treated to a new Final Fantasy 7 Revelation trailer at Gamescom\u2019s Opening Night Live showcase, where we saw more of The Weapons, submarine combat, and more.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
+    body: "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet.\n\nThat\u2019s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Why \"Shady AI\" is Security's Next Big Governance Problem",
+    body: "In March 2026, an internal AI agent at Meta triggered a \u201cSev 1\u201d incident after sensitive company and user data was exposed to employees who weren\u2019t authorized to access it.&nbsp;\n\nThe incident began w",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "The Witcher 3 Songs of the Past Expansion: Everything Revealed at gamescom ONL 2026",
     body: "The Witcher 3: Wild Hunt Songs of the Past expansion got a proper reveal trailer at gamescom Opening Night Live 2026, and developer CD Projekt Red showed up to talk about its new chain weapon, the rea",
     time: "just now",
