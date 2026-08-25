@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "gamescom Opening Night Live 2026: Everything Announced",
+    body: "Opening Night Live 2026 is upon us, and with it comes the promise of big new gameplay reveals, plenty of new trailers, and a long list of announcements. Check out IGN's live report, direct from gamesc",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Call of Duty: Modern Warfare 4 Beta Pushes Unplanned Update to Address Fan Feedback",
+    body: "Infinity Ward has pushed an unplanned update for the Call of Duty: Modern Warfare 4 beta in order to quickly address fan feedback.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
+    body: "The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an \"unprecedented, whole-of-government, economic campaign\" against the nation and it",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Frontier AI: Vulnerability Management's Systemic Revolution",
+    body: "Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also exi",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "NBA 2K27 Is Teasing a GTA 6-Themed Event in Collaboration with Rockstar Games",
     body: "NBA 2K27 is teasing a crossover with Rockstar Games, seemingly to promote Grand Theft Auto 6.",
     time: "just now",
