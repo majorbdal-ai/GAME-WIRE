@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The Witcher 3 Songs of the Past Expansion Confirmed to Include More Gwent, and Everyone Is Already Celebrating",
+    body: "CD Projekt Red has confirmed The Witcher 3: Wild Hunt's upcoming Songs of the Past expansion will come with more Gwent, and card game lovers are already celebrating.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Persona Comes to Beard Papa's With Special 30th Anniversary Collaboration",
+    body: "Beard Papa\u2019s is teaming up with Persona to celebrate the RPG series\u2019 30th anniversary with some special cream puffs.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
+    body: "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet.\n\nThat\u2019s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Why \"Shady AI\" is Security's Next Big Governance Problem",
+    body: "In March 2026, an internal AI agent at Meta triggered a \u201cSev 1\u201d incident after sensitive company and user data was exposed to employees who weren\u2019t authorized to access it.&nbsp;\n\nThe incident began w",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "This Legend of Zelda Brain Teaser Recreates One of the Best Side Quests From Tears of the Kingdom",
     body: "This Legend of Zelda Brain Teaser Recreates One of the Best Side Quests From Tears of the Kingdom",
     time: "just now",
