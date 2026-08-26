@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Fable: After Watching a Full Quest, I Couldn\u2019t Be More Excited to Play It | gamescom 2026",
+    body: "Beer, swearing, and aggressive strangers. I feel at home. After watching a full quest from Fable, I couldn't be more excited to play it. Our preview:",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Persona 4 Revival: The Good and the Bad of Our First Hands-On \u2013 Gamescom 2026",
+    body: "In the pantheon of the Persona series, its fourth entry is held in high regard, and time will tell if Persona 4 Revival will prove to be the best of the bunch. The little bit I got to see is at least ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
+    body: "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a c",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
+    body: "OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) too",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Metro 2039 Developers on How Russia's Invasion of Ukraine Changed Their Plans",
     body: "After finishing the four-or-so-hour preview build of Metro 2039, the upcoming first-person shooter sequel from Ukrainian developer 4A Games and falling completely in love with it, I reached out to the",
     time: "just now",
