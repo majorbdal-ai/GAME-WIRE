@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Exclusive: LEGO Batman: Legacy of the Dark Knight Deluxe Edition - Mayhem Collection DLC Trailer Reveals The Joker and Harley Quinn Story Mission and More",
+    body: "During our IGN gamescom Studio livestream, we were able to exclusively reveal the LEGO Batman: Legacy of the Dark Knight Deluxe Edition - Mayhem Collection DLC trailer, which features an exciting look",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Star Wars Zero Company Review",
+    body: "An excellent tactical game with the same cinematic feel as the Star Wars Jedi games.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
+    body: "Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
+    body: "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, us",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Fable: After Watching a Full Quest, I Couldn\u2019t Be More Excited to Play It | gamescom 2026",
     body: "Beer, swearing, and aggressive strangers. I feel at home. After watching a full quest from Fable, I couldn't be more excited to play it. Our preview:",
     time: "just now",
