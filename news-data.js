@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Metro 2039 Developers on How Russia's Invasion of Ukraine Changed Their Plans",
+    body: "After finishing the four-or-so-hour preview build of Metro 2039, the upcoming first-person shooter sequel from Ukrainian developer 4A Games and falling completely in love with it, I reached out to the",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Metro 2039: The First Hands-On Preview",
+    body: "In an age where single-player first-person shooters are slowly going extinct because they only make money for their publisher once while multiplayer live-service shooters vie for our time and attentio",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
+    body: "An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects.\n\n\"The operation, which brought together 22 count",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
+    body: "An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machin",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Sea of Remnants Director Reveals 10 Minutes of Exclusive Gameplay, Details the Game\u2019s Hidden Secrets",
     body: "Watch 10 exclusive minutes of Sea of Remnants gameplay as the game's creative director details the RPG's roguelike structure, dice mechanics, and hidden secrets.",
     time: "just now",
