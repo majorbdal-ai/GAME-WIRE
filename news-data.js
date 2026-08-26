@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Sea of Remnants Director Reveals 10 Minutes of Exclusive Gameplay, Details the Game\u2019s Hidden Secrets",
+    body: "Watch 10 exclusive minutes of Sea of Remnants gameplay as the game's creative director details the RPG's roguelike structure, dice mechanics, and hidden secrets.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Gears of War: E-Day Campaign Hands-On Preview: To Quote Marcus Fenix, \u201cNice\u201d",
+    body: "I\u2019m now not only more fired up to finish Gears of War: E-Day\u2019s prequel story than ever, but I\u2019m also more confident than ever that, at least based on the small slice I\u2019ve played so far, E-Day has stru",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
+    body: "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea.\n\nThe vulnerabilit",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
+    body: "Cybersecurity researchers have disclosed details of a phishing-as-a-service (PhaaS) platform built to strip Apple's Activation Lock from stolen devices, using rented AI voice agents that call theft vi",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "The First New Magic Puzzle of 2026 Is Now Available at Retailers",
     body: "The First New Magic Puzzle of 2026 Is Now Available at Retailers",
     time: "just now",
