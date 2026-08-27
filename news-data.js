@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "I Turned a Skeleton Into a Roast Chicken in Fable, and I\u2019d Do It Again | gamescom 2026",
+    body: "We finally played Fable, and there's a surprising amount of depth to be found in its spell-slinging combat. Our hands-on preview:",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Project Motor Racing Adding Nine New Cars, New Track Next Month",
+    body: "The V8 Power Pack, featuring historic US muscle and Gen 3 Australian V8 Supercars, arrives on September 15.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Learn How to Build Security Operations Ready for AI-Powered Attacks",
+    body: "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act.\n\nAdvanced AI models can now help attackers discover vulnerabi",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks",
+    body: "The Australian Federal Police (AFP) has charged two Western Australian men with a combined total of 14 offences over their alleged role in TeamPCP, the cybercrime group behind the March 2026 compromis",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Exclusive: LEGO Batman: Legacy of the Dark Knight Deluxe Edition - Mayhem Collection DLC Trailer Reveals The Joker and Harley Quinn Story Mission and More",
     body: "During our IGN gamescom Studio livestream, we were able to exclusively reveal the LEGO Batman: Legacy of the Dark Knight Deluxe Edition - Mayhem Collection DLC trailer, which features an exciting look",
     time: "just now",
