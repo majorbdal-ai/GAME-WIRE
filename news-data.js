@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Grand Theft Auto III \u2013 The Legacy Review",
+    body: "Replaying the pioneering 2001 classic 25 years later and paying tribute to the game that didn\u2019t just change the trajectory of the GTA series forever \u2013 it changed the business.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "After GTA 6: Extended Look Showed Rockstar's Game Running at 30fps, Tech Experts Say a 60fps Console Version Is 'Extremely Unlikely' and 'Genuinely Challenging' Even on PC",
+    body: "Getting Rockstar's hugely ambitious GTA 6 running at 60fps on current consoles will be \"extremely unlikely\", the tech experts at Digital Foundry have said, after analysis of footage from the Grand The",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
+    body: "Individuals and organizations in Cambodia have emerged as the target of a new campaign that delivers an open-source remote access trojan (RAT) called Spark RAT.\n\n\"The samples employ diverse lure theme",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
+    body: "Threat actors linked by Arctic Wolf to Dark Caracal with medium confidence deployed a previously undocumented Go-based malware framework, GoCaracal, during a June 2026 intrusion at an unnamed communic",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "99 Details from The GTA 6 Extended Look",
     body: "Love Fist, gameplay, and other Vice City memories. Here are 99 new details we spotted in the GTA 6 Extended Look:",
     time: "just now",
