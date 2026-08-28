@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Grand Theft Auto 6 Is Already Bringing Back Characters from GTA 5",
+    body: "Grand Theft Auto 6 will feature at least one character from GTA Online.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Capcom Is Making Life-Sized Statues of Lady Dimitrescu and Albert Wesker, and the Internet Is Being Totally Normal About It",
+    body: "Capcom is making thirsty fans\u2019 dreams come true for Resident Evil\u2019s 30th anniversary exhibition, revealing that it will display life-sized statues of Lady Dimitrescu and Albert Wesker.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
+    body: "Security researcher Olivier Laflamme has disclosed two independent root remote code execution (RCE) chains affecting the Unitree G1 EDU, including a Bluetooth Low Energy (BLE) path that can reach root",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Key Reasons Why Identity Fabric Matters in 2026",
+    body: "An Identity Fabric knits fragmented identity systems into a coherent layer that observes how identities behave across applications, APIs, and infrastructure. As enterprise access spans more cloud serv",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "12 Game, Movie, and TV Show Trailers You Might Have Missed This Week",
     body: "This week's trailer bounty included the extended look at Grand Theft Auto 6, tons of footage from gamescom, a first look at the new Pok\u00e9mon stop-motion series coming to Disney+, a new Ali G movie, and",
     time: "just now",
