@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Here's How You Can Already Save $5 on Your GTA 6 Preorder",
+    body: "If you are already planning to spend $100 on the GTA 6 Ultimate Edition, Amazon has a tidy trick to knock $5 off your preorder right now.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Nvidia's DLSS 5 Leaks Online, and Modders Have Already Turned It Into a Slop Filter",
+    body: "Nvidia's DLSS 5 Leaks Online, and Modders Have Already Turned It Into a Slop Filter",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server",
+    body: "cPanel has released patches for a security flaw affecting domain parking and addon domain functionality in cPanel and WebHost Manager (WHM), which could allow code execution as the root user.\n\nThe vul",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
+    body: "PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks.\n\nThe com",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "EA Motive's Iron Man Game Trailer Seemingly Leaked With Early Look at Gameplay",
     body: "Gameplay footage from what appears to be EA Motive Studio's Iron Man game has leaked online.",
     time: "just now",
