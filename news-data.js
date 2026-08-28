@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Rockstar Approached Netflix for Exclusive GTA 6 Extended Look, Not the Other Way Around",
+    body: "The big Grand Theft Auto 6 extended look (mostly) went off without a hitch, and apparently, it was Rockstar Games' idea to bring it to Netflix in the first place, not the other way around.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Save 56% Off a Like New Logitech G29 Racing Wheel and Pedal Set for Gran Turismo and Forza Horizon 6",
+    body: "Your racing simulator just got more simulating.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
+    body: "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortio",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers",
+    body: "Google on Thursday announced new network security protections in Android 17 to bolster connection privacy, address cellular vulnerabilities, and safeguard the privacy of users' home networks.\n\nTopping",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "NBA 2K27 Review So Far",
     body: "So far, new features have put a spotlight on longstanding issues.",
     time: "just now",
