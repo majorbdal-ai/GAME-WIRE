@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "99 Details from The GTA 6 Extended Look",
+    body: "Love Fist, gameplay, and other Vice City memories. Here are 99 new details we spotted in the GTA 6 Extended Look:",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "NBA 2K27 Is Making Major Upgrades to Both Ends of the Court",
+    body: "NBA 2K27 Is Making Major Upgrades to Both Ends of the Court",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers",
+    body: "Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate dat",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "What the Data Says About AI in Security Operations in 2026",
+    body: "AI is officially mainstream in security operations. According to Prophet Security's State of AI in Security Operations 2026 report (produced from ViB\u2019s survey of 250+ cybersecurity pros), 40% of secur",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "[UPDATE] EA Motive Confirms Iron Man Game Leak After Gameplay Trailer Spreads on Social Media",
     body: "Gameplay footage from what appears to be EA Motive Studio's Iron Man game has leaked online.",
     time: "just now",
