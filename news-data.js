@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "EA Motive's Iron Man Game Trailer Seemingly Leaked With Early Look at Gameplay",
+    body: "Gameplay footage from what appears to be EA Motive Studio's Iron Man game has leaked online.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Gallipoli Review",
+    body: "Gallipoli is the most beautiful game in the WW1 series yet, with excellent maps, fun new classes, and a continued focus on teamwork in order to win.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL",
+    body: "ServiceNow has released patches for four security flaws impacting the ServiceNow AI Platform, three of them rated 10.0 on the CVSS scoring system and exploitable, in certain circumstances, by an unaut",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access",
+    body: "VulnCheck has disclosed two previously undocumented factory implants in firmware for routers built by Shenzhen Zhibotong Electronics (ZBT), each of which gives an unauthenticated remote attacker the a",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Grand Theft Auto 6 Is Already Bringing Back Characters from GTA 5",
     body: "Grand Theft Auto 6 will feature at least one character from GTA Online.",
     time: "just now",
