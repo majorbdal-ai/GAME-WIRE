@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "12 Game, Movie, and TV Show Trailers You Might Have Missed This Week",
+    body: "This week's trailer bounty included the extended look at Grand Theft Auto 6, tons of footage from gamescom, a first look at the new Pok\u00e9mon stop-motion series coming to Disney+, a new Ali G movie, and",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Save 42% Off the PS Portal, the Only Way You'll Be Able to Play Grand Theft Auto 6 on a Handheld",
+    body: "Forget the price hike.GTA 6 will only be available on PlayStation 5 and Xbox, to start out.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
+    body: "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog following reports th",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
+    body: "Cybersecurity researchers have discovered a cluster of 18 Google Chrome and one Microsoft Edge extensions that were published over the last six months and harbored wallet secret stealing and cryptocur",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Rockstar Approached Netflix for Exclusive GTA 6 Extended Look, Not the Other Way Around",
     body: "The big Grand Theft Auto 6 extended look (mostly) went off without a hitch, and apparently, it was Rockstar Games' idea to bring it to Netflix in the first place, not the other way around.",
     time: "just now",
