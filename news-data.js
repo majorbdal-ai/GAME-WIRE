@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "[UPDATE] EA Motive Confirms Iron Man Game Leak After Gameplay Trailer Spreads on Social Media",
+    body: "Gameplay footage from what appears to be EA Motive Studio's Iron Man game has leaked online.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "6 More Magic: The Gathering Crossovers We Want in Universes Beyond",
+    body: "With MTG\u2019s Universes Beyond lineup expanding, here are 7 more ideal fantasy and sci-fi crossovers we want to see, including Narnia, The Cosmere, and The Elder Scrolls.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations",
+    body: "Cybersecurity researchers have flagged a fresh set of campaigns targeting government and diplomatic organizations in Romania, Spain, and T\u00fcrkiye between late September 2025 and early April 2026.\n\nThes",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
+    body: "A fake login page. A fake security scan. A fake productivity app. Apparently, pretending to be useful is still one of the easier ways into a machine.\n\nThe rest of the week gets stranger: botnets borro",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Here's How You Can Already Save $5 on Your GTA 6 Preorder",
     body: "If you are already planning to spend $100 on the GTA 6 Ultimate Edition, Amazon has a tidy trick to knock $5 off your preorder right now.",
     time: "just now",
