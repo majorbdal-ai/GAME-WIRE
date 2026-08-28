@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The Grand Theft Auto 6 Gameplay Just Makes Me Want a PC Version Even More",
+    body: "After watching the Grand Theft Auto 6 Extended Look on Netflix, I came away awed by how good it looks on the base consoles. But more than anything, it made me want to see it running on a high-end PC e",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "GTA 6 Devs at Rockstar Celebrate as Extended Look Finally Reveals Gameplay After Years of Development",
+    body: "Rockstar Games has finally revealed an official look at GTA 6 gameplay, and members of the development team couldn't be happier to finally see fans' reactions.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
+    body: "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE",
+    body: "Credit:&nbsp;Hacktron\nVercel has released security patches for two critical-severity vulnerabilities in the Next.js web framework, both of which allow unauthenticated remote code execution, one exploi",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "I Turned a Skeleton Into a Roast Chicken in Fable, and I\u2019d Do It Again | gamescom 2026",
     body: "We finally played Fable, and there's a surprising amount of depth to be found in its spell-slinging combat. Our hands-on preview:",
     time: "just now",
