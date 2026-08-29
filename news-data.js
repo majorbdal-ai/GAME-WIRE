@@ -37,6 +37,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "What Console Should You Buy for GTA 6? We Break Down PS5 vs. Xbox Pricing, Deals, and More",
+    body: "What is the best console to play Grand Theft Auto 6 on? We break down PS5, PS5 Pro, and Xbox Series X pricing, expected frame rates, and new or upcoming hardware deals, alongside whether it's worth wa",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
+    body: "Academic researchers have disclosed a Rowhammer attack impacting NVIDIA workstation GPUs with GDDR6 memory that defeats error correction codes (ECC), the mitigation NVIDIA recommends against GPU Rowha",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs",
+    body: "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added six flaws to its Known Exploited Vulnerabilities (KEV) catalog, including a high-severity security vulnerability imp",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Grand Theft Auto III \u2013 The Legacy Review",
+    body: "Replaying the pioneering 2001 classic 25 years later and paying tribute to the game that didn\u2019t just change the trajectory of the GTA series forever \u2013 it changed the business.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "After GTA 6: Extended Look Showed Rockstar's Game Running at 30fps, Tech Experts Say a 60fps Console Version Is 'Extremely Unlikely' and 'Genuinely Challenging' Even on PC",
     body: "Getting Rockstar's hugely ambitious GTA 6 running at 60fps on current consoles will be \"extremely unlikely\", the tech experts at Digital Foundry have said, after analysis of footage from the Grand The",
     time: "just now",
