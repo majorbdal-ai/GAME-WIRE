@@ -37,6 +37,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Everything We Learnt about Silver Palace at gamescom",
+    body: "Everything We Learnt about Silver Palace at gamescom",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
+    body: "The CERT Coordination Center (CERT/CC) has disclosed two unpatched vulnerabilities in Kaltura's HTML5 video player library that allow a remote, unauthenticated attacker to read arbitrary files from a ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
+    body: "The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Grand Theft Auto III \u2013 The Legacy Review",
+    body: "Replaying the pioneering 2001 classic 25 years later and paying tribute to the game that didn\u2019t just change the trajectory of the GTA series forever \u2013 it changed the business.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Resonance: A Plague Tale Legacy's Game Director and Star on Why Sophia Is So Special and Why This Prequel Let the Team 'Get Some Fresh Air' | gamescom 2026",
     body: "Resonance: A Plague Tale Legacy has just been released on PS5, Xbox Series X/S, and PC, and we had the chance at gamescom to speak to David Dedeine, co-founder of Asobo and game director, and Anna Dem",
     time: "just now",
