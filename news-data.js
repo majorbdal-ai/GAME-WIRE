@@ -787,6 +787,36 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Grand Theft Auto III \u2013 The Legacy Review",
+    body: "Replaying the pioneering 2001 classic 25 years later and paying tribute to the game that didn\u2019t just change the trajectory of the GTA series forever \u2013 it changed the business.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
+    body: "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet.\n\nThat\u2019s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The Pok\u00e9mon Company Looks to Smart Device Integrations as Future Targets",
+    body: "President and CEO of The Pok\u00e9mon Company, Tsunekazu Ishihara, shared a small bit of insight about the company\u2019s possible future plans with wearable technology during a panel discussion at the inaugura",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Indie Dev Posts Video Reporting Stolen Laptops at gamescom as CD Projekt Red and More Step in to Help",
     body: "Ryan Laley, the solo indie developer behind upcoming asymmetrical horror game Mimic, has shared a video confirming his gamescom was \"cut short\" after he and other developers had their laptops stolen.",
     time: "just now",
