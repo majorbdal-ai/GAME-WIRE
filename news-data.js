@@ -267,6 +267,36 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Dragon\u2019s Dogma 2: Dark Arisen Will Send You On a Chilly Loot Grind | gamescom 2026",
+    body: "Dragon's Dogma 2's Dark Arisen expansion adds a whole new region with clever winter weather effects, an old-but-new loot grind, and... a dragon that vomits zombies. We're so back.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The Pok\u00e9mon Company Looks to Smart Device Integrations as Future Targets",
+    body: "President and CEO of The Pok\u00e9mon Company, Tsunekazu Ishihara, shared a small bit of insight about the company\u2019s possible future plans with wearable technology during a panel discussion at the inaugura",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
+    body: "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet.\n\nThat\u2019s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Join Us: Watch 11 Minutes of Exclusive Gameplay from the Upcoming Cult Simulator | gamescom 2026",
     body: "Wolf Haus Games revealed 11 minutes of gameplay for Join Us at gamescom 2026, alongside a PS5 announcement and a trailer featuring real-life former cult members.",
     time: "just now",
