@@ -105,6 +105,30 @@ footer.site{max-width:760px;margin:40px auto 0;padding:20px;color:var(--text-dim
 
 <script src="news-data.js"></script>
 <script>
+let allNews = typeof NEWS_ALL !== 'undefined' ? NEWS_ALL : [];
+
+async function initArchive() {
+  try {
+    const res = await fetch('data/news.json', { cache: 'no-store' });
+    if (res.ok) {
+      const data = await res.json();
+      if (data && Array.isArray(data.items)) {
+        allNews = data.items.map(item => ({
+          category: item.categoryBn || item.category,
+          title: item.title,
+          body: item.summary,
+          time: item.pubDate ? new Date(item.pubDate).toLocaleDateString() : 'recent',
+          color: 'var(--cyan)',
+          link: '#'
+        }));
+      }
+    }
+  } catch (e) {
+    console.log('Using local fallback');
+  }
+  render('');
+}
+
 const input = document.getElementById('searchInput');
 const list = document.getElementById('resultsList');
 const emptyState = document.getElementById('emptyState');
@@ -114,8 +138,6 @@ document.getElementById('footerDate').textContent =
   new Date().toLocaleDateString('en-GB');
 
 function colorVarToHex(colorVar){
-  // NEWS_ALL এ কালার একটা CSS var() হিসেবে রাখা আছে (হোমপেজে ব্যবহারের জন্য),
-  // এখানে সেটাকেই সরাসরি ব্যবহার করা হচ্ছে — কোনো হেক্স ম্যাপিং লাগছে না।
   return colorVar || 'var(--cyan)';
 }
 
@@ -124,8 +146,8 @@ function render(query){
   const q = query.trim().toLowerCase();
 
   const matches = q === ''
-    ? NEWS_ALL
-    : NEWS_ALL.filter(n => n.title.toLowerCase().includes(q));
+    ? allNews
+    : allNews.filter(n => n.title.toLowerCase().includes(q) || (n.body && n.body.toLowerCase().includes(q)));
 
   if (matches.length === 0){
     emptyState.style.display = 'block';
@@ -137,7 +159,7 @@ function render(query){
   emptyState.style.display = 'none';
   resultCount.style.display = 'block';
   resultCount.textContent = q === ''
-    ? `${matches.length} total`
+    ? `${matches.length} total articles`
     : `${matches.length} result${matches.length > 1 ? 's' : ''}`;
 
   matches.forEach(n => {
@@ -155,7 +177,7 @@ function render(query){
 }
 
 input.addEventListener('input', () => render(input.value));
-render('');
+initArchive();
 </script>
 </body>
 </html>
