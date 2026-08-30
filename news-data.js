@@ -27,6 +27,26 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "GTA 5's Michael Actor Defends GTA 6 After Doubters Say Rockstar's Games Look Too Similar",
+    body: "Ned Luke, the actor behind Grand Theft Auto 5's Michael De Santa, said people who think Grand Theft Auto 6 looks too much like GTA 5 are \"out of their minds.\"",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The Best Deals Today: LEGO Star Wars, Dragon Quest I & II HD-2D Remake, Jurassic Park 4K Collection, and More",
+    body: "The Best Deals Today: LEGO Star Wars, Dragon Quest I & II HD-2D Remake, Jurassic Park 4K Collection, and More",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "4 Penny Coffins Lets You Play 19th-Century Detective \u2013 Or a 10-Foot Demon Ripping Friends in Half",
     body: "Other Ocean\u2019s 4 Penny Coffins blends Among Us with Jack the Ripper in an 1888 Whitechapel social investigation game featuring 8-player and solo modes.",
     time: "just now",
