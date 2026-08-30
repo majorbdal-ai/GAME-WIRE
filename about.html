@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About Us · GAME-WIRE</title>
+<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<style>
+  :root{
+    --bg:#0B0E14;
+    --bg-soft:#10141C;
+    --surface:#161B26;
+    --line:#232A38;
+    --text:#E9EDF5;
+    --muted:#8891A3;
+    --brand:#FF3B7C;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{background:var(--bg); color:var(--text); font-family:'Inter',sans-serif; line-height:1.7;}
+  .topbar{display:flex; align-items:center; justify-content:space-between; padding:16px 24px; border-bottom:1px solid var(--line); background:rgba(11,14,20,.88); backdrop-filter:blur(10px); position:sticky; top:0; z-index:50;}
+  .logo{font-family:'Rajdhani',sans-serif; font-weight:700; font-size:22px; letter-spacing:.04em; color:var(--text); text-decoration:none;}
+  .logo span{color:var(--brand);}
+  .back-link{color:var(--muted); text-decoration:none; font-size:13px; font-weight:600; display:flex; align-items:center; gap:6px;}
+  .back-link:hover{color:var(--text);}
+  .wrap{max-width:800px; margin:40px auto; padding:0 20px;}
+  h1{font-family:'Rajdhani',sans-serif; font-size:36px; font-weight:700; margin-bottom:16px; color:#fff;}
+  h2{font-family:'Rajdhani',sans-serif; font-size:24px; font-weight:700; margin-top:32px; margin-bottom:12px; color:var(--brand);}
+  p, li{color:var(--muted); font-size:15px; margin-bottom:16px;}
+  ul{padding-left:20px; margin-bottom:16px;}
+  .card{background:var(--surface); border:1px solid var(--line); border-radius:8px; padding:28px; margin-top:24px;}
+  footer{text-align:center; padding:40px; color:var(--muted); font-size:13px; border-top:1px solid var(--line); margin-top:60px;}
+</style>
+</head>
+<body>
+<header class="topbar">
+  <a href="index.html" class="logo"><span>GAME</span>WIRE</a>
+  <a href="index.html" class="back-link"><i class="fa-solid fa-arrow-left"></i> Back to Home</a>
+</header>
+<div class="wrap">
+  <h1>About GAME-WIRE</h1>
+  <p>Welcome to <strong>GAME-WIRE</strong>, your premier destination for international gaming news, esports tournaments, hardware breakthroughs, and deep-dive developer insights.</p>
+  
+  <div class="card">
+    <h2>Our 100% In-Site Reading Philosophy</h2>
+    <p>At GAME-WIRE, we believe in a seamless, distraction-free reading experience. Unlike traditional news portals that redirect you across external websites riddled with trackers and paywalls, GAME-WIRE aggregates top-tier gaming journalism and delivers complete articles directly inside our secure, lightning-fast in-site reader modal.</p>
+    
+    <h2>What We Cover</h2>
+    <ul>
+      <li><strong>AAA & Indie Gaming:</strong> Comprehensive coverage of upcoming releases, trailers, patches, and walkthroughs.</li>
+      <li><strong>Esports Arena:</strong> Live tournament brackets, player stats, and match breakdowns for Valorant, CS2, PUBG, and LCK.</li>
+      <li><strong>Hardware & Tech:</strong> GPU benchmarks, console architectures (Nintendo Switch 2, PS5 Pro), and PC building guides.</li>
+      <li><strong>Automated AI Syncing:</strong> Real-time updates curated through automated pipelines to keep you ahead of the curve 24/7.</li>
+    </ul>
+  </div>
+</div>
+<footer>
+  <p>GAME-WIRE © 2026 · Independent International Gaming News Hub</p>
+</footer>
+</body>
+</html>
