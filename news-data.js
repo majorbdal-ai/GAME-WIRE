@@ -27,6 +27,26 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Every Cosmere Tabletop Game Based on Brandon Sanderson's Epic Book Universe",
+    body: "Every Cosmere Tabletop Game Based on Brandon Sanderson's Epic Book Universe",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "4 Penny Coffins Lets You Play 19th-Century Detective \u2013 Or a 10-Foot Demon Ripping Friends in Half",
+    body: "Other Ocean\u2019s 4 Penny Coffins blends Among Us with Jack the Ripper in an 1888 Whitechapel social investigation game featuring 8-player and solo modes.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Fable's Main Quest Will Take About 20 Hours to Beat",
     body: "Fable's main quest will take around 20 hours to beat, Playground Games has confirmed.",
     time: "just now",
