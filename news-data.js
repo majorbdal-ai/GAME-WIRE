@@ -83,6 +83,26 @@ const NEWS_ALL = [
     link: "#"
   },
   {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Dragon\u2019s Dogma 2: Dark Arisen Will Send You On a Chilly Loot Grind | gamescom 2026",
+    body: "Dragon's Dogma 2's Dark Arisen expansion adds a whole new region with clever winter weather effects, an old-but-new loot grind, and... a dragon that vomits zombies. We're so back.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The Pok\u00e9mon Company Looks to Smart Device Integrations as Future Targets",
+    body: "President and CEO of The Pok\u00e9mon Company, Tsunekazu Ishihara, shared a small bit of insight about the company\u2019s possible future plans with wearable technology during a panel discussion at the inaugura",
+    time: "just now",
+    link: "#"
+  },
+  {
     section: "tech",
     tag: "TRENDING",
     category: "HACKING",
