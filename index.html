@@ -1,503 +1,312 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="scroll-smooth">
 <head>
-  <meta name="google-site-verification" content="4xP-4OJVEpE44QgYLHz4BKNYlEgEYYs8lAQZ_6gHgoQ" />
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>GAME WIRE — Live Gaming News</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
-<style>
-  :root{
-    --bg:#0B0E14;
-    --bg-soft:#10141C;
-    --surface:#161B26;
-    --surface-2:#1B2230;
-    --line:#232A38;
-    --text:#E9EDF5;
-    --muted:#8891A3;
-    --brand:#FF3B7C;
-    --brand-dim:#FF3B7C33;
-    --cyan:#22D3EE;
-    --cyan-dim:#22D3EE33;
-    --amber:#FFB020;
-    --amber-dim:#FFB02033;
-    --violet:#8B7CF6;
-    --violet-dim:#8B7CF633;
-  }
-  *{box-sizing:border-box; margin:0; padding:0;}
-  html{scroll-behavior:smooth;}
-  body{
-    background:var(--bg);
-    color:var(--text);
-    font-family:'Inter',sans-serif;
-    -webkit-font-smoothing:antialiased;
-    background-image:
-      radial-gradient(circle at 15% 0%, #1a1030 0%, transparent 40%),
-      radial-gradient(circle at 100% 20%, #061a22 0%, transparent 45%);
-    background-attachment:fixed;
-  }
-  .display{font-family:'Rajdhani',sans-serif; letter-spacing:.02em;}
-  .mono{font-family:'JetBrains Mono',monospace;}
-
-  /* ===== Topbar ===== */
-  .topbar{
-    display:flex; align-items:center; justify-content:space-between;
-    padding:16px 18px;
-    border-bottom:1px solid var(--line);
-    position:sticky; top:0; z-index:50;
-    background:rgba(11,14,20,.88);
-    backdrop-filter:blur(10px);
-  }
-  .logo{
-    display:flex; align-items:baseline; gap:2px;
-    font-family:'Rajdhani',sans-serif;
-    font-weight:700; font-size:22px; letter-spacing:.04em;
-  }
-  .logo span:first-child{color:var(--text);}
-  .logo span:last-child{color:var(--brand);}
-  .clock{
-    font-size:11px; color:var(--muted);
-    display:flex; align-items:center; gap:6px;
-  }
-  .live-dot{
-    width:7px; height:7px; border-radius:50%;
-    background:var(--brand);
-    box-shadow:0 0 0 0 var(--brand-dim);
-    animation:pulse 1.6s infinite;
-  }
-  @keyframes pulse{
-    0%{box-shadow:0 0 0 0 rgba(255,59,124,.55);}
-    70%{box-shadow:0 0 0 8px rgba(255,59,124,0);}
-    100%{box-shadow:0 0 0 0 rgba(255,59,124,0);}
-  }
-
-  /* ===== Section Nav ===== */
-  .sitenav{
-    display:flex; gap:4px; overflow-x:auto;
-    padding:10px 18px;
-    border-bottom:1px solid var(--line);
-    background:var(--bg-soft);
-  }
-  .sitenav a{
-    flex:0 0 auto;
-    font-family:'Rajdhani',sans-serif; font-weight:600; font-size:13px;
-    letter-spacing:.04em; text-transform:uppercase;
-    color:var(--muted); text-decoration:none;
-    padding:6px 12px; border-radius:2px;
-    border:1px solid transparent;
-    transition:color .15s ease, border-color .15s ease;
-  }
-  .sitenav a:hover{color:var(--text); border-color:var(--line);}
-  .sitenav a.active{color:var(--brand); border-color:var(--brand-dim); background:var(--brand-dim);}
-
-  /* ===== Ticker ===== */
-  .ticker-wrap{
-    border-bottom:1px solid var(--line);
-    background:var(--bg-soft);
-    display:flex; overflow:hidden; white-space:nowrap;
-    position:relative;
-  }
-  .ticker-label{
-    flex:0 0 auto;
-    background:var(--brand);
-    color:#0B0E14;
-    font-family:'Rajdhani',sans-serif; font-weight:700;
-    font-size:12px; letter-spacing:.08em;
-    padding:8px 12px;
-    display:flex; align-items:center;
-    z-index:2;
-  }
-  .ticker-track{
-    display:flex;
-    animation:scroll-left 32s linear infinite;
-  }
-  .ticker-track span{
-    font-family:'JetBrains Mono',monospace;
-    font-size:12px; color:var(--muted);
-    padding:8px 28px 8px 0;
-    flex:0 0 auto;
-  }
-  .ticker-track span b{color:var(--text); font-weight:500;}
-  @keyframes scroll-left{
-    0%{transform:translateX(0);}
-    100%{transform:translateX(-50%);}
-  }
-
-  main{max-width:720px; margin:0 auto; padding:0 16px 60px;}
-
-  /* ===== Hero / Top news ===== */
-  .hero{
-    margin-top:22px;
-    position:relative;
-    border:1px solid var(--brand-dim);
-    background:linear-gradient(180deg, #1A0E17 0%, var(--surface) 70%);
-    border-radius:2px;
-    padding:26px 20px 22px;
-    overflow:hidden;
-  }
-  .hero::before{
-    content:"";
-    position:absolute; inset:0;
-    background:
-      repeating-linear-gradient(0deg, rgba(255,255,255,.02) 0px, rgba(255,255,255,.02) 1px, transparent 1px, transparent 3px);
-    pointer-events:none;
-  }
-  .hero-tag{
-    display:inline-flex; align-items:center; gap:6px;
-    font-family:'Rajdhani',sans-serif; font-weight:700; font-size:13px;
-    letter-spacing:.12em; color:var(--brand);
-    border:1px solid var(--brand); padding:3px 10px;
-  }
-  .hero h1{
-    font-family:'Rajdhani',sans-serif; font-weight:700;
-    font-size:34px; line-height:1.08;
-    margin:16px 0 10px;
-    letter-spacing:.01em;
-  }
-  .hero p{color:var(--muted); font-size:14.5px; line-height:1.55; max-width:52ch;}
-  .hero-meta{
-    display:flex; gap:16px; margin-top:16px;
-    font-family:'JetBrains Mono',monospace; font-size:11px; color:var(--muted);
-  }
-  .hero-meta b{color:var(--cyan);}
-
-  /* ===== Section headers ===== */
-  .section-head{
-    display:flex; align-items:center; gap:10px;
-    margin:38px 0 14px;
-  }
-  .section-head .num{
-    font-family:'JetBrains Mono',monospace; font-size:11px; color:var(--muted);
-  }
-  .section-head h2{
-    font-family:'Rajdhani',sans-serif; font-weight:700; font-size:18px;
-    letter-spacing:.06em; text-transform:uppercase;
-  }
-  .section-head .rule{flex:1; height:1px; background:var(--line);}
-
-  /* ===== News grid ===== */
-  .grid{display:flex; flex-direction:column; gap:12px;}
-  .card{
-    position:relative;
-    background:var(--surface);
-    border:1px solid var(--line);
-    padding:16px 16px 16px 18px;
-    transition:transform .15s ease, border-color .15s ease;
-  }
-  .card:active, .card:hover{
-    transform:translateY(-2px);
-    border-color:var(--card-color, var(--cyan));
-  }
-  .card::before{
-    content:"";
-    position:absolute; left:0; top:0; bottom:0; width:3px;
-    background:var(--card-color, var(--cyan));
-  }
-  .card-meta{
-    display:flex; align-items:center; gap:8px;
-    font-family:'JetBrains Mono',monospace; font-size:10.5px;
-    color:var(--card-color, var(--cyan));
-    letter-spacing:.06em; margin-bottom:8px;
-  }
-  .card-meta .dot{opacity:.4; color:var(--muted);}
-  .card h3{
-    font-family:'Rajdhani',sans-serif; font-weight:600; font-size:19px;
-    line-height:1.25; margin-bottom:6px;
-  }
-  .card p{color:var(--muted); font-size:13.5px; line-height:1.5;}
-
-  /* ===== Scoreboard (esports) ===== */
-  .scoreboard{
-    background:var(--surface);
-    border:1px solid var(--cyan-dim);
-    padding:18px;
-  }
-  .scoreboard-head{
-    display:flex; justify-content:space-between; align-items:center;
-    margin-bottom:14px;
-  }
-  .scoreboard-head h3{font-family:'Rajdhani',sans-serif; font-weight:700; font-size:18px;}
-  .live-pill{
-    display:flex; align-items:center; gap:6px;
-    font-family:'JetBrains Mono',monospace; font-size:10px;
-    color:var(--brand); border:1px solid var(--brand); padding:3px 8px;
-  }
-  .stat-row{display:flex; gap:10px; margin-bottom:14px;}
-  .stat{
-    flex:1; background:var(--bg-soft); border:1px solid var(--line);
-    text-align:center; padding:10px 4px;
-  }
-  .stat .v{font-family:'Rajdhani',sans-serif; font-weight:700; font-size:22px; color:var(--cyan);}
-  .stat .l{font-family:'JetBrains Mono',monospace; font-size:9.5px; color:var(--muted); letter-spacing:.08em; margin-top:2px;}
-  .chat{
-    background:var(--bg-soft); border:1px solid var(--line);
-    padding:12px; font-family:'JetBrains Mono',monospace; font-size:12px;
-    line-height:1.9; color:var(--muted);
-  }
-  .chat b{color:var(--cyan);}
-
-  /* ===== Launch table ===== */
-  .table-wrap{
-    background:var(--surface); border:1px solid var(--amber-dim);
-    overflow:hidden;
-  }
-  table{width:100%; border-collapse:collapse;}
-  th{
-    text-align:left; font-family:'JetBrains Mono',monospace; font-size:10px;
-    color:var(--amber); letter-spacing:.1em; text-transform:uppercase;
-    padding:12px 12px 10px; border-bottom:1px solid var(--line);
-  }
-  td{
-    padding:12px; font-size:13.5px; border-bottom:1px solid var(--line);
-    font-family:'Inter',sans-serif;
-  }
-  tr:last-child td{border-bottom:none;}
-  td.game{font-weight:600; color:var(--text);}
-  td.req{color:var(--muted); font-family:'JetBrains Mono',monospace; font-size:11.5px;}
-
-  footer{
-    margin-top:50px; padding-top:20px; border-top:1px solid var(--line);
-    display:flex; justify-content:space-between; align-items:center;
-    font-family:'JetBrains Mono',monospace; font-size:10.5px; color:var(--muted);
-  }
-
-  /* ===== Animations ===== */
-
-  /* Hero: signal "tunes in" on load, like a broadcast locking on */
-  .hero{
-    animation:tune-in .7s cubic-bezier(.2,.8,.2,1) both;
-  }
-  @keyframes tune-in{
-    0%{opacity:0; transform:translateY(10px); filter:blur(6px); clip-path:inset(0 0 60% 0);}
-    45%{opacity:1; filter:blur(0); clip-path:inset(0 0 0 0);}
-    50%{clip-path:inset(0 0 0 0); transform:translateY(0);}
-    52%{opacity:.7; transform:translateX(-3px);}
-    54%{opacity:1; transform:translateX(2px);}
-    56%{transform:translateX(0);}
-    100%{opacity:1; transform:translateY(0); filter:blur(0);}
-  }
-  .hero-tag{animation:tag-flicker 2.6s ease-in-out .8s infinite;}
-  @keyframes tag-flicker{
-    0%,100%{opacity:1;}
-    92%{opacity:1;}
-    94%{opacity:.35;}
-    96%{opacity:1;}
-  }
-
-  /* Reveal-on-scroll for cards / sections */
-  .reveal{
-    opacity:0; transform:translateY(16px);
-    transition:opacity .5s ease, transform .5s ease;
-  }
-  .reveal.is-visible{opacity:1; transform:translateY(0);}
-  .grid .reveal:nth-child(1){transition-delay:.05s;}
-  .grid .reveal:nth-child(2){transition-delay:.15s;}
-  .grid .reveal:nth-child(3){transition-delay:.25s;}
-  .grid .reveal:nth-child(4){transition-delay:.35s;}
-
-  /* ===== Load More button (matches ticker-label / card theme) ===== */
-  .load-more-wrap{ display:flex; justify-content:center; margin-top:16px; }
-  .load-more-btn{
-    font-family:'JetBrains Mono',monospace; font-weight:500; font-size:11.5px;
-    letter-spacing:.08em; text-transform:uppercase;
-    color:var(--cyan); background:var(--surface);
-    border:1px solid var(--cyan-dim);
-    padding:11px 22px; cursor:pointer;
-    display:flex; align-items:center; gap:6px;
-    transition:border-color .15s ease, box-shadow .15s ease, transform .15s ease;
-  }
-  .load-more-btn:hover{ border-color:var(--cyan); box-shadow:0 0 14px rgba(34,211,238,.25); transform:translateY(-1px); }
-  .load-more-count{ color:var(--muted); }
-
-  /* Card hover: lift + border glow (glow strength via card-color) */
-  .card{
-    box-shadow:0 0 0 0 transparent;
-    transition:transform .18s ease, border-color .18s ease, box-shadow .18s ease;
-  }
-  .card:hover, .card:active{
-    box-shadow:0 8px 24px -12px var(--card-color, var(--cyan));
-  }
-
-  /* Live dot ping ring (extra layer for the header/scoreboard indicators) */
-  .live-dot{position:relative;}
-  .live-dot::after{
-    content:"";
-    position:absolute; inset:-5px;
-    border:1px solid var(--brand);
-    border-radius:50%;
-    animation:ping 1.6s cubic-bezier(0,.6,.6,1) infinite;
-  }
-  @keyframes ping{
-    0%{transform:scale(.6); opacity:.9;}
-    100%{transform:scale(1.8); opacity:0;}
-  }
-
-  /* Scoreboard stat pop when counted up */
-  .stat .v{transition:color .2s ease;}
-  .stat.counting .v{color:var(--brand);}
-
-  /* Ticker label subtle glow pulse to match the live theme */
-  .ticker-label{animation:label-glow 2.4s ease-in-out infinite;}
-  @keyframes label-glow{
-    0%,100%{box-shadow:0 0 0 rgba(255,59,124,0);}
-    50%{box-shadow:0 0 14px rgba(255,59,124,.55);}
-  }
-
-  @media (prefers-reduced-motion: reduce){
-    *{animation-duration:.001ms !important; animation-iteration-count:1 !important; transition-duration:.001ms !important;}
-    .reveal{opacity:1; transform:none;}
-  }
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=1280">
+    <title>GAME-WIRE — International Gaming & Tech News Hub</title>
+    <!-- Tailwind CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Hind+Siliguri:wght@400;600;700&family=Playfair+Display:ital,wght@0,700;0,900;1,700&display=swap" rel="stylesheet">
+    <!-- Alpine.js -->
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    <style>
+        body { font-family: 'Hind Siliguri', 'Plus Jakarta Sans', sans-serif; background-color: #f8fafc; color: #0f172a; }
+        .font-serif-title { font-family: 'Playfair Display', 'Hind Siliguri', serif; }
+        [x-cloak] { display: none !important; }
+        .hero-banner-gradient { background: linear-gradient(135deg, #047857 0%, #065f46 50%, #0f172a 100%); }
+        .news-card { background: #ffffff; border: 1px solid #e2e8f0; box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.05); transition: all 0.3s ease; }
+        .news-card:hover { transform: translateY(-4px); box-shadow: 0 20px 35px -10px rgba(16, 185, 129, 0.2); }
+    </style>
 </head>
-<body>
+<body class="min-h-screen flex flex-col" x-data="newsPortal()">
 
-<div class="topbar">
-  <div class="logo"><span>GAME</span><span>WIRE</span></div>
-  <div class="clock"><span class="live-dot"></span><span id="clockText" class="mono">--:--:--</span></div>
-</div>
+    <!-- Top Header (Clean White Theme) -->
+    <header class="bg-white border-b border-slate-200 sticky top-0 z-40 px-4 sm:px-8 py-4 shadow-sm">
+        <div class="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4">
+            <!-- Brand Logo -->
+            <div class="flex items-center space-x-3 cursor-pointer" @click="selectedCategory = 'all'; searchQuery = ''">
+                <div class="bg-emerald-600 text-white w-12 h-12 rounded-2xl flex items-center justify-center text-2xl font-black shadow-lg shadow-emerald-600/30">
+                    <i class="fa-solid fa-newspaper"></i>
+                </div>
+                <div>
+                    <h1 class="text-xl sm:text-2xl font-black tracking-tight text-slate-900 font-serif-title">GAME-WIRE</h1>
+                    <p class="text-xs uppercase tracking-wider text-slate-500 font-bold">100% IN-SITE GAMING NEWS PORTAL</p>
+                </div>
+            </div>
 
-<nav class="sitenav">
-  <a href="index.html" class="active">Home</a>
-  <a href="gaming.html">Gaming</a>
-  <a href="tech.html">Tech &amp; Hacking</a>
-  <a href="archive.html">Archive</a>
-</nav>
+            <!-- Top Header Control Buttons (White/Light theme with BLACK text for ultimate clarity) -->
+            <div class="flex items-center space-x-3">
+                <button @click="loadNews()" :disabled="loading" class="bg-emerald-500 hover:bg-emerald-600 text-black font-black px-5 py-2.5 rounded-2xl text-sm shadow-md flex items-center space-x-2 cursor-pointer transition active:scale-95 border border-emerald-600">
+                    <i class="fa-solid fa-rotate" :class="{ 'fa-spin': loading }"></i>
+                    <span x-text="loading ? 'Syncing...' : 'Real-Time Sync'"></span>
+                </button>
+                <button @click="lang = lang === 'bn' ? 'en' : 'bn'" class="bg-slate-100 hover:bg-slate-200 text-black font-black px-4 py-2.5 rounded-2xl text-sm shadow-sm flex items-center space-x-1.5 cursor-pointer border border-slate-300">
+                    <i class="fa-solid fa-globe text-emerald-700"></i>
+                    <span x-text="lang === 'bn' ? 'English' : 'English'"></span>
+                </button>
+            </div>
+        </div>
+    </header>
 
-<div class="ticker-wrap">
-  <div class="ticker-label">LIVE</div>
-  <div class="ticker-track" id="tickerTrack"></div>
-</div>
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 flex-1 w-full">
+        <!-- Loading State -->
+        <div x-show="loading" class="flex flex-col items-center justify-center py-28 space-y-4">
+            <div class="w-16 h-16 border-4 border-emerald-600 border-t-transparent rounded-full animate-spin"></div>
+            <p class="text-base font-bold text-slate-700">Loading Gaming News...</p>
+        </div>
 
-<main>
-  <!-- ===== HERO: distinct top-news treatment (filled by script from NEWS_ALL) ===== -->
-  <section class="hero" id="heroSection">
-    <span class="hero-tag" id="heroTag">BREAKING</span>
-    <h1 class="display" id="heroTitle"></h1>
-    <p id="heroBody"></p>
-  </section>
+        <template x-if="!loading">
+            <div>
+                <!-- Hero Featured Banner -->
+                <div class="hero-banner-gradient rounded-3xl p-6 sm:p-10 lg:p-14 text-white mb-10 relative overflow-hidden shadow-2xl" x-show="heroItem">
+                    <div class="relative z-10 max-w-3xl">
+                        <span class="bg-white text-black text-xs font-black px-4 py-1.5 rounded-full uppercase tracking-wider mb-4 inline-block shadow">
+                            <i class="fa-solid fa-star mr-1 text-emerald-600"></i> BREAKING GAME WIRE
+                        </span>
+                        <h2 class="text-2xl sm:text-4xl font-extrabold font-serif-title leading-tight mb-4" x-text="heroItem ? heroItem.title : ''"></h2>
+                        <p class="text-slate-100 text-sm sm:text-base leading-relaxed mb-8 max-w-2xl line-clamp-3" x-text="heroItem ? heroItem.summary : ''"></p>
+                        
+                        <!-- Hero Button with Black Text -->
+                        <button @click="openModal(heroItem)" class="bg-white hover:bg-emerald-50 text-black px-8 py-4 rounded-2xl text-sm sm:text-base font-black transition shadow-xl items-center space-x-2 cursor-pointer flex border-2 border-slate-200">
+                            <span x-text="lang === 'bn' ? 'Read Full Report' : 'Read Full Report'"></span>
+                            <i class="fa-solid fa-book-open text-emerald-700 ml-1"></i>
+                        </button>
+                    </div>
+                </div>
 
-  <!-- ===== Other news ===== -->
-  <div class="section-head">
-    <span class="num mono">02</span>
-    <h2>Latest</h2>
-    <div class="rule"></div>
-  </div>
-  <div class="grid" id="newsGrid"></div>
-  <div class="load-more-wrap">
-    <a class="load-more-btn" href="archive.html">
-      <span>Search Older News</span>
-    </a>
-  </div>
+                <!-- Category Filters & Search -->
+                <div class="flex flex-col lg:flex-row gap-6 justify-between items-center mb-10 bg-white p-5 lg:p-6 rounded-3xl border border-slate-200 shadow-lg">
+                    <!-- Category Buttons with Black Text -->
+                    <div class="flex items-center space-x-3 overflow-x-auto pb-2 lg:pb-0 w-full lg:w-auto scrollbar-none">
+                        <button @click="selectCategory('all')"
+                            :class="selectedCategory === 'all' ? 'bg-emerald-500 text-black shadow-md scale-105 border-emerald-600' : 'bg-slate-100 text-black hover:bg-slate-200 border border-slate-300'"
+                            class="px-5 py-3 rounded-2xl text-xs sm:text-sm font-black whitespace-nowrap transition flex items-center space-x-2 cursor-pointer">
+                            <i class="fa-solid fa-globe text-emerald-800"></i>
+                            <span>All News</span>
+                            <span class="text-[10px] px-2 py-0.5 rounded-full font-bold ml-1 bg-black/10 text-black" x-text="newsList.length"></span>
+                        </button>
 
-  <!-- ===== Esports scoreboard ===== -->
-  <div class="section-head">
-    <span class="num mono">03</span>
-    <h2>Esports Arena</h2>
-    <div class="rule"></div>
-  </div>
-  <div class="scoreboard reveal" id="scoreboardSection">
-    <div class="scoreboard-head">
-      <h3>PUBG Mobile World Cup (PMWC 2026)</h3>
-      <div class="live-pill"><span class="live-dot"></span>LIVE</div>
+                        <template x-for="cat in availableCategories()" :key="cat.id">
+                            <button @click="selectCategory(cat.id)"
+                                :class="selectedCategory === cat.id ? 'bg-emerald-500 text-black shadow-md scale-105 border-emerald-600' : 'bg-slate-100 text-black hover:bg-slate-200 border border-slate-300'"
+                                class="px-5 py-3 rounded-2xl text-xs sm:text-sm font-black whitespace-nowrap transition flex items-center space-x-2 cursor-pointer">
+                                <i :class="cat.icon" class="text-emerald-800"></i>
+                                <span x-text="lang === 'bn' ? cat.bn : cat.en"></span>
+                                <span class="text-[10px] px-2 py-0.5 rounded-full font-bold ml-1 bg-black/10 text-black" x-text="categoryCount(cat.id)"></span>
+                            </button>
+                        </template>
+                    </div>
+
+                    <!-- Search Box -->
+                    <div class="relative w-full lg:w-72">
+                        <i class="fa-solid fa-magnifying-glass absolute left-4 top-1/2 -translate-y-1/2 text-slate-400"></i>
+                        <input type="text" x-model="searchQuery" placeholder="Search games, news, hardware..."
+                            class="w-full pl-11 pr-4 py-3.5 rounded-2xl border border-slate-300 bg-slate-50 text-sm font-bold text-black focus:outline-none focus:ring-2 focus:ring-emerald-500">
+                    </div>
+                </div>
+
+                <!-- News Grid Cards -->
+                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+                    <template x-for="item in visibleNews()" :key="item.id">
+                        <div @click="openModal(item)" class="news-card rounded-3xl overflow-hidden flex flex-col cursor-pointer group">
+                            <div class="h-48 w-full overflow-hidden relative bg-slate-200">
+                                <img x-show="item.image" :src="item.image" :alt="item.title" loading="lazy"
+                                     class="w-full h-full object-cover group-hover:scale-105 transition duration-500"
+                                     @error="item.image = ''">
+                                <div x-show="!item.image" class="w-full h-full flex items-center justify-center bg-emerald-50">
+                                    <i class="text-4xl text-emerald-600" :class="categoryIcon(item.category)"></i>
+                                </div>
+                                <span class="absolute top-3 left-3 bg-slate-900 text-white text-[11px] font-black px-3 py-1 rounded-full shadow" x-text="lang === 'bn' ? item.categoryBn : categoryEn(item.category)"></span>
+                            </div>
+                            <div class="p-6 flex flex-col flex-1">
+                                <h3 class="font-extrabold text-base sm:text-lg leading-snug mb-3 line-clamp-2 text-slate-900 group-hover:text-emerald-700 transition" x-text="item.title"></h3>
+                                <p class="text-sm text-slate-600 leading-relaxed line-clamp-2 mb-6 flex-1" x-text="item.summary"></p>
+                                <div class="flex items-center justify-between text-xs font-bold pt-4 border-t border-slate-100 mt-auto">
+                                    <span class="text-emerald-700 font-extrabold" x-text="item.source"></span>
+                                    <!-- Card Button with BLACK text -->
+                                    <button @click.stop="openModal(item)" class="bg-emerald-500 hover:bg-emerald-600 text-black font-black px-4 py-2 rounded-xl text-xs transition shadow-md cursor-pointer">
+                                        Read Full Story
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </template>
+                </div>
+
+                <!-- No Results State -->
+                <div x-show="filteredNews().length === 0" x-cloak class="text-center py-20 text-slate-500 font-bold">
+                    <i class="fa-solid fa-magnifying-glass text-4xl mb-3 text-slate-300"></i>
+                    <p>No gaming news found</p>
+                </div>
+
+                <!-- Load More Button -->
+                <div class="flex justify-center mt-12" x-show="visibleCount < filteredNews().length" x-cloak>
+                    <button @click="visibleCount += 24" class="bg-emerald-500 hover:bg-emerald-600 text-black font-black px-8 py-4 rounded-2xl text-sm transition shadow-lg cursor-pointer">
+                        Load More News
+                    </button>
+                </div>
+            </div>
+        </template>
+    </main>
+
+    <!-- Footer -->
+    <footer class="border-t border-slate-200 mt-20 py-10 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-sm text-slate-600 space-y-1">
+            <p class="font-black text-slate-900">GAME-WIRE — সমস্ত সংবাদ শতভাগ এই ওয়েবসাইটে পঠিত হয়।</p>
+            <p class="text-xs">Independent International Gaming News Hub.</p>
+        </div>
+    </footer>
+
+    <!-- Full In-Site Reader Modal -->
+    <div x-show="activeArticle" x-cloak class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-950/70 backdrop-blur-sm overflow-y-auto" @keydown.escape.window="closeModal()">
+        <div class="bg-white w-full max-w-3xl rounded-3xl shadow-2xl overflow-hidden max-h-[90vh] flex flex-col border border-slate-200 relative" @click.away="closeModal()">
+            <!-- Modal Header -->
+            <div class="flex items-center justify-between px-6 py-4 border-b border-slate-200 bg-slate-50">
+                <div class="flex items-center space-x-2">
+                    <span class="bg-emerald-600 text-white text-xs font-black px-3 py-1 rounded-full" x-text="activeArticle ? activeArticle.categoryBn : ''"></span>
+                    <span class="text-xs font-black text-emerald-800" x-text="activeArticle ? activeArticle.source : ''"></span>
+                </div>
+                <button @click="closeModal()" class="bg-slate-200 hover:bg-slate-300 text-black w-9 h-9 rounded-full flex items-center justify-center font-black transition cursor-pointer">
+                    <i class="fa-solid fa-xmark text-base"></i>
+                </button>
+            </div>
+            <!-- Modal Body -->
+            <div class="p-6 sm:p-8 overflow-y-auto space-y-6 flex-1 text-slate-900">
+                <h2 class="text-xl sm:text-2xl lg:text-3xl font-black leading-tight font-serif-title" x-text="activeArticle ? activeArticle.title : ''"></h2>
+                
+                <div class="flex items-center space-x-4 text-xs text-slate-500 font-bold pb-4 border-b border-slate-100">
+                    <span><i class="fa-regular fa-clock mr-1.5"></i> <span x-text="activeArticle ? activeArticle.pubDate : ''"></span></span>
+                    <span><i class="fa-solid fa-shield-halved mr-1.5 text-emerald-600"></i> GAME-WIRE ভেরিফাইড ইন-সাইট নিউজ</span>
+                </div>
+
+                <div class="h-64 sm:h-80 w-full rounded-2xl overflow-hidden shadow-md bg-slate-100" x-show="activeArticle && activeArticle.image">
+                    <img :src="activeArticle ? activeArticle.image : ''" :alt="activeArticle ? activeArticle.title : ''" class="w-full h-full object-cover">
+                </div>
+
+                <div class="prose max-w-none text-base sm:text-lg leading-relaxed space-y-4 font-normal" x-html="activeArticle ? (activeArticle.content || activeArticle.summary) : ''"></div>
+            </div>
+            <!-- Modal Footer -->
+            <div class="px-6 py-4 bg-slate-50 border-t border-slate-200 flex items-center justify-between">
+                <span class="text-xs font-black text-emerald-700">✓ ✓ Full Article Read Inside GAME-WIRE</span>
+                <button @click="closeModal()" class="bg-emerald-500 hover:bg-emerald-600 text-black font-black px-6 py-2.5 rounded-xl text-sm transition shadow-md cursor-pointer">
+                    Close
+                </button>
+            </div>
+        </div>
     </div>
-    <p style="margin-bottom:14px; color:var(--muted); font-size:14px;">The $3,000,000 World Cup officially kicks off today in Paris! 32 elite squads are dropping in for Day 1 Group Stages.</p>
-    <div class="chat">
-      <div><b>EWC_Fan:</b> Paris Expo is packed, let's go!</div>
-      <div><b>PUBG_Tracker:</b> KRX and G2 looking absolutely dangerous today!</div>
-    </div>
-  </div>
 
-  <!-- ===== Launch table ===== -->
-  <div class="section-head">
-    <span class="num mono">04</span>
-    <h2>Upcoming Launches</h2>
-    <div class="rule"></div>
-  </div>
-  <div class="table-wrap reveal">
-    <table>
-      <thead><tr><th>Game</th><th>Platform</th><th>Reqs</th></tr></thead>
-      <tbody id="launchesBody"></tbody>
-    </table>
-  </div>
+    <!-- Alpine Script -->
+    <script>
+        function newsPortal() {
+            return {
+                lang: 'en',
+                loading: true,
+                newsList: [],
+                generatedAt: null,
+                selectedCategory: 'all',
+                searchQuery: '',
+                visibleCount: 24,
+                activeArticle: null,
 
-  <footer>
-    <span>GAME WIRE © 2026</span>
-    <span id="footerDate" class="mono"></span>
-  </footer>
-</main>
+                categoryMeta: {
+                    latest:        { en: 'Latest',          bn: 'সর্বশেষ',        icon: 'fa-solid fa-bolt' },
+                    bangladesh:    { en: 'Bangladesh',      bn: 'Englishদেশ',      icon: 'fa-solid fa-flag' },
+                    politics:      { en: 'Politics',        bn: 'রাজনীতি',      icon: 'fa-solid fa-landmark' },
+                    crime:         { en: 'Crime & Law',     bn: 'অপরাধ ও আইন',    icon: 'fa-solid fa-scale-balanced' },
+                    economy:       { en: 'Economy',         bn: 'অর্থনীতি ও ব্যবসা', icon: 'fa-solid fa-chart-line' },
+                    international: { en: 'International',   bn: 'আন্তর্জাতিক',  icon: 'fa-solid fa-earth-asia' },
+                    sports:        { en: 'Sports',          bn: 'খেলাধুলা',      icon: 'fa-solid fa-futbol' },
+                    entertainment: { en: 'Entertainment',   bn: 'বিনোদন',      icon: 'fa-solid fa-clapperboard' },
+                    technology:    { en: 'Technology',      bn: 'প্রযুক্তি',      icon: 'fa-solid fa-microchip' },
+                    education:     { en: 'Education',       bn: 'শিক্ষা',        icon: 'fa-solid fa-graduation-cap' },
+                    health:        { en: 'Health',          bn: 'স্বাস্থ্য',      icon: 'fa-solid fa-heart-pulse' },
+                    weather:       { en: 'Weather & Env',   bn: 'আবহাওয়া ও পরিবেশ', icon: 'fa-solid fa-cloud-rain' },
+                    religion:      { en: 'Religion',        bn: 'ধর্ম',          icon: 'fa-solid fa-mosque' },
+                    agriculture:   { en: 'Agriculture',     bn: 'কৃষি',          icon: 'fa-solid fa-seedling' },
+                    business:      { en: 'Business',        bn: 'বাণিজ্য',      icon: 'fa-solid fa-chart-line' },
+                    opinion:       { en: 'Opinion',         bn: 'মতামত',        icon: 'fa-solid fa-comment-dots' },
+                    special:       { en: 'Special',         bn: 'বিশেষ',        icon: 'fa-solid fa-star' }
+                },
 
-<script src="news-data.js"></script>
-<script>
-// --- Filter to this page's section: Home shows the "gaming" feed ---
-const gamingNews = NEWS_ALL.filter(n => n.section === 'gaming');
+                init() {
+                    this.loadNews();
+                },
 
-// --- Render hero (গেমিং ফিডের প্রথম আইটেম) ---
-const heroItem = gamingNews[0];
-if (heroItem){
-  document.getElementById('heroTag').textContent = heroItem.tag || heroItem.category;
-  document.getElementById('heroTitle').textContent = heroItem.title;
-  document.getElementById('heroBody').textContent = heroItem.body;
-  document.getElementById('heroSection').onclick = () => {
-    if (heroItem.link && heroItem.link !== '#') window.location.href = heroItem.link;
-  };
-  if (heroItem.link && heroItem.link !== '#') document.getElementById('heroSection').style.cursor = 'pointer';
-}
+                async loadNews() {
+                    this.loading = true;
+                    try {
+                        const res = await fetch('data/news.json', { cache: 'no-store' });
+                        if (!res.ok) throw new Error('HTTP ' + res.status);
+                        const data = await res.json();
+                        this.newsList = Array.isArray(data.items) ? data.items : [];
+                    } catch (e) {
+                        this.newsList = [];
+                    } finally {
+                        this.loading = false;
+                    }
+                },
 
-// --- Render ticker (সব সেকশনের সাম্প্রতিক শিরোনাম) ---
-const tickerTrack = document.getElementById('tickerTrack');
-const tickerItems = NEWS_ALL.slice(0, 10);
-const tickerHtml = tickerItems.map(n => `<span><b>${n.category}</b> — ${n.title}</span>`).join('');
-tickerTrack.innerHTML = tickerHtml + tickerHtml; // duplicate for seamless scroll
+                openModal(item) {
+                    if (!item) return;
+                    this.activeArticle = item;
+                    document.body.style.overflow = 'hidden';
+                },
 
-// --- Render news grid: hero বাদে গেমিং ফিডের পরের PAGE_SIZE-টা খবর ---
-const restNews = gamingNews.slice(1, 1 + PAGE_SIZE);
-const grid = document.getElementById('newsGrid');
-restNews.forEach(n => {
-  const card = document.createElement('a');
-  card.href = n.link || '#';
-  card.className = 'card reveal';
-  card.style.setProperty('--card-color', n.color || 'var(--cyan)');
-  card.style.textDecoration = 'none';
-  card.style.color = 'inherit';
-  card.style.display = 'block';
-  card.innerHTML = `
-    <div class="card-meta"><span>${n.category}</span><span class="dot">•</span><span>${n.time}</span></div>
-    <h3>${n.title}</h3>
-    <p>${n.body}</p>
-  `;
-  grid.appendChild(card);
-});
+                closeModal() {
+                    this.activeArticle = null;
+                    document.body.style.overflow = 'auto';
+                },
 
-// --- Render launches table ---
-const launchesBody = document.getElementById('launchesBody');
-LAUNCHES.forEach(l => {
-  const tr = document.createElement('tr');
-  tr.innerHTML = `<td class="game">${l.game}</td><td>${l.platform}</td><td class="req">${l.req}</td>`;
-  launchesBody.appendChild(tr);
-});
+                get heroItem() {
+                    return this.newsList.length ? this.newsList[0] : null;
+                },
 
-// --- Live clock ---
-function updateClock(){
-  const now = new Date();
-  document.getElementById('clockText').textContent = now.toLocaleTimeString('en-GB');
-  document.getElementById('footerDate').textContent = now.toLocaleDateString('en-GB');
-}
-updateClock();
-setInterval(updateClock, 1000);
+                selectCategory(id) {
+                    this.selectedCategory = id;
+                    this.visibleCount = 24;
+                },
 
-// --- Reveal-on-scroll + stat count-up ---
-const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-const revealObserver = new IntersectionObserver((entries) => {
-  entries.forEach(entry => {
-    if (entry.isIntersecting){
-      entry.target.classList.add('is-visible');
-      revealObserver.unobserve(entry.target);
-    }
-  });
-}, { threshold: 0.15 });
+                availableCategories() {
+                    const present = new Set(this.newsList.map(n => n.category));
+                    return Object.keys(this.categoryMeta)
+                        .filter(id => present.has(id))
+                        .map(id => ({
+                            id: id,
+                            en: this.categoryMeta[id].en,
+                            bn: this.categoryMeta[id].bn,
+                            icon: this.categoryMeta[id].icon
+                        }));
+                },
 
-document.querySelectorAll('.reveal').forEach(el => revealObserver.observe(el));
-</script>
+                categoryCount(id) {
+                    return this.newsList.filter(n => n.category === id).length;
+                },
+
+                categoryIcon(id) {
+                    return (this.categoryMeta[id] && this.categoryMeta[id].icon) || 'fa-solid fa-newspaper';
+                },
+
+                categoryEn(id) {
+                    return (this.categoryMeta[id] && this.categoryMeta[id].en) || id;
+                },
+
+                filteredNews() {
+                    return this.newsList.filter(item => {
+                        const matchesCat = this.selectedCategory === 'all' || item.category === this.selectedCategory;
+                        const query = this.searchQuery.toLowerCase();
+                        const matchesSearch = !query || item.title.toLowerCase().includes(query) || (item.summary && item.summary.toLowerCase().includes(query));
+                        return matchesCat && matchesSearch;
+                    });
+                },
+
+                visibleNews() {
+                    return this.filteredNews().slice(0, this.visibleCount);
+                }
+            }
+        }
+    </script>
 </body>
 </html>
