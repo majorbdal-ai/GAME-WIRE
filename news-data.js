@@ -187,6 +187,26 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "4 Penny Coffins Lets You Play 19th-Century Detective \u2013 Or a 10-Foot Demon Ripping Friends in Half",
+    body: "Other Ocean\u2019s 4 Penny Coffins blends Among Us with Jack the Ripper in an 1888 Whitechapel social investigation game featuring 8-player and solo modes.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Dragon\u2019s Dogma 2: Dark Arisen Will Send You On a Chilly Loot Grind | gamescom 2026",
+    body: "Dragon's Dogma 2's Dark Arisen expansion adds a whole new region with clever winter weather effects, an old-but-new loot grind, and... a dragon that vomits zombies. We're so back.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "GTA 5's Michael Actor Defends GTA 6 After Doubters Say Rockstar's Games Look Too Similar",
     body: "Ned Luke, the actor behind Grand Theft Auto 5's Michael De Santa, said people who think Grand Theft Auto 6 looks too much like GTA 5 are \"out of their minds.\"",
     time: "just now",
