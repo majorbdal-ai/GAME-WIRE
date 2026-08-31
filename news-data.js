@@ -227,6 +227,26 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Pok\u00e9mon: Wild Card Announced for 2027",
+    body: "Pok\u00e9mon: Wild Card Announced for 2027",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "2026 Pok\u00e9mon World Championships: Everything Announced",
+    body: "2026 Pok\u00e9mon World Championships: Everything Announced",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "4 Penny Coffins Lets You Play 19th-Century Detective \u2013 Or a 10-Foot Demon Ripping Friends in Half",
     body: "Other Ocean\u2019s 4 Penny Coffins blends Among Us with Jack the Ripper in an 1888 Whitechapel social investigation game featuring 8-player and solo modes.",
     time: "just now",
