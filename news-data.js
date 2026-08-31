@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Best Buy Is Dropping Prices on 2026 MTG Bundles in Its Labor Day Sale",
+    body: "Best Buy just launched its Labor Day sale, and we're already seeing a solid spread of deals on Magic: The Gathering bundles.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Godzilla: Destroy All Monsters Melee Remastered Dev Says GTA 6 Was 'Never Part of Our Thinking' When Choosing a Release Date",
+    body: "Godzilla: Destroy All Monsters Melee Remastered will take on GTA 6 when both games launch this November, but the team behind the arena fighter said Rockstar's latest was \"never part of our thinking\" w",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
+    body: "The boring parts caused most of the trouble.\n\nA router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
+    body: "The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past us",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Housemarque Co-Founder Ilari Kuittinen Announces Exit from Saros Developer After 31 Years",
     body: "Housemarque co-founder Ilari Kuittinen has announced his exit from the PlayStation studio after 31 years.",
     time: "just now",
