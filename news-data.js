@@ -43,6 +43,36 @@ const NEWS_ALL = [
     link: "#"
   },
   {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
+    body: "The U.S. Department of Justice (DoJ) on Friday corrected a previously issued press statement that several of its agencies were victims of attacks carried out by Chinese threat actors, instead now poin",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Pok\u00e9mon: Wild Card Announced for 2027",
+    body: "Pok\u00e9mon: Wild Card Announced for 2027",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "2026 Pok\u00e9mon World Championships: Everything Announced",
+    body: "2026 Pok\u00e9mon World Championships: Everything Announced",
+    time: "just now",
+    link: "#"
+  },
+  {
     section: "gaming",
     tag: "TRENDING",
     category: "GAMING",
