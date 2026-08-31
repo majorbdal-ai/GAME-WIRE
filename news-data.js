@@ -143,6 +143,26 @@ const NEWS_ALL = [
     link: "#"
   },
   {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Pok\u00e9mon: Wild Card Announced for 2027",
+    body: "Pok\u00e9mon: Wild Card Announced for 2027",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "2026 Pok\u00e9mon World Championships: Everything Announced",
+    body: "2026 Pok\u00e9mon World Championships: Everything Announced",
+    time: "just now",
+    link: "#"
+  },
+  {
     section: "tech",
     tag: "TRENDING",
     category: "HACKING",
