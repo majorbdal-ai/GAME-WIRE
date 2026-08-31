@@ -43,6 +43,36 @@ const NEWS_ALL = [
     link: "#"
   },
   {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
+    body: "A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control Sys",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Pok\u00e9mon: Wild Card Announced for 2027",
+    body: "Pok\u00e9mon: Wild Card Announced for 2027",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "2026 Pok\u00e9mon World Championships: Everything Announced",
+    body: "2026 Pok\u00e9mon World Championships: Everything Announced",
+    time: "just now",
+    link: "#"
+  },
+  {
     section: "gaming",
     tag: "TRENDING",
     category: "GAMING",
