@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Resident Evil 2 Director Hideki Kamiya Says Capcom Has Grown 'Numb' To How Scary New RE Games Are",
+    body: "Hideki Kamiya has confirmed that he was \u201cnot joking\u201d when he begged Capcom to make a less-scary version of Resident Evil Requiem for the faint of heart, even arguing that the company has become \"numb\"",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "GTA 6 Extended Look Tops Netflix Top 10 Chart in First Week",
+    body: "Grand Theft Auto 6: An Extended Look dominated Netflix's top 10 chart in its first week (in the English Film category), racking up 31.1 million views in its first week, beating the second-place film o",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Threat Actors Don\u2019t Want Better Attacks. They Want Repeatable Ones",
+    body: "The most common way into a company last year was to ask.\n\nA web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
+    body: "Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interf",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Godzilla Dev Wants to Do More Remasters, But 'a Lot of Conversations' Need to Happen First",
     body: "Godzilla: Destroy All Monsters Melee Remastered is the only remaster Pipeworks can confirm for now, but \"a lot of stuff is on the table,\" and there are \"a lot of conversations to be had\" in the future",
     time: "just now",
