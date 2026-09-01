@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "GTA 6 Gets Even More New Screenshots as Rockstar Locks in for November Launch",
+    body: "It seems the drought of Grand Theft Auto 6 news has finally come to an end, as Rockstar has published even more screenshots for fans to comb through.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "'It Ended My Old Life'  \u2014 DayZ Felt Like Dying, Says Creator",
+    body: "Dean Hall, creator of zombie survival game DayZ and founder of RocketWerkz, seems to have a complicated relationship with his biggest hit, which was first released as a mod for Arma 2 in 2012.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
+    body: "The boring parts caused most of the trouble.\n\nA router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
+    body: "Claude Code reads files, runs shell commands, invokes MCP tools, and acts through the credentials available on a developer\u2019s machine. Anthropic\u2019s new Compliance API endpoints give security teams their",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "The Blood of Dawnwalker PC Settings Guide: Maximize Your PC Performance By Tweaking These Options",
     body: "The Blood of Dawnwalker PC Settings Guide: Maximize Your PC Performance By Tweaking These Options",
     time: "just now",
