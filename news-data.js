@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The Blood of Dawnwalker PC Settings Guide: Maximize Your PC Performance By Tweaking These Options",
+    body: "The Blood of Dawnwalker PC Settings Guide: Maximize Your PC Performance By Tweaking These Options",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Call of Duty: Modern Warfare 4 Developers Address Time to Kill Criticisms and Tweak Weapons in New Beta Update",
+    body: "Infinity Ward has addressed the state of Call of Duty: Modern Warfare 4's time to kill and tweaked a handful of weapons in a new beta update.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
+    body: "The boring parts caused most of the trouble.\n\nA router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
+    body: "Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant Cursor to break into target networks, according to ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Best Buy Is Dropping Prices on 2026 MTG Bundles in Its Labor Day Sale",
     body: "Best Buy just launched its Labor Day sale, and we're already seeing a solid spread of deals on Magic: The Gathering bundles.",
     time: "just now",
