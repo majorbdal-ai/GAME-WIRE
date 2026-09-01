@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Ninja Gaiden Legitimized the American Xbox Console for Japanese Developers",
+    body: "Itagaki-san had squeezed every bit of power and performance out of Microsoft\u2019s fledgling console, and the result was what some people believe \u2013 including me and, more importantly, our resident action-",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Afterworld: The First Hands-On Preview: A (Probably Too Early) Taste of Paradox\u2019s Next Big Thing",
+    body: "Typical for a Paradox game, Afterworld contains systems upon systems upon systems. It would be impossible to cover them all in the scope of this preview, from sending ranger teams into devastated citi",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
+    body: "Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
+    body: "The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting foo",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "After Being Ditched by Xbox, Double Fine Says It'll Make Br\u00fctal Legend 2 If Its Amnesia Fortnight 2026 Kickstarter Raises an Impossible-Sounding $100 Million",
     body: "Psychonauts and Costume Quest maker Double Fine has launched its new game development Kickstarter project after cutting ties with Xbox, and says it'll make Br\u00fctal Legend 2 if it raises an impossible-s",
     time: "just now",
