@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Godzilla Dev Wants to Do More Remasters, But 'a Lot of Conversations' Need to Happen First",
+    body: "Godzilla: Destroy All Monsters Melee Remastered is the only remaster Pipeworks can confirm for now, but \"a lot of stuff is on the table,\" and there are \"a lot of conversations to be had\" in the future",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Project Hail Mary Is Getting a VR Game This Fall",
+    body: "A new chapter from the world of Project Hail Mary is being released as a VR game this fall.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
+    body: "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr.\n\nThe vulnerability in question is CVE-2026-",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
+    body: "Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024.\n\nGoogle Threat Inte",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Ninja Gaiden Legitimized the American Xbox Console for Japanese Developers",
     body: "Itagaki-san had squeezed every bit of power and performance out of Microsoft\u2019s fledgling console, and the result was what some people believe \u2013 including me and, more importantly, our resident action-",
     time: "just now",
