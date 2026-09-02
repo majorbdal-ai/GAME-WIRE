@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Aliens: Fireteam Elite 2 Review So Far",
+    body: "Another glorious day in the corps.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "NBA 2K27 Review",
+    body: "So far, new features have put a spotlight on longstanding issues.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
+    body: "Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set of trusted defenders via a new initiative called th",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
+    body: "A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "The Humble Choice September 2026 Lineup Is Live With Frostpunk 2, Sonic X Shadow Generations, and 6 More Games",
     body: "The Humble Choice September 2026 lineup is officially live. Members can snag 8 games - including Frostpunk 2, Sonic X Shadow Generations, and 6 more - for just $15 for the month.",
     time: "just now",
