@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Orbitals Review",
+    body: "A co-op adventure that nails the feeling of a playable \u201890s anime.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Save 58% Off a Like New Logitech G29 Racing Wheel and Pedal Set for Gran Turismo and Forza Horizon 6",
+    body: "Your racing simulator just got more simulating.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Threat Actors Don\u2019t Want Better Attacks. They Want Repeatable Ones",
+    body: "The most common way into a company last year was to ask.\n\nA web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
+    body: "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck.\n\nThe vulnerabilities in question are listed below -\n\n\n  CVE-2026-0768 (C",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Resident Evil 2 Director Hideki Kamiya Says Capcom Has Grown 'Numb' To How Scary New RE Games Are",
     body: "Hideki Kamiya has confirmed that he was \u201cnot joking\u201d when he begged Capcom to make a less-scary version of Resident Evil Requiem for the faint of heart, even arguing that the company has become \"numb\"",
     time: "just now",
