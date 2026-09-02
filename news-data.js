@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The Humble Choice September 2026 Lineup Is Live With Frostpunk 2, Sonic X Shadow Generations, and 6 More Games",
+    body: "The Humble Choice September 2026 lineup is officially live. Members can snag 8 games - including Frostpunk 2, Sonic X Shadow Generations, and 6 more - for just $15 for the month.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "\u2018It\u2019s Not a Revolutionary Thing for an RPG to Have\u2019 \u2014 Fable Explains the Very Obvious Reason as to Why Its Hero Design Has Changed",
+    body: "Fable's game director Ralph Fulton spoke to us at gamescom 2026 about character customization and confirms: Yes, it's in there.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Fake Software Installers Disable Windows Update and Weaken Microsoft Defender",
+    body: "An active malware campaign is using bogus software-download websites to impersonate trusted vendors and distribute malicious installers.\n\n\"The campaign has targeted users looking to download popular s",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
+    body: "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's mac",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Viral Gaming Toilet Chair Appears to Resurface Via Facebook Marketplace \u2014 Listed as in 'Used' Condition, for $500",
     body: "A viral fan-made Fortnite toilet chair made infamous via TikTok has apparently resurfaced via Facebook Marketplace, with the item priced at $500 and listed as in \"used\" condition.",
     time: "just now",
