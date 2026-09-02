@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Viral Gaming Toilet Chair Appears to Resurface Via Facebook Marketplace \u2014 Listed as in 'Used' Condition, for $500",
+    body: "A viral fan-made Fortnite toilet chair made infamous via TikTok has apparently resurfaced via Facebook Marketplace, with the item priced at $500 and listed as in \"used\" condition.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Pok\u00e9mon Fans Think The Franchise's New TCG Movie Hides a Secret Mega Evolution",
+    body: "The reveal of upcoming movie Pok\u00e9mon: Wild Card hid a brand new Mega Evolution in plain sight, fans believe.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
+    body: "Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
+    body: "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and c",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Eight-Player Splitscreen Added to Mario Kart 8 Deluxe",
     body: "Nintendo has conjured up an eight-player splitscreen mode for Mario Kart 8 Deluxe, available now in a free update on Switch 2.",
     time: "just now",
