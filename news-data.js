@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Star Wars Zero Company Was Originally Pitched as a Titanfall Universe Game",
+    body: "Star Wars Zero Company was originally pitched as a game in the Titanfall universe.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "CD Projekt Red Boss 'Isn't Worried' About Delays for Next-Gen Consoles as RAM Prices Soar",
+    body: "CD Projekt Red joint CEO Micha\u0142 Nowakowski opened up about the developer\u2019s reaction to the rising price of consoles and the possibility of next-generation hardware getting delayed.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Threat Actors Don\u2019t Want Better Attacks. They Want Repeatable Ones",
+    body: "The most common way into a company last year was to ask.\n\nA web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
+    body: "The boring parts caused most of the trouble.\n\nA router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Orbitals Review",
     body: "A co-op adventure that nails the feeling of a playable \u201890s anime.",
     time: "just now",
