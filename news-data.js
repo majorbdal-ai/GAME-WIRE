@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "TimTheTatman Turned Down Six Figure Deal to Stream Arc Raiders Because He Hates it So Much",
+    body: "TimTheTatman has revealed that he turned down an eye-watering amount of money for a sponsored Arc Raiders stream.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "IKEA is Coming to The Elder Scrolls V: Skyrim and Fans Are All Saying the Same Thing",
+    body: "IKEA is partnering up with Skyrim in an unexpected collaboration that has fans making the same joke about The Elder Scrolls 6.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "How to Secure Enterprise AI: From Adoption to Incident Readiness",
+    body: "The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizat",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
+    body: "SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks.\n\nThe vulnerabili",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Aliens: Fireteam Elite 2 Review So Far",
     body: "Another glorious day in the corps.",
     time: "just now",
