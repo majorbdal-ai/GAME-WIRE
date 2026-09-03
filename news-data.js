@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Over 600 Unused Voice Lines From Resident Evil 4 Leak Online, Showing That Capcom Intended to Connect the Game to Village",
+    body: "Over 30 minutes\u2019 worth of unused voice lines from Resident Evil 4 Remake have surfaced online, one of which proves that Capcom wanted to make a connection to Village.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The Witcher Remake Is on Hold Until The Witcher 4's Development Progresses, Confirms CD Projekt Red",
+    body: "The remake of The Witcher is currently on hold while the team focuses on The Witcher 4 and The Witcher 3's new expansion, according to CD Projekt Red.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
+    body: "The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foun",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
+    body: "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowd",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Save 26% Off Kirby Air Riders for the Nintendo Switch 2",
     body: "It's as if Mario Kart and Super Smash Bros had a baby, and then Kirby ate it.",
     time: "just now",
