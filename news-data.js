@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Save 26% Off Kirby Air Riders for the Nintendo Switch 2",
+    body: "It's as if Mario Kart and Super Smash Bros had a baby, and then Kirby ate it.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The Witcher 4, Cyberpunk 2077 Developer CD Projekt Red Ramps Up Hiring on 'Project Hadar'",
+    body: "The Witcher and Cyberpunk developer CD Projekt Red is staffing up for its unannounced 'Project Hadar', as that team is currently over 30 people strong with plans \"to hire more, up to 50 developers by ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
+    body: "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation.\n\nThe effort was ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Threat Actors Don\u2019t Want Better Attacks. They Want Repeatable Ones",
+    body: "The most common way into a company last year was to ask.\n\nA web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "77-Year-Old Volunteer Teacher Arrested After Striking Young Student in Altercation Over Pokemon Cards",
     body: "A 77-year-old volunteer teacher was arrested after reportedly striking a young student in a dispute over Pok\u00e9mon cards.",
     time: "just now",
