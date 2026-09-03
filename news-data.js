@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Final Fantasy Resonance: The Final Preview",
+    body: "Final Fantasy Resonance feels like it\u2019s walking a tightrope between being a loving tribute to Final Fantasies past while also taking the series into a cool new direction and telling its own story. Is ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Grand Theft Auto 6 Is Getting a Pair of Limited Edition PS5 Controllers",
+    body: "Rockstar Games and PlayStation have revealed a pair of GTA 6-themed PS5 controllers.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
+    body: "Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongsid",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
+    body: "Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to compromised h",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "LIVE: State of Play September 2026 \u2014 All the Gameplay, Trailers, and Announcements",
     body: "It\u2019s State of Play time, and IGN will be reporting live on all the gameplay reveals, trailers, and announcements as they happen right here in our live blog.",
     time: "just now",
