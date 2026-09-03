@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "LIVE: State of Play September 2026 \u2014 All the Gameplay, Trailers, and Announcements",
+    body: "It\u2019s State of Play time, and IGN will be reporting live on all the gameplay reveals, trailers, and announcements as they happen right here in our live blog.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Confirmed: No Generative AI in Warhammer 40,000: Space Marine 3",
+    body: "Following the backlash to Rideshare Stimulator\u2019s use of generative AI, developer Saber Interactive has reassured Warhammer 40,000 fans that the technology is not in Space Marine 3 in any way.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
+    body: "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 count",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
+    body: "Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads.\n\nAccording to a new report published by the Symantec Threat Hunter ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Over 600 Unused Voice Lines From Resident Evil 4 Leak Online, Showing That Capcom Intended to Connect the Game to Village",
     body: "Over 30 minutes\u2019 worth of unused voice lines from Resident Evil 4 Remake have surfaced online, one of which proves that Capcom wanted to make a connection to Village.",
     time: "just now",
