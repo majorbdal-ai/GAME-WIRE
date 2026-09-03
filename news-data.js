@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "77-Year-Old Volunteer Teacher Arrested After Striking Young Student in Altercation Over Pokemon Cards",
+    body: "A 77-year-old volunteer teacher was arrested after reportedly striking a young student in a dispute over Pok\u00e9mon cards.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Andrew Garfield Historical Drama The Uprising Gets a Fortnite Crossover",
+    body: "Fortnite is officially crossing over with Andrew Garfield\u2019s medieval rebellion film The Uprising, including historical melee weapons and film-inspired cinematic endings unique to each outcome.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
+    body: "Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
+    body: "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution.\n\nThe vulnerability in question i",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "TimTheTatman Turned Down Six Figure Deal to Stream Arc Raiders Because He Hates it So Much",
     body: "TimTheTatman has revealed that he turned down an eye-watering amount of money for a sponsored Arc Raiders stream.",
     time: "just now",
