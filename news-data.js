@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Miami-Dade Sheriff and Commissioner Slam City's Proposed GTA 6 Takeover for 'Promoting Fictional Version of Our Community Defined by Crime and Violence'",
+    body: "The Sheriff of Miami-Dade county is speaking out against Miami\u2019s proposal to celebrate the launch of GTA 6 by decking out the city in advertisements for the highly-anticipated game, arguing that it gl",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Minecraft Dungeons 2: Here\u2019s What Comes in Each Edition",
+    body: "Minecraft Dungeons 2: Here\u2019s What Comes in Each Edition",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
+    body: "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click \u201cAllow.\u201d Why break in when someone might open the door?\n\nThat idea runs through",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
+    body: "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Final Fantasy Resonance: The Final Preview",
     body: "Final Fantasy Resonance feels like it\u2019s walking a tightrope between being a loving tribute to Final Fantasies past while also taking the series into a cool new direction and telling its own story. Is ",
     time: "just now",
