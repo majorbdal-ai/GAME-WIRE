@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Elden Ring Director Hidetaka Miyazaki Says He's 'Honestly Not Sure' Where the Rumor About Him Having a Foot Fetish Came From",
+    body: "Dark Souls and Elden Ring director Hidetaka Miyazaki has addressed the rumors that he's got a foot fetish, and he seemed pretty baffled by the whole thing.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Turkish GTA 6 Fans Want Language Support So Badly, They Professionally Dubbed the Gameplay Reveal",
+    body: "Turkish GTA 6 fans want language support so badly that they went out of their way to professionally dub the game's gameplay reveal.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
+    body: "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Inte",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
+    body: "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Miami-Dade Sheriff and Commissioner Slam City's Proposed GTA 6 Takeover for 'Promoting Fictional Version of Our Community Defined by Crime and Violence'",
     body: "The Sheriff of Miami-Dade county is speaking out against Miami\u2019s proposal to celebrate the launch of GTA 6 by decking out the city in advertisements for the highly-anticipated game, arguing that it gl",
     time: "just now",
