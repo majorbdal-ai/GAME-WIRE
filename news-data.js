@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "PUBG: DED.NET Developer Argues Making a Game for the Mass Market Where 'Nobody's Too Offended and Everybody Kind of Likes It' Has Become 'Box Office Poison'",
+    body: "PUBG: DED.NET developer Dave Curd has argued that making a video game for the mass market where \"nobody's too offended and everybody kind of likes it\" has become \"box office poison.\"",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Minecraft Dungeons 2: Here\u2019s What Comes in Each Edition",
+    body: "Minecraft Dungeons 2: Here\u2019s What Comes in Each Edition",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
+    body: "Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild.\n\nThe high-severity vulnerability, tracked as CVE-2026-85046",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
+    body: "OpenAI on Thursday officially unveiled GPT\u20116 Astra, which it described as the \"world's most intelligent and aligned model.\"\n\nThe development comes days after the artificial intelligence (AI) company s",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Minecraft Dungeons 2: Here\u2019s What Comes in Each Edition",
     body: "Minecraft Dungeons 2: Here\u2019s What Comes in Each Edition",
     time: "just now",
