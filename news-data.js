@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "GTA 6 for Xbox: You Can Save $10, Today Only",
+    body: "Xbox owners can save $10 on Grand Theft Auto 6's ultimate edition using this simple workaround (but it's only available today).",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "DLSS 5 Will Be Coming to Older Graphics Cards After All",
+    body: "On Nvidia's forums, an Nvidia employee claimed that the company will be expanding DLSS 5 support to RTX 40 series graphics cards at some point, but we're probably going to be waiting a while for it.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
+    body: "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served alter",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Threat Actors Don\u2019t Want Better Attacks. They Want Repeatable Ones",
+    body: "The most common way into a company last year was to ask.\n\nA web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Hideki Kamiya Tells Xbox CEO He's Ready to Make Scalebound When She Is",
     body: "Bayonetta creator Hideki Kamiya has a message for Xbox CEO Asha Sharma: When she's ready to make Scalebound, he'll be waiting.",
     time: "just now",
