@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Minecraft Dungeons 2: Here\u2019s What Comes in Each Edition",
+    body: "Minecraft Dungeons 2: Here\u2019s What Comes in Each Edition",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Until Dawn 2 Was Co-Developed by Dispatch Developer AdHoc Studio",
+    body: "AdHoc Studio, the team behind Disptached, helped develop Until Dawn 2.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
+    body: "Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence.\n\nThe vulnerabilities in question are -\n\n\n  CVE-2026-1",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
+    body: "Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws.\n\nThe fixes are available in Plex Media Server 1.43.3 and P",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Original Gran Turismo Circuit Returns to Series After 13-Year Absence",
     body: "Polyphony Digital has revealed Gran Turismo 7\u2019s next major update will mark the return of Autumn Ring, and includes a dozen new cars, the series debut of real-life circuit Sportsland Sugo, and a varie",
     time: "just now",
