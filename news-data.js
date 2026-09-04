@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The Blood of Dawnwalker's Most Popular Mod Completely Defeats the Purpose of the Game",
+    body: "The Blood of Dawnwalker already has a time-altering mod that largely defeats the purpose of the game.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Netflix Is Making a Live-Action Dungeons & Dragons Series About Darklord Strahd Von Zarovich's Origin Story",
+    body: "Netflix is cooking up a live-action Dungeons & Dragons TV show based on the tabletop RPG\u2019s gothic-horror campaign, Ravenloft, and its vampire villain, Darklord Strahd von Zarovich.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Threat Actors Don\u2019t Want Better Attacks. They Want Repeatable Ones",
+    body: "The most common way into a company last year was to ask.\n\nA web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
+    body: "The boring parts caused most of the trouble.\n\nA router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Elden Ring Director Hidetaka Miyazaki Says He's 'Honestly Not Sure' Where the Rumor About Him Having a Foot Fetish Came From",
     body: "Dark Souls and Elden Ring director Hidetaka Miyazaki has addressed the rumors that he's got a foot fetish, and he seemed pretty baffled by the whole thing.",
     time: "just now",
