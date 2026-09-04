@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Original Gran Turismo Circuit Returns to Series After 13-Year Absence",
+    body: "Polyphony Digital has revealed Gran Turismo 7\u2019s next major update will mark the return of Autumn Ring, and includes a dozen new cars, the series debut of real-life circuit Sportsland Sugo, and a varie",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Blizzard Might Be Teasing a New StarCraft Game",
+    body: "There's something odd happening on the StarCraft website. While the content still features StarCraft Remastered, which launched back in 2017, the page now seems to be glitching out, with various eleme",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Threat Actors Don\u2019t Want Better Attacks. They Want Repeatable Ones",
+    body: "The most common way into a company last year was to ask.\n\nA web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
+    body: "The boring parts caused most of the trouble.\n\nA router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "The Blood of Dawnwalker's Most Popular Mod Completely Defeats the Purpose of the Game",
     body: "The Blood of Dawnwalker already has a time-altering mod that largely defeats the purpose of the game.",
     time: "just now",
