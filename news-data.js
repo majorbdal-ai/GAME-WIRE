@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Hideki Kamiya Tells Xbox CEO He's Ready to Make Scalebound When She Is",
+    body: "Bayonetta creator Hideki Kamiya has a message for Xbox CEO Asha Sharma: When she's ready to make Scalebound, he'll be waiting.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Onimusha: Way of the Sword Gets a Launch Day Discount at Fanatical",
+    body: "Fanatical has slashed 18% off Onimusha: Way of the Sword for PC, which is out today. Compared to its full price of $69.99, this discount has dropped it to $57.39.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+    body: "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters.\n\n\"Instead of using these characters to hide instructions from people w",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+    body: "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server.\n\nThe fl",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "PUBG: DED.NET Developer Argues Making a Game for the Mass Market Where 'Nobody's Too Offended and Everybody Kind of Likes It' Has Become 'Box Office Poison'",
     body: "PUBG: DED.NET developer Dave Curd has argued that making a video game for the mass market where \"nobody's too offended and everybody kind of likes it\" has become \"box office poison.\"",
     time: "just now",
