@@ -37,6 +37,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Bungie Confirms Plans to Sublease Parts of Its Enormous Bellevue Headquarters Following Mass Layoffs",
+    body: "Bungie has responded after announcing plans to sublease 210,984-square feet of its massive headquarters in Bellevue, Washington, saying this move reflects its continued focus on a \u201cdigital first\u201d mode",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
+    body: "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerabilit",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
+    body: "Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "'No One Puts Double Fine Out of Business Except for Me' \u2014 Tim Schafer Explains How He Kept Double Fine Afloat After Leaving Xbox",
+    body: "Tim Schafer, game designer and founder of Psychonauts developer Double Fine, gave a strong response after Xbox divested the studio as part of its massive restructuring efforts this summer.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Rockstar Censors GTA 6 Extended Look Trailer for China",
     body: "Rockstar Games has published a heavily censored version of the Grand Theft Auto 6 extended look reveal for China.",
     time: "just now",
