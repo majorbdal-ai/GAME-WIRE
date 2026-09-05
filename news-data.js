@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "'No One Puts Double Fine Out of Business Except for Me' \u2014 Tim Schafer Explains How He Kept Double Fine Afloat After Leaving Xbox",
+    body: "Tim Schafer, game designer and founder of Psychonauts developer Double Fine, gave a strong response after Xbox divested the studio as part of its massive restructuring efforts this summer.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Upcoming Nintendo Switch 2 Games: Release Dates for 2026 and Beyond",
+    body: "Building up the Switch 2 library.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+    body: "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce secu",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Threat Actors Don\u2019t Want Better Attacks. They Want Repeatable Ones",
+    body: "The most common way into a company last year was to ask.\n\nA web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "The Blood of Dawnwalker Passes 1 Million Copies Sold in Just 2 Days",
     body: "Single-player RPG and new IP The Blood of Dawnwalker has sold 1 million copies just two days after its launch, publisher Bandai Namco and developer Rebel Wolves have announced.",
     time: "just now",
