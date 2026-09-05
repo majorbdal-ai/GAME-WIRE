@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "14 Predictions for the September 2026 Nintendo Direct and Zelda 40th Anniversary Direct",
+    body: "IGN's Logan Plant shares 14 predictions for the pair of Nintendo Directs airing in the coming days.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "'No One Puts Double Fine Out of Business Except for Me' \u2014 Tim Schafer Explains How He Kept Double Fine Afloat After Leaving Xbox",
+    body: "Tim Schafer, game designer and founder of Psychonauts developer Double Fine, gave a strong response after Xbox divested the studio as part of its massive restructuring efforts this summer.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Threat Actors Don\u2019t Want Better Attacks. They Want Repeatable Ones",
+    body: "The most common way into a company last year was to ask.\n\nA web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
+    body: "The boring parts caused most of the trouble.\n\nA router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "gamescom Apologizes for Its Initial Response to Thefts, Promises Improved Security Measures",
     body: "gamescom has provided a second response regarding the theft of developers\u2019 equipment during its event, offering an apology for its initial reaction to the ordeal.",
     time: "just now",
