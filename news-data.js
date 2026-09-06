@@ -37,6 +37,36 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "HACKING",
     color: "var(--violet)",
+    title: "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
+    body: "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, accordi",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
+    body: "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer delet",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "'No One Puts Double Fine Out of Business Except for Me' \u2014 Tim Schafer Explains How He Kept Double Fine Afloat After Leaving Xbox",
+    body: "Tim Schafer, game designer and founder of Psychonauts developer Double Fine, gave a strong response after Xbox divested the studio as part of its massive restructuring efforts this summer.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
     title: "Threat Actors Don\u2019t Want Better Attacks. They Want Repeatable Ones",
     body: "The most common way into a company last year was to ask.\n\nA web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. ",
     time: "just now",
