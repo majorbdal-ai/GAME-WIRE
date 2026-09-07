@@ -47,6 +47,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "HACKING",
     color: "var(--violet)",
+    title: "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
+    body: "Every on-premises N-central build below 2026.3.1.14 \u2014 including servers updated to Hotfix 3 a day earlier \u2014 needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its r",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
+    body: "Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities.\n\n\"The payloads are",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "[UPDATE] Halloween: The Game Patches Out Sex Minigame \u2014 Dev Confirms 'Major Oversight'",
+    body: "Halloween: The Game developer IllFonic has patched out a sex mini-game after a gameplay clip went viral. Now, the studio has issued a statement.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "'No One Puts Double Fine Out of Business Except for Me' \u2014 Tim Schafer Explains How He Kept Double Fine Afloat After Leaving Xbox",
+    body: "Tim Schafer, game designer and founder of Psychonauts developer Double Fine, gave a strong response after Xbox divested the studio as part of its massive restructuring efforts this summer.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
     title: "Threat Actors Don\u2019t Want Better Attacks. They Want Repeatable Ones",
     body: "The most common way into a company last year was to ask.\n\nA web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. ",
     time: "just now",
