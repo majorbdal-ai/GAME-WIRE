@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Why Brutality Is the Key to Making the Ultimate Wolverine Game",
+    body: "We dive into Logan's comic book history to explore why bloody brutality is the key to the ultimate Wolverine game.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Pok\u00e9mon TCG First Partner Collection Series 3 Is Back in Stock at Amazon",
+    body: "Amazon has restocked the Pok\u00e9mon TCG First Partner Illustration Collection Series 3 at market price. Here is where to buy the latest anniversary set.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
+    body: "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser.\n\n\"Requiring prior admi",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
+    body: "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information techno",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Pok\u00e9mon Go is Milking Mewtwo Too Hard, Fans Say, After a Lackluster Weekend Event Marred by More Server Issues",
     body: "Mewtwo is being milked too hard, fans say, as Pok\u00e9mon Go continues to capitalize on the creature's popularity and monetization potential.",
     time: "just now",
