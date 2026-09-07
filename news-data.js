@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Pok\u00e9mon Go is Milking Mewtwo Too Hard, Fans Say, After a Lackluster Weekend Event Marred by More Server Issues",
+    body: "Mewtwo is being milked too hard, fans say, as Pok\u00e9mon Go continues to capitalize on the creature's popularity and monetization potential.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Amazon Restocks Rare Pok\u00e9mon TCG Sets for Labor Day",
+    body: "Amazon has restocked rare Pok\u00e9mon TCG products for Labor Day, including Prismatic Evolutions Super-Premium Collections and Destined Rivals Elite Trainer Boxes.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
+    body: "If managing security across multiple cloud providers wasn't hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organi",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
+    body: "Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "[UPDATE] Halloween: The Game Patches Out Sex Minigame \u2014 Dev Confirms 'Major Oversight'",
     body: "Halloween: The Game developer IllFonic has patched out a sex mini-game after a gameplay clip went viral. Now, the studio has issued a statement.",
     time: "just now",
