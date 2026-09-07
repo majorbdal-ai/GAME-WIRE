@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "[UPDATE] Halloween: The Game Patches Out Sex Minigame \u2014 Dev Confirms 'Major Oversight'",
+    body: "Halloween: The Game developer IllFonic has patched out a sex mini-game after a gameplay clip went viral. Now, the studio has issued a statement.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "'No One Puts Double Fine Out of Business Except for Me' \u2014 Tim Schafer Explains How He Kept Double Fine Afloat After Leaving Xbox",
+    body: "Tim Schafer, game designer and founder of Psychonauts developer Double Fine, gave a strong response after Xbox divested the studio as part of its massive restructuring efforts this summer.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Threat Actors Don\u2019t Want Better Attacks. They Want Repeatable Ones",
+    body: "The most common way into a company last year was to ask.\n\nA web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
+    body: "The boring parts caused most of the trouble.\n\nA router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Halloween: The Game Appears to Patch Out a Sex Minigame \u2014 and Players Think They Know Why",
     body: "Halloween: The Game developer IllFonic appears to have patched out a sex mini-game after a gameplay clip went viral.",
     time: "just now",
