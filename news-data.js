@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Marvel\u2019s Wolverine: Every Comic Book Costume In the PS5 Game",
+    body: "We break down every costume confirmed to appear in Marvel's Wolverine and how Insomniac's new game draws on decades of X-Men lore.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Shift Up CTO Clarifies Stellar Blade Developer's Stance on AI After Blood Rain Music Video Controversy",
+    body: "Shift Up\u2019s chief technology officer, DongKi Lee, has clarified the developer\u2019s stance on AI after a music video for Stellar Blade: Blood Rain sparked backlash last month.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials",
+    body: "A flaw in FreeIPA lets a client that has never logged in create a Kerberos identity of its own choosing in the directory and end up in the administrators group, Red Hat says.\n\nFreeIPA is the system th",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Grindr to Pay \u00a326 Million to Settle U.K. Claims Over HIV Status Data Sharing",
+    body: "Online dating app Grindr has opted to pay \u00a326 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with thir",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Nintendo Intentionally Included Loading Screens in The Legend of Zelda: Ocarina of Time Remake, and Fans Are Torn",
     body: "Nintendo has confirmed it intentionally included loading screens in its The Legend of Zelda: Ocarina of Time remake to \"preserve the essence of the original game,\" and the internet isn't in love with ",
     time: "just now",
