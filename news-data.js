@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Nintendo Store Leak Reveals The Legend of Zelda: Ocarina of Time Switch 2 Remake Pricing",
+    body: "It looks like Nintendo has inadvertently revealed how much its remake of The Legend of Zelda: Ocarina of Time will cost on Switch 2.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Pok\u00e9mon TCG Destined Rivals ETB in Stock at Amazon and Under Market Price",
+    body: "Amazon has restocked the rare Pok\u00e9mon TCG Destined Rivals Elite Trainer Box for under market price.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
+    body: "Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and&nbsp;demonstrated it spreading&nbsp;among three test phones.\n\nThe person being called",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "What It Took to Reach 1 Billion Build Manifests",
+    body: "In the last six months, Chainguard doubled its output from 500 million to more than 1 billion container build manifests. We also surpassed 3,000 unique container images and 675,000 image versions in o",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Pok\u00e9mon TCG Destined Rivals ETB in Stock at Amazon and Under Market Price",
     body: "Amazon has restocked the rare Pok\u00e9mon TCG Destined Rivals Elite Trainer Box for under market price.",
     time: "just now",
