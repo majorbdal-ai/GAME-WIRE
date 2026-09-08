@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box Preorder Requests Are Live at Amazon",
+    body: "Amazon US is accepting invite requests for Pok\u00e9mon TCG 30th Celebration ETBs at $89.99\u2014roughly $90 below market resale value on TCGplayer.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "How Star Wars Prequels and Battlefront II Influenced the Zero Company Soundtrack",
+    body: "Prolific Star Wars composer Gordy Haab reveals how his work on Battlefront II directly influenced the darker, original music for Star Wars Zero Company.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
+    body: "A previously undocumented financially motivated threat actor has been linked to attacks targeting Brazilian financial institutions since at least March 2026.\n\nCybersecurity company CrowdStrike is trac",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
+    body: "Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6,&nbsp;returned 3,400 of it&nbsp;the next day, Bitcoin's public record shows. About 598.5 bitcoin has not come back.\n\nLi",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Nintendo Store Leak Reveals The Legend of Zelda: Ocarina of Time Switch 2 Remake Pricing",
     body: "It looks like Nintendo has inadvertently revealed how much its remake of The Legend of Zelda: Ocarina of Time will cost on Switch 2.",
     time: "just now",
