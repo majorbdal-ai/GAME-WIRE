@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Nintendo Intentionally Included Loading Screens in The Legend of Zelda: Ocarina of Time Remake, and Fans Are Torn",
+    body: "Nintendo has confirmed it intentionally included loading screens in its The Legend of Zelda: Ocarina of Time remake to \"preserve the essence of the original game,\" and the internet isn't in love with ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Sega's President Says There's Been an Increase in Fans Who Don't Play Its Games, but That Doesn't Mean They Aren't Gamers",
+    body: "Sega president and COO Shuji Utsumi says the company has experienced an uptick in fans who don\u2019t actually play the games it develops and publishes.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
+    body: "Check Point Research said in a&nbsp;report published today&nbsp;that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
+    body: "Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an autonomous, multi-agent attack framework",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box Preorder Requests Are Live at Amazon",
     body: "Amazon US is accepting invite requests for Pok\u00e9mon TCG 30th Celebration ETBs at $89.99\u2014roughly $90 below market resale value on TCGplayer.",
     time: "just now",
