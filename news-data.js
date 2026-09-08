@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "NHL 27 Is Using AI-Generated Voiceover for In-Game Commentators, John Buccigross Says",
+    body: "EA Sports is using generative AI to create voiceover for its in-game commentators in NHL 27, according to veteran sports commentator John Buccigross.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Final Fantasy Resonance Mod Brings Back Classic FF Character Ariana Grande",
+    body: "If you were upset to hear that pop star Ariana Grande wouldn't return in Final Fantasy Resonance, a new mod is here to save the day.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
+    body: "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, bu",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE \u2014 Public Exploit Released",
+    body: "A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution \u2014 but only against applications in a specific non-default config",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Magic: The Gathering's Hobbit Gift Bundles Are Back In Stock at Amazon",
     body: "Save almost 20% and get a Collector Booster included with 9 Play Boosters, too.",
     time: "just now",
