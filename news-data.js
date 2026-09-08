@@ -47,6 +47,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "HACKING",
     color: "var(--violet)",
+    title: "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
+    body: "Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe\u202fCommerce and\u202fMagento Open Source that has come under active exploitation in the wild.\n\nThe vulnerability, n",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
+    body: "Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment and tech support scams.\n\nThe campaign, dis",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Pok\u00e9mon TCG Destined Rivals ETB in Stock at Amazon and Under Market Price",
+    body: "Amazon has restocked the rare Pok\u00e9mon TCG Destined Rivals Elite Trainer Box for under market price.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Pok\u00e9mon TCG Prismatic Evolutions Super-Premium Collection Restocked at Amazon",
+    body: "Amazon has restocked the rare Pok\u00e9mon TCG Prismatic Evolutions Super-Premium Collection featuring 15 booster packs and promo cards.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
     title: "\u26a1 Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
     body: "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, bu",
     time: "just now",
