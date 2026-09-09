@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "GameCube Classic Star Fox Adventures Available Via Nintendo Switch Online Today",
+    body: "Underappreciated GameCube classic Star Fox Adventures will arrive on Nintendo Switch 2 today, as part of the Nintendo Switch Online + Expansion Pack subscription.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Nintendo Confirms Pikmin 4 Switch 2 Edition",
+    body: "Nintendo has announced Pikmin 4: Switch 2 Edition, an enhanced version of the brilliant real-time strategy game with new content and upgraded visuals.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
+    body: "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram cha",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
+    body: "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Meccha Chameleon Sneaks Onto Nintendo Switch 2 Later Today",
     body: "Viral hide-and-seek game Meccha Chameleon is sneaking onto Nintendo Switch 2 \u2013\u00a0and it\u2019s out today.",
     time: "just now",
