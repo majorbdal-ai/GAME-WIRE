@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Exodus: Five Things You Need to Know",
+    body: "Exodus: Five Things You Need to Know",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Breaking Benjamin Frontman Stops His Own Concert to Rant About His Feud With a Fallout 4 Modder",
+    body: "Benjamin Burnley, lead singer and guitarist of the rock band Breaking Benjamin, took five minutes during a concert in Holmdel, New Jersey, to rant about his feud with a fellow Fallout 4 modder.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
+    body: "Microsoft on Tuesday broke Patch Tuesday records by addressing an earth-shattering 974 vulnerabilities spanning its software portfolio, including two flaws that it said have been actively exploited in",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
+    body: "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "AMC Theaters Is Broadcasting the 2026 Rocket League World Championship Finals at Select Cinemas Across the US",
     body: "The 2026 Rocket League World Championship Finals will be broadcast at 50 AMC Theaters across the United States.",
     time: "just now",
