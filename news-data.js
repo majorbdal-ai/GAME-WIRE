@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Mario Kart World Update to Add Classic Tracks for Free Later Today",
+    body: "Nintendo has revealed that a Mario Kart World update will add classic SNES tracks, Knockout Tour courses, and more later today.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Metroid Ravenous Announced, a Side-Scrolling Sequel to Metroid Dread",
+    body: "Samus Aran will return in Metroid Ravenous, a side-scrolling sequel to Metroid Dread.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
+    body: "Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create \"stolen keys\" that grant illicit access to tools from model providers like Google, Anthro",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Webinar: Learn How to Answer \u201cAre We Exposed?\u201d Faster After a New CVE",
+    body: "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed?\n\nFor many security teams, answering that means jumping between vulnerability s",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Hands on: Tianji: Shadow of the Ancients",
     body: "A turn-based RPG with ink-wash art and an amnesiac searching for the truth about himself.",
     time: "just now",
