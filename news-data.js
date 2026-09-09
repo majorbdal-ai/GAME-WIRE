@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "AMC Theaters Is Broadcasting the 2026 Rocket League World Championship Finals at Select Cinemas Across the US",
+    body: "The 2026 Rocket League World Championship Finals will be broadcast at 50 AMC Theaters across the United States.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The Bomb Busters Board Game Drops to Its Lowest Price Ever at Amazon",
+    body: "The Bomb Busters Board Game Drops to Its Lowest Price Ever at Amazon",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Grindr to Pay \u00a326 Million to Settle U.K. Claims Over HIV Status Data Sharing",
+    body: "Online dating app Grindr has opted to pay \u00a326 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with thir",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
+    body: "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, bu",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Marvel\u2019s Wolverine: Every Comic Book Costume In the PS5 Game",
     body: "We break down every costume confirmed to appear in Marvel's Wolverine and how Insomniac's new game draws on decades of X-Men lore.",
     time: "just now",
