@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "First Look: The Wandering Earth: The Last Full Moon",
+    body: "First Look: The Wandering Earth: The Last Full Moon",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Hideo Kojima's Metal Gear Solid Spiritual Successor Physint Will Now Be Published by Xbox Instead of Sony",
+    body: "Renowned video game director Hideo Kojima's upcoming project Physint, which could fairly be described as a spiritual successor to Metal Gear Solid, will now be published by Xbox instead of Sony, Micro",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Webinar: Learn How to Answer \u201cAre We Exposed?\u201d Faster After a New CVE",
+    body: "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed?\n\nFor many security teams, answering that means jumping between vulnerability s",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root",
+    body: "cPanel has patched a flaw that it says lets a single hosting account take control of an entire server. An authenticated account holder with mail-related privileges can create files of their choosing o",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Valorant Cheater Using Evil Tung Tung Tung Sahur Skin Banned After Viral Video Sparks Backlash Against Riot's Anti-Cheat",
     body: "A hacker using an \u2018Evil\u2019 Tung Tung Tung Sahur skin has been banned after wreaking havoc in Valorant lobbies and decimating entire teams.",
     time: "just now",
