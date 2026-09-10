@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Dead or Alive 6 Last Round Project Manager Sparks Debate After Revealing Koei Tecmo is Dialing Back the Game's 'Sexy Costumes'",
+    body: "Dead or Alive 6 Last Round Project Manager Tsuyoshi Iuchi has sparked a debate within the fighting game community after explaining why the team at Koei Tecmo is dialing back on making sexy costumes.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The iPhone Duo Might Be One of the First Foldables That's Good for Gaming",
+    body: "The iPhone Duo Might Be One of the First Foldables That's Good for Gaming",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
+    body: "Nearly one in ten of the internet-facing LiteLLM servers that&nbsp;Wiz Research&nbsp;scanned in February accepted&nbsp;sk-1234, the example admin key in LiteLLM's own setup guide.\n\nLiteLLM is an open-",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Webinar: Learn How to Answer \u201cAre We Exposed?\u201d Faster After a New CVE",
+    body: "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed?\n\nFor many security teams, answering that means jumping between vulnerability s",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "PlayStation's Fairgames Seemingly Remerges With First Gameplay, New Codename, and Private Playtest",
     body: "PlayStation's online heist game, Fairgames, has seemingly re-appeared under a codename with first gameplay and invites to a playtest.",
     time: "just now",
