@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "GTA 4 Was the Xbox 360\u2019s \u2018We Mean Business\u2019 Moment Against the PS3",
+    body: "I\u2019d argue that GTA 4\u2019s simultaneous release on Xbox 360 and subsequent exclusive DLC might\u2019ve been where the Xbox brand peaked from a cultural perspective. You had to have an Xbox 360 \u2013 if not for the",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Grand Theft Auto VI Limited-Edition PS5 DualSense Controllers Are Up for Preorder",
+    body: "Preorders are live for Grand Theft Auto VI Limited-Edition PS5 DualSense Controllers, but stock is limited. Hurry if you want one.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
+    body: "Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content.\n\nEarly Access apps are apps that haven't bee",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks",
+    body: "The Gigabud banking trojan now installs a second Android app that creates a work profile on an infected phone and drops a tampered banking app inside it, security firm Group-IB said in a&nbsp;report p",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Metroid Ravenous UK Preorders Are Live in the UK, Including the \u00a3100 Special Edition",
     body: "Metroid Ravenous UK preorders are now live on Nintendo Switch 2. Here is where to secure the physical Special Edition, new amiibo figures, and standard copies.",
     time: "just now",
