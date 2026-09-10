@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "PlayStation's Fairgames Seemingly Remerges With First Gameplay, New Codename, and Private Playtest",
+    body: "PlayStation's online heist game, Fairgames, has seemingly re-appeared under a codename with first gameplay and invites to a playtest.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Wardogs Surpasses 1 Million Copies Sold on Day One, Blows Past 300k Peak Concurrent Players on Steam",
+    body: "Wardogs has already surpassed a million copies sold and is lighting up Steam's concurrent player charts.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
+    body: "A lot of this week\u2019s security news has the same awkward answer to one question: \u201cWhy was that allowed to work?\u201d\n\nAn extension asks for access and takes too much. A trusted service becomes part of a ph",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
+    body: "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added three flaws, each impacting Cisco, Citrix, and Fortinet, to its Known Exploited Vulnerabilities (KEV) catalog, requi",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "GTA 4 Was the Xbox 360\u2019s \u2018We Mean Business\u2019 Moment Against the PS3",
     body: "I\u2019d argue that GTA 4\u2019s simultaneous release on Xbox 360 and subsequent exclusive DLC might\u2019ve been where the Xbox brand peaked from a cultural perspective. You had to have an Xbox 360 \u2013 if not for the",
     time: "just now",
