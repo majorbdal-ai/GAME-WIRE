@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "In The Wandering Earth: The Last Full Moon, You Must Get Rid of The Moon",
+    body: "In The Wandering Earth: The Last Full Moon, You Must Get Rid of The Moon",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Marvel's Guardians of the Galaxy's Surprise Switch 2 Port Has Some Fans Hoping for a Sequel",
+    body: "Marvel's Guardians of the Galaxy has re-emerged, five years after its release, with a new Switch 2 version... and some fans hope it could lead to a sequel.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
+    body: "Nearly one in ten of the internet-facing LiteLLM servers that&nbsp;Wiz Research&nbsp;scanned in February accepted&nbsp;sk-1234, the example admin key in LiteLLM's own setup guide.\n\nLiteLLM is an open-",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
+    body: "Anthropic on Wednesday disclosed a fourth incident in which its artificial intelligence (AI) model broke into real third-party systems, marking the latest in a growing list of cases that have raised c",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "First Look: The Wandering Earth: The Last Full Moon",
     body: "First Look: The Wandering Earth: The Last Full Moon",
     time: "just now",
