@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Metroid Ravenous UK Preorders Are Live in the UK, Including the \u00a3100 Special Edition",
+    body: "Metroid Ravenous UK preorders are now live on Nintendo Switch 2. Here is where to secure the physical Special Edition, new amiibo figures, and standard copies.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Playing Final Fantasy 7 Revelation Reminded Me of Its Best-in-Class Combat, But It Needs to Stay Focused | IGN Preview",
+    body: "The predominant feeling I came away with, however, is that maybe Revelation is getting carried away with stuffing its world with side content for the sake of it. Perhaps that's a symptom of trying to ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
+    body: "Check Point has patched two critical vulnerabilities in the way its firewall and management products handle VPN certificates. The company says both could allow an unauthenticated remote attacker to ru",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
+    body: "A suspected Russian-speaking cyber actor has been attributed to the use of artificial intelligence (AI) to devise exploits targeting a recently disclosed pair of security flaws in PaperCut NG/MF and b",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "In The Wandering Earth: The Last Full Moon, You Must Get Rid of The Moon",
     body: "In The Wandering Earth: The Last Full Moon, You Must Get Rid of The Moon",
     time: "just now",
