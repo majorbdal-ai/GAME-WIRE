@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Valorant Cheater Using Evil Tung Tung Tung Sahur Skin Banned After Viral Video Sparks Backlash Against Riot's Anti-Cheat",
+    body: "A hacker using an \u2018Evil\u2019 Tung Tung Tung Sahur skin has been banned after wreaking havoc in Valorant lobbies and decimating entire teams.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Nintendo Direct September 2026 No-Shows: From The Duskbloods to Mario",
+    body: "Today's September 2026 Nintendo Direct has come and gone, and so has any chance of seeing the next 3D Mario, The Duskbloods, and more highly anticipated games that ended up being no-shows.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Webinar: Learn How to Answer \u201cAre We Exposed?\u201d Faster After a New CVE",
+    body: "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed?\n\nFor many security teams, answering that means jumping between vulnerability s",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
+    body: "Google on Thursday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild.\n\nThe medium-severity vulnerability, assigned the CVE ident",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "GameCube Classic Star Fox Adventures Available Via Nintendo Switch Online Today",
     body: "Underappreciated GameCube classic Star Fox Adventures will arrive on Nintendo Switch 2 today, as part of the Nintendo Switch Online + Expansion Pack subscription.",
     time: "just now",
