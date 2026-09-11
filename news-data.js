@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "How Warhammer 40,000: Space Marine 3 Will Benefit From Tech Improvements Made for John Carpenter's Toxic Commando",
+    body: "John Carpenter's Toxic Commando\u2019s launch came in below publisher Focus Entertainment\u2019s expectations, but for Saber Interactive it was successful in commercial terms \u2014 and according to development chie",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Lady Dimitrescu Actor Maggie Robertson Would Say Yes in a Heartbeat if Capcom Called to Reprise Her Breakout Resident Evil Role",
+    body: "Maggie Robertson has said she would accept any opportunity from Capcom to reprise her breakout role as Lady Dimitrescu in the Resident Evil series, calling the character her \u201cfirstborn.\u201d",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
+    body: "Security teams have become exceptionally talented at finding vulnerabilities. Now, it\u2019s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually cre",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
+    body: "PaperCut on Thursday released a new security maintenance release that replaces all previously published emergency patches that were pushed to address two security flaws that have come under active exp",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Call of Duty's Anti-Cheat Boss Dispels Cheating Myths, Breaks Down Review Process, and More",
     body: "Cheating in video games has turned into a multi-billon dollar industry, which has forced franchises like Call of Duty to build entire teams to combat this epidemic.",
     time: "just now",
