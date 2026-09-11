@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Brandon Sanderson Praises the Upcoming MTG Star Trek Set for a 'Perfect Kirk' Card",
+    body: "Brandon Sanderson Praises the Upcoming MTG Star Trek Set for a 'Perfect Kirk' Card",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Arthur Morgan's Coughing Fits in Red Dead Redemption 2 Sound So Real Because Actor Roger Clark Was Actually Sick",
+    body: "Red Dead Redemption 2 actor Roger Clark has revealed that Arthur Morgan's gnarly coughing fits were actually recorded when he was sick in real life.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
+    body: "Nearly one in ten of the internet-facing LiteLLM servers that&nbsp;Wiz Research&nbsp;scanned in February accepted&nbsp;sk-1234, the example admin key in LiteLLM's own setup guide.\n\nLiteLLM is an open-",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Webinar: Learn How to Answer \u201cAre We Exposed?\u201d Faster After a New CVE",
+    body: "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed?\n\nFor many security teams, answering that means jumping between vulnerability s",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Aliens: Fireteam Elite 2 Review",
     body: "Another (mostly) glorious day in the corps.",
     time: "just now",
