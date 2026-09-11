@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Magic: The Gathering\u2019s Newest Legendary Artifact Destroys Whole Universes (and Your Creatures)",
+    body: "We've got a first look at two new cards from Reality Fracture.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The 9 Biggest Trailers Worth Watching This Week",
+    body: "Trailers from two Nintendo Directs, Godzilla Minus Zero, the new Nathan Fielder documentary, Mike Flanagan's Carrie, and more.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
+    body: "Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilitie",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
+    body: "Nearly one in ten of the internet-facing LiteLLM servers that&nbsp;Wiz Research&nbsp;scanned in February accepted&nbsp;sk-1234, the example admin key in LiteLLM's own setup guide.\n\nLiteLLM is an open-",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "PlayStation\u2019s Future Has Never Looked Bleaker",
     body: "Cutting ties with Kojima and poor Wolverine reviews are just the latest issues in a difficult generation for PlayStation. The platform's future has never looked bleaker.",
     time: "just now",
