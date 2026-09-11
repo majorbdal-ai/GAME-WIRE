@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "PlayStation\u2019s Future Has Never Looked Bleaker",
+    body: "Cutting ties with Kojima and poor Wolverine reviews are just the latest issues in a difficult generation for PlayStation. The platform's future has never looked bleaker.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Fans Are Reportedly Getting $20 Off Ocarina of Time Preorders With a Hidden Coupon at Walmart",
+    body: "Walmart shoppers are supposedly using a hidden promo code to knock $20 off The Legend of Zelda: Ocarina of Time preorders, bringing it down from $70 to $50, but it might not work for everyone.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
+    body: "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure.\n\nThe vulnerability i",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
+    body: "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhi",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "How Warhammer 40,000: Space Marine 3 Will Benefit From Tech Improvements Made for John Carpenter's Toxic Commando",
     body: "John Carpenter's Toxic Commando\u2019s launch came in below publisher Focus Entertainment\u2019s expectations, but for Saber Interactive it was successful in commercial terms \u2014 and according to development chie",
     time: "just now",
