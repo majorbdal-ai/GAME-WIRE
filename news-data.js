@@ -37,6 +37,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "GTA 6 Developer Rockstar Says It Was Forced to Put Privacy Films on Its Buildings After Drones Were Used to Snap Photos Through Office Windows",
+    body: "Rockstar Games has released its opening note in the employment tribunal to determine the fate of the 31 GTA 6 developers it fired last year, and in doing so has revealed the extreme lengths it goes to",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
+    body: "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and Au",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
+    body: "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve.\n",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "PlayStation\u2019s Future Has Never Looked Bleaker",
+    body: "Cutting ties with Kojima and poor Wolverine reviews are just the latest issues in a difficult generation for PlayStation. The platform's future has never looked bleaker.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Fans Are Reportedly Getting $20 Off Ocarina of Time Preorders With a Hidden Coupon at Walmart",
     body: "Walmart shoppers are supposedly using a hidden promo code to knock $20 off The Legend of Zelda: Ocarina of Time preorders, bringing it down from $70 to $50, but it might not work for everyone.",
     time: "just now",
