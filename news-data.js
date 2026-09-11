@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Call of Duty's Anti-Cheat Boss Dispels Cheating Myths, Breaks Down Review Process, and More",
+    body: "Cheating in video games has turned into a multi-billon dollar industry, which has forced franchises like Call of Duty to build entire teams to combat this epidemic.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Why Did PlayStation Ditch Kojima? Analysts Suggest Sony May Have Been 'Spooked' by Death Stranding 2 Sales",
+    body: "As the dust settles on PlayStation's announcement it's ditched a new game from Hideo Kojima, analysts are now discussing why Sony may have walked away.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
+    body: "Attackers have chained two flaws in JFrog Artifactory, the repository that software build pipelines pull from, to take administrator control of self-hosted servers and plant backdoors, cloud security ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
+    body: "A China-linked hacking group exploited a flaw in Sogou Input Method, one of the most widely used tools for typing Chinese characters on Windows, to install a backdoor on victims' computers, security c",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Brandon Sanderson Praises the Upcoming MTG Star Trek Set for a 'Perfect Kirk' Card",
     body: "Brandon Sanderson Praises the Upcoming MTG Star Trek Set for a 'Perfect Kirk' Card",
     time: "just now",
