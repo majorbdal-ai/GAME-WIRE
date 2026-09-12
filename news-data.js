@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Dragon Quest Monsters: The Withered World Has 500 Beasts to Collect, and They're All Super Weird | IGN Preview",
+    body: "So far, Dragon Quest Monsters: The Withered World is shaping up to be another solid and charming entry in the sub-series. The monster-collecting style of RPG is a fairly crowded market these days, but",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "God Save Birmingham New Preview: This Medieval Zombie Apocalypse Is Steadily Finding Its Vision",
+    body: "The developers at Ocean Drive Studios, Inc. have a great concept here, there\u2019s no question. While I found the early builds somewhat uninteresting in execution, the latest build offers a better tone an",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
+    body: "Nearly one in ten of the internet-facing LiteLLM servers that&nbsp;Wiz Research&nbsp;scanned in February accepted&nbsp;sk-1234, the example admin key in LiteLLM's own setup guide.\n\nLiteLLM is an open-",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Webinar: Learn How to Answer \u201cAre We Exposed?\u201d Faster After a New CVE",
+    body: "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed?\n\nFor many security teams, answering that means jumping between vulnerability s",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Planet Zoo 2 Puts You Right Down into the Wild With Your Animals | IGN Preview",
     body: "It wasn't realistic to get a full picture of Planet Zoo 2 from the short time I had with it in this first hands-on, especially when it comes to the business tycoon side, but I'm pretty optimistic over",
     time: "just now",
