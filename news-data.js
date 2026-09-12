@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Level-5 Boss Addresses AI Backlash After Fans Hit Out at Game Reveal Showcase",
+    body: "Developer Level-5 has apologized for and explained its use of generative AI after fans spotted 'AI slop' in footage of games like Professor Layton and the Curious Village, DecaPolice, and more.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "BlizzCon 2026 Opening Ceremony Live Blog: The Future of Warcraft and Diablo Set to Be Revealed Amid StarCraft Rumors",
+    body: "BlizzCon 2026 is upon is, and IGN is reporting live on all the announcements direct from the opening ceremony. Expect big news on everything from World of Warcraft to Diablo, amid strong rumors of a S",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+    body: "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vuln",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
+    body: "Nearly one in ten of the internet-facing LiteLLM servers that&nbsp;Wiz Research&nbsp;scanned in February accepted&nbsp;sk-1234, the example admin key in LiteLLM's own setup guide.\n\nLiteLLM is an open-",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Dragon Quest Monsters: The Withered World Has 500 Beasts to Collect, and They're All Super Weird | IGN Preview",
     body: "So far, Dragon Quest Monsters: The Withered World is shaping up to be another solid and charming entry in the sub-series. The monster-collecting style of RPG is a fairly crowded market these days, but",
     time: "just now",
