@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Planet Zoo 2 Puts You Right Down into the Wild With Your Animals | IGN Preview",
+    body: "It wasn't realistic to get a full picture of Planet Zoo 2 from the short time I had with it in this first hands-on, especially when it comes to the business tycoon side, but I'm pretty optimistic over",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Magic: The Gathering\u2019s Newest Legendary Artifact Destroys Whole Universes (and Your Creatures)",
+    body: "We've got a first look at two new cards from Reality Fracture.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "When the Whole Company Adopts AI: What It Does to Your SOC",
+    body: "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
+    body: "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Vo",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Wolverine Developer Insomniac Says Logan's Scent Trail Isn't Always on Amid 'Fart Gas' Toggle Requests",
     body: "A debate over \u201cfart gas\u201d has emerged around PlayStation 5 exclusive Marvel\u2019s Wolverine, with some people calling for developer Insomniac to add the ability to disable Logan\u2019s scent trail entirely from",
     time: "just now",
