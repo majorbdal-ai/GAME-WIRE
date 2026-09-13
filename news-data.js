@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Overwatch Gets New Vampire-Inspired Support Hero, Map, and Big Character Reworks",
+    body: "Overwatch is getting a brand-new vampire-inspired support hero, as well as the conclusion of Act III in The Reign of Talon storyline and several big character changes.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Next StarCraft Game Announced at BlizzCon as an Open-World Shooter, but It\u2019s Not Due Out Until 2030",
+    body: "It\u2019s been over 15 years since Blizzard\u2019s beloved real-time strategy game, StarCraft 2, came out. Now, a new game in the series has been announced \u2014 but it\u2019s still years away.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
+    body: "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social eng",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
+    body: "Nearly one in ten of the internet-facing LiteLLM servers that&nbsp;Wiz Research&nbsp;scanned in February accepted&nbsp;sk-1234, the example admin key in LiteLLM's own setup guide.\n\nLiteLLM is an open-",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "StarCraft Devs Promise New Game Will Definitely Release in 2030",
     body: "We got the chance to speak with the developers of the new StaCcraft game, who explained why they shared such a distant release date and even teased some potential gameplay elements.",
     time: "just now",
