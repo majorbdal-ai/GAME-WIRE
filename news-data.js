@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Warcraft 3 Reforged: Forsaken Kingdom Review So Far",
+    body: "A surprise single-player campaign that maintains the feel of classic Warcraft 3 while mixing in some new ideas.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Overwatch Reveals First Look at New Omnic Hero Coming Later This Year",
+    body: "Blizzard has teased another new Overwatch Hero after revealing Doctrine just moments ago.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
+    body: "Nearly one in ten of the internet-facing LiteLLM servers that&nbsp;Wiz Research&nbsp;scanned in February accepted&nbsp;sk-1234, the example admin key in LiteLLM's own setup guide.\n\nLiteLLM is an open-",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Webinar: Learn How to Answer \u201cAre We Exposed?\u201d Faster After a New CVE",
+    body: "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed?\n\nFor many security teams, answering that means jumping between vulnerability s",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Diablo 5 Announced",
     body: "Blizzard has officially announced Diablo 5 at BlizzCon 2026. Set entirely in a post-apocalyptic future 100 years after Diablo 4, the ARPG will release in 2029.",
     time: "just now",
