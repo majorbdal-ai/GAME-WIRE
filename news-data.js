@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "World of Warcraft: Forever Devs Explain Why the Game Makes WoW 2 Unlikely",
+    body: "World of Warcraft: Forever developers Kris Zierhut and Mike Nuthals detail the game's new features and explain why a WoW 2 sequel is unnecessary.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Next StarCraft Game Announced at BlizzCon as an Open-World Shooter, but It\u2019s Not Due Out Until 2030",
+    body: "It\u2019s been over 15 years since Blizzard\u2019s beloved real-time strategy game, StarCraft 2, came out. Now, a new game in the series has been announced \u2014 but it\u2019s still years away.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
+    body: "Nearly one in ten of the internet-facing LiteLLM servers that&nbsp;Wiz Research&nbsp;scanned in February accepted&nbsp;sk-1234, the example admin key in LiteLLM's own setup guide.\n\nLiteLLM is an open-",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Webinar: Learn How to Answer \u201cAre We Exposed?\u201d Faster After a New CVE",
+    body: "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed?\n\nFor many security teams, answering that means jumping between vulnerability s",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Next StarCraft Game Announced at BlizzCon as an Open-World Shooter, but It\u2019s Not Due Out Until 2030",
     body: "It\u2019s been over 15 years since Blizzard\u2019s beloved real-time strategy game, StarCraft 2, came out. Now, a new game in the series has been announced \u2014 but it\u2019s still years away.",
     time: "just now",
