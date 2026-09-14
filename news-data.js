@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The Witcher 3 Geralt Skin for Diablo 4 Barbarians Revealed \u2014 but There's a Catch",
+    body: "CD Projekt and Blizzard have released a first look at the Geralt-themed Barbarian skin for Diablo 4, but you'll need to preorder The Witcher 3 expansion Songs of the Past on Battle.net to get it.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "\u2018Hell Yes!\u2019 - Diablo 4 Dev Team Reacts to the Franchise\u2019s New Netflix Show",
+    body: "Diablo 4\u2019s lead developers discuss their excitement for the new Diablo Netflix animated series, the game's Switch 2 port, and Season of Hell's Legacy.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
+    body: "Nearly one in ten of the internet-facing LiteLLM servers that&nbsp;Wiz Research&nbsp;scanned in February accepted&nbsp;sk-1234, the example admin key in LiteLLM's own setup guide.\n\nLiteLLM is an open-",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Webinar: Learn How to Answer \u201cAre We Exposed?\u201d Faster After a New CVE",
+    body: "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed?\n\nFor many security teams, answering that means jumping between vulnerability s",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Diablo 5 Director Confirms Game is Already in Full Production",
     body: "Diablo 5 is officially in full production and coming in 2029. Game Director Joe Shely reveals the sequel will feature more classes, procedural worlds, and jump 100 years into the future.",
     time: "just now",
