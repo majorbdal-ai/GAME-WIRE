@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Dog Breeders Are Offering Puppies in Exchange for Pokemon Cards",
+    body: "The card collecting community is in an uproar after two dog breeders were caught offering to trade their French Bulldog puppies in exchange for Pok\u00e9mon cards, highlighting a growing issue within the s",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Wardogs Is a Hit on Steam, and It\u2019s Already on Sale for $33",
+    body: "Wardogs is a new online first-person shooter that has been riding high on the Steam charts since it came out on September 10. You can get it for $33 right now at Fanatical.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
+    body: "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCen",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
+    body: "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a&nbsp;writeup&nbsp;published on Septembe",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Lies of P Trademark Appears to Spell Out Sequel's Name",
     body: "Lies of P looks set to be followed by Wonders of O, according to a new trademark listing.",
     time: "just now",
