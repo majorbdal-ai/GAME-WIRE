@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Lies of P Trademark Appears to Spell Out Sequel's Name",
+    body: "Lies of P looks set to be followed by Wonders of O, according to a new trademark listing.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Upcoming PS5 Games: The Future of PlayStation Exclusives",
+    body: "Checking in with the PS5 generation.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
+    body: "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the proce",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
+    body: "A Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a m",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Make-A-Wish UK Brings Golf With Your Friends to Life For a Chaotic Charity Stream: How to Watch and What to Expect",
     body: "Make-A-Wish UK Brings Golf With Your Friends to Life For a Chaotic Charity Stream: How to Watch and What to Expect",
     time: "just now",
