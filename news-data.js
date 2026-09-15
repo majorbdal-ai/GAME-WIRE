@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Former Tekken Director Katsuhiro Harada Says His Next Game Will Be a \u2018Surprise,\u2019 But Not Outside Fans\u2019 Expectations",
+    body: "Katsuhiro Harada, former leader of the Tekken franchise, is finally revealing some details about his next game currently in the works at his independent development house, VS Studio.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Every Persona Game and Spin-Off in Order",
+    body: "A complete timeline of Shin Megami Tensei's most beloved spin-off.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
+    body: "Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
+    body: "Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data.\n\nThe first is an automated effort aimed at internet-exposed Vite ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Xbox Game Pass September 2026 Wave 2 Lineup Announced",
     body: "Microsoft has announced the Xbox Game Pass September 2027 Wave 2 lineup, and it includes Dune Awakening, plus Minecraft Dungeons 2 and Gears of War: E-Day for Ultimate and PC subscribers.",
     time: "just now",
