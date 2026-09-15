@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Xbox Game Pass September 2026 Wave 2 Lineup Announced",
+    body: "Microsoft has announced the Xbox Game Pass September 2027 Wave 2 lineup, and it includes Dune Awakening, plus Minecraft Dungeons 2 and Gears of War: E-Day for Ultimate and PC subscribers.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Aliens: Fireteam Elite 2's Nintendo Switch 2 Version Delayed to Early 2027",
+    body: "Cold Iron Studios, developer of the recently released four-player co-op PvE sequel Aliens: Fireteam Elite 2, has announced that the Nintendo Switch 2 version has been pushed back to early 2027. It was",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
+    body: "Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN.\n\nElastic Security Labs is tracking the activity under",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists",
+    body: "Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service uses to spy on dissidents, journalists, a",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Wolverine Developer Insomniac Promises to 'Further Refine the Player Experience' Based on Feedback",
     body: "Marvel\u2019s Wolverine developer Insomniac has said it\u2019s planning to \u201cfurther refine the player experience\u201d based on feedback, while insisting it\u2019s \u201cincredibly proud\u201d of the game.",
     time: "just now",
