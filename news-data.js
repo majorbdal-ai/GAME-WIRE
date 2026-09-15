@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Wolverine Developer Insomniac Promises to 'Further Refine the Player Experience' Based on Feedback",
+    body: "Marvel\u2019s Wolverine developer Insomniac has said it\u2019s planning to \u201cfurther refine the player experience\u201d based on feedback, while insisting it\u2019s \u201cincredibly proud\u201d of the game.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Wardogs Sells 2 Million Copies in 5 Days as Early Access Shooter Blows Up on Steam",
+    body: "Wardogs\u2019 incredible success has seen it sell 2 million copies after just five days of release.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
+    body: "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled hum",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
+    body: "Introduction\n\nSecurity teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does this SIEM rul",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Wardogs Is a Hit on Steam, and It\u2019s Already on Sale for $33",
     body: "Wardogs is a new online first-person shooter that has been riding high on the Steam charts since it came out on September 10. You can get it for $33 right now at Fanatical.",
     time: "just now",
