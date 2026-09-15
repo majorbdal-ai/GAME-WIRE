@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Wardogs Players Are Avoiding One of the Game's Factions Because It Has a Stigma of Attracting the Stupidest Players",
+    body: "Wardogs players are avoiding the game's Lonestar faction, as they seemingly attract the worst players and lose the most games.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "This Fantasy Party Game Combines Drinking Rules With D&D-Themed Gameplay",
+    body: "This Fantasy Party Game Combines Drinking Rules With D&D-Themed Gameplay",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
+    body: "WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential securit",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+    body: "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Dog Breeders Are Offering Puppies in Exchange for Pokemon Cards",
     body: "The card collecting community is in an uproar after two dog breeders were caught offering to trade their French Bulldog puppies in exchange for Pok\u00e9mon cards, highlighting a growing issue within the s",
     time: "just now",
