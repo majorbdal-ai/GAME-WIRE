@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Wardogs Is a Hit on Steam, and It\u2019s Already on Sale for $33",
+    body: "Wardogs is a new online first-person shooter that has been riding high on the Steam charts since it came out on September 10. You can get it for $33 right now at Fanatical.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "One of My Favorite Commander Decks of the Year Just Hit a New Lowest Price",
+    body: "Save big on Blight Curse and cause your opponents all kinds of headaches.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
+    body: "A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an&nbsp;advisory published on September",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
+    body: "Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-764",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Marvel's Wolverine Actor Liam McIntyre Isn't Fazed by Players' Brutal Comments About the Game",
     body: "Wolverine actor Liam McIntyre has seen what fans are saying about him and Insomniac's latest superhero game, but it's no skin off his nose.",
     time: "just now",
