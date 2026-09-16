@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Trails In The Sky 2nd Chapter Review",
+    body: "An impressive remake which captures everything that made the original so endearing.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "'This Is a Place You Come to Work Hard' \u2014 Wardogs CEO Justifies Crunch as a Balancing Act",
+    body: "Joe Brammer, the CEO of Wardogs developer Bulkhead, has stated that the studio avoids hiring people that aren't willing to crunch.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
+    body: "Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs.\n\n\"This vulnerability can be leveraged ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
+    body: "A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr.\n\nThe vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Wo Long 2: Wings of Ember Gets Release Date, Demo Available Now",
     body: "Wo Long 2: Wings of Ember, the upcoming action-soulslike sequel from Team Ninja (Nier, Ninja Gaiden), will be released on March 4, 2027 for PC, PS5, Xbox Series X|S (including day one on Xbox Game Pas",
     time: "just now",
