@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Studio Behind Hyper Light Drifter In Peril After Publisher Withdraws Funding for Unannounced Project",
+    body: "Heart Machine, the development studio behind titles like Hyper Light Drifter and Possessors, is in dire straits after a publisher withdrew their funding for an unannounced project.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Resident Evil Creator Shinji Mikami to Be Inducted Into D.I.C.E. Hall of Fame",
+    body: "Resident Evil creator Shinji Mikami will officially be honored with the Hall of Fame Award at the 30th Annual D.I.C.E. Awards ceremony on February 18, 2027.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
+    body: "Google has disclosed that a high-severity security flaw in its Pixel Cellular Modem has come under exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-58704 (CVSS score: 8.0), is a privi",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Threat Intelligence Alone Won't Close the Exploitation Gap",
+    body: "A leaked credential shows up in a criminal marketplace, or a vulnerability gets a disclosure advisory, and either one can be weaponized against a real target before most security teams have triaged th",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "RAVEN2 - ZERO Lets Players Enter an Apocalyptic MMORPG Where Growth Is Tied to Gameplay",
     body: "RAVEN2 - ZERO Lets Players Enter an Apocalyptic MMORPG Where Growth Is Tied to Gameplay",
     time: "just now",
