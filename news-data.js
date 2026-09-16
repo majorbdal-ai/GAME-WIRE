@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Wardogs Outpacing Arc Raiders and Helldivers 2 on Steam and Has Already Made More Money Than Marathon Across All Platforms to Date, Analysis Shows",
+    body: "Breakout hit Wardogs is outpacing Arc Raiders and Helldivers 2 on Steam in terms of copies sold at launch, new data shows.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Call of Duty Developer Treyarch 'Ready to Make Something New' as It Waves Goodbye to 2 Years of Black Ops",
+    body: "Call of Duty developer Treyarch has said it\u2019s \u201cready to make something new\u201d as it waves goodbye to two years of Black Ops games.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
+    body: "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation.\n\nThe vulnerability in question is CVE-",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
+    body: "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky.\n\nThe cybersecurity ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "30th Anniversary Pok\u00e9mon Trading Card Launch Sparks Enormous Queues, 'Ghost Chair' Criticism, and Price Hikes",
     body: "Pok\u00e9mon's coveted 30th anniversary trading card set has gone on sale, though its launch has seen some stores jacking up prices, while long lines of customers have camped outside overnight.",
     time: "just now",
