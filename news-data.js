@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Marvel's Wolverine Offers Up a Canonical Explanation for Why Logan's Costume Regenerates",
+    body: "Marvel's Wolverine explains why Logan's clothes can heal, just like his body.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Masahiro Sakurai Forced to Abandon Game Designers Award After 16 Years as He Can't Find a Successor",
+    body: "Masahiro Sakurai revealed that the Game Designers Award won\u2019t return to the Japan Game Awards, as he has failed to find an adequate replacement to take up his mantle.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
+    body: "A Chinese threat actor has been attributed to a spear-phishing campaign that exploits recently patched security flaws in Google Chrome and Microsoft Windows to deliver a malicious JavaScript backdoor ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+    body: "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Former Tekken Director Katsuhiro Harada Says His Next Game Will Be a \u2018Surprise,\u2019 But Not Outside Fans\u2019 Expectations",
     body: "Katsuhiro Harada, former leader of the Tekken franchise, is finally revealing some details about his next game currently in the works at his independent development house, VS Studio.",
     time: "just now",
