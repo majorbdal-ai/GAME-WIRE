@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "RAVEN2 - ZERO Lets Players Enter an Apocalyptic MMORPG Where Growth Is Tied to Gameplay",
+    body: "RAVEN2 - ZERO Lets Players Enter an Apocalyptic MMORPG Where Growth Is Tied to Gameplay",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Microsoft Flight Simulator 2024 Releases Single New Plane DLC That Costs $74.49",
+    body: "Microsoft Flight Simulator 2024 is adding a big new jet to its fleet, but it comes at a big new price. The \"superjumbo\" Airbus A380 is now available for the hyper-realistic multiplatform sim on PC, Xb",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
+    body: "Security researchers at&nbsp;Forever Security&nbsp;have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
+    body: "N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threat ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Wardogs Outpacing Arc Raiders and Helldivers 2 on Steam and Has Already Made More Money Than Marathon Across All Platforms to Date, Analysis Shows",
     body: "Breakout hit Wardogs is outpacing Arc Raiders and Helldivers 2 on Steam in terms of copies sold at launch, new data shows.",
     time: "just now",
