@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Spotify Seems to Be Teasing a GTA 6 Collaboration with Rockstar Games",
+    body: "Spotify appears to be the next big streaming giant to partner with Rockstar Games for GTA 6's marketing.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Champs Sports Is Offering a Sweet $20 Bonus FLX Cash Deal on Official NFL Jerseys Right Now, But Only For a Limited Time",
+    body: "If you\u2019ve spent most of August building your franchise around a star quarterback, running back, or defensive standout, grabbing his jersey is a no-brainer.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
+    body: "Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an&nbsp;advisory&nbsp;on Wednesday.\n\nAn attacker who control",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+    body: "A new CVE drops. Your scanner finds it. The severity score looks ugly.\n\nBut that still does not answer the question that matters: Can it actually be exploited in your environment?\n\nMythos-class AI is ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Call of Duty: Black Ops 2 Appears to Be Much More Popular Than Black Ops 7 and Warzone on PS5",
     body: "Call of Duty: Black Ops 2 on PS5 appears to be more popular than Call of Duty: Black Ops 7 and Call of Duty: Warzone in the United States.",
     time: "just now",
