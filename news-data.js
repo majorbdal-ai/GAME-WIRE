@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "LittleBigPlanet Developer Reportedly Working on Animal Crossing-Like Game for 2027 Release",
+    body: "LittleBigPlanet developer Media Molecule is reportedly working on a new social-sim game, similar to Animal Crossing, and it may release next year.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "GPT-6 Astra Plays Minecraft, Gets So Depressed After Creeper Destroys Its Progress That It Farms Potatoes for Hours",
+    body: "OpenAI\u2019s newest model, GPT-6 Astra, got so depressed after a creeper upended its progress in Minecraft that it listlessly farmed potatoes for hours and grew paranoid of anything green.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
+    body: "Acronis has warned that a high-severity security flaw in its Backup plugin for cPanel and Web Host Manager (WHM) deployments has been exploited in the wild.\n\nThe vulnerability, tracked as CVE-2026-878",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+    body: "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Studio Behind Hyper Light Drifter In Peril After Publisher Withdraws Funding for Unannounced Project",
     body: "Heart Machine, the development studio behind titles like Hyper Light Drifter and Possessors, is in dire straits after a publisher withdrew their funding for an unannounced project.",
     time: "just now",
