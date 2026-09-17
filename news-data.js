@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "GTA 5 Franklin Voice Actor Clears the Air After Calling Out Twitch Star Kai Cenat for Allegedly Breaking Promise to a Young Fan",
+    body: "The voice actor behind GTA 5\u2019s Franklin went viral after revealing his personal disagreement with famous Twitch steamer Kai Cenat, but the two stars are on good terms again.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Marvel's Wolverine Players Are Testing Its Motorcycle Sequence to See if Logan Can Die if You Don't Touch the Controller",
+    body: "Marvel\u2019s Wolverine has kicked off no end of debates on social media, with the latest of these centering around a chase sequence that sees Logan weaving through traffic on a motorcycle.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "CISO's Expert Guide to Agentic Pentesting for Websites",
+    body: "Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how a",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America",
+    body: "The China-aligned state-sponsored threat actor known as FamousSparrow has been observed deploying a previously unreported backdoor called SparroWocky in attacks targeting multiple countries in Latin A",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Spotify Seems to Be Teasing a GTA 6 Collaboration with Rockstar Games",
     body: "Spotify appears to be the next big streaming giant to partner with Rockstar Games for GTA 6's marketing.",
     time: "just now",
