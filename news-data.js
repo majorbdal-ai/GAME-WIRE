@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Humble\u2019s Isometric Immersion CRPG Pack Gets You 11 Exciting Games for Just $23",
+    body: "Humble\u2019s Isometric Immersion CRPG Pack includes 11 games that have a total value of $291, but you can grab them all for your PC library for as low as $23.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The MSI Codex Z2C  RTX 5070 Prebuilt Gaming PC Drops to $1399 and Includes an Upcoming PC Game",
+    body: "Excellent prebuilt option for 1080p and 1440p gaming, and it's capable enough to run games in 4K as well.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
+    body: "A security breach at Gyazo, Helpfeel's image-sharing service, exposed about 23.62 million user records, including email addresses and password hashes, the Kyoto-based company said in a&nbsp;notice&nbs",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks",
+    body: "Cisco has warned of a fresh maximum-severity security flaw impacting Identity Services Engine (ISE) that has come under active exploitation.\n\nThe vulnerability, tracked as CVE-2026-76460 (CVSS score: ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Pirate Who Cracked Denuvo Games Like Resident Evil Requiem Plans to Keep Doing So Despite Being Sued",
     body: "A pirate known for cracking games that utilize the DRM software Denuvo is being hit with a lawsuit... but that isn't stopping them from continuing on.",
     time: "just now",
