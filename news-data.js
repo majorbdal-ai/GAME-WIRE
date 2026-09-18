@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "IGN 30 Anniversary Bundle Is Live: Get 7 PC Games for $15",
+    body: "IGN is 30, and to celebrate, we've teamed up with Humble to offer a bundle of 7 excellent PC games for just $15.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Mega Man: Dual Override Preview: We Played as Proto Man This Time",
+    body: "Proto Man offers a distinctly different challenge than Mega Man. Not necessarily harder, just different. It\u2019s worth noting that you won\u2019t be switching back and forth between the two; at the start of y",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
+    body: "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine.\n\nKernel maintainers have fixed all f",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
+    body: "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a spec",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Final Fantasy 7 Revelation: Second-Take Preview",
     body: "Two hours in Final Fantasy VII Revelation goes fast. At least, that\u2019s what I thought until I reflected on everything I\u2019d done: I zoomed around the skies above its open-world map aboard the Highwind ai",
     time: "just now",
