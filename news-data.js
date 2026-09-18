@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Control Resonant is Almost a Picture Perfect PC Port",
+    body: "Control Resonant is nearly a picture perfect PC port, with gorgeous visuals and stellar performance on almost every PC I've tested it on.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Magic: The Gathering's Hobbit Bundle Drops to Just $60 on Amazon",
+    body: "Save $10 on the Magic: The Gathering The Hobbit Booster Bundle at Amazon as part of its early Prime Day deals. Get 9 Play Boosters, foil lands, and an oversized spindown die for a new all time low pri",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+    body: "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India an",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
+    body: "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required.\n\nThe vulnerability, track",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "The Blood of Dawnwalker Dev Confirms New Game Plus Is on the Way",
     body: "The Blood of Dawnwalker is indeed getting a new game plus mode in the future, according to the game's director.",
     time: "just now",
