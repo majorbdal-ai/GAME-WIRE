@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The Blood of Dawnwalker Dev Confirms New Game Plus Is on the Way",
+    body: "The Blood of Dawnwalker is indeed getting a new game plus mode in the future, according to the game's director.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Professor Layton Developer Level-5 Scrambles to Reupload Trailers as AI Backlash Intensifies",
+    body: "In the wake of fierce online backlash, Professor Layton developer Level-5 has released a new statement apologizing for the mistrust caused by generative AI use in its recent showcase for upcoming titl",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
+    body: "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit.\n\nThe new malware family, pe",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
+    body: "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry.\n\n\"The develo",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Magic\u2019s Most-Wanted Marvel Deck Is Discounted \u2013 Here\u2019s Why You Should Consider This One Instead",
     body: "The MTG Marvel Doom Prevails Commander deck is discounted on Amazon, but Avengers Assemble offers much better gameplay value for less money.",
     time: "just now",
