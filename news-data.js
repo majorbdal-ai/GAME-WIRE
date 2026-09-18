@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Final Fantasy 7 Revelation: Second-Take Preview",
+    body: "Two hours in Final Fantasy VII Revelation goes fast. At least, that\u2019s what I thought until I reflected on everything I\u2019d done: I zoomed around the skies above its open-world map aboard the Highwind ai",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Control Resonant Review",
+    body: "Remedy's follow-up to 2019's Control moves to action combat in an open world and tells a more character-focused story with its paranatural edge intact.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
+    body: "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from the",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
+    body: "In July 2025, someone registered a domain that used to belong to a content delivery network.&nbsp; The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Control Resonant is Almost a Picture Perfect PC Port",
     body: "Control Resonant is nearly a picture perfect PC port, with gorgeous visuals and stellar performance on almost every PC I've tested it on.",
     time: "just now",
