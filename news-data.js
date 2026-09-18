@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Magic\u2019s Most-Wanted Marvel Deck Is Discounted \u2013 Here\u2019s Why You Should Consider This One Instead",
+    body: "The MTG Marvel Doom Prevails Commander deck is discounted on Amazon, but Avengers Assemble offers much better gameplay value for less money.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The Last of Us Game Director Finds Modern AAA Games 'Boring,' Says He's 'Not Excited' by God of War Laufey's Gameplay",
+    body: "Bruce Straley, the game director behind The Last of Us and various Uncharted games, finds modern AAA games to be \"boring.\"",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
+    body: "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to na",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
+    body: "A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network.\n\nThe Security Man",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Humble\u2019s Isometric Immersion CRPG Pack Gets You 11 Exciting Games for Just $23",
     body: "Humble\u2019s Isometric Immersion CRPG Pack includes 11 games that have a total value of $291, but you can grab them all for your PC library for as low as $23.",
     time: "just now",
