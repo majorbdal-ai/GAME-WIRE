@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Lollipop Chainsaw Live-Action Movie Revealed by Dragami Games",
+    body: "A live-action Lollipop Chainsaw movie is officially in the works, developer Dragami Games has announced.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "We Ranked the 10 Best First Partner Pok\u00e9mon TCG Cards of All Time",
+    body: "We ranked the 10 best First Partner Pok\u00e9mon TCG cards of all time, featuring $4,500 vintage grails, iconic Charizard classics, and budget-friendly picks.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Identity Visibility in 2026: The Foundation of Identity Security",
+    body: "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+    body: "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet.\n\nThe vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score:",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "As Fans Flood the World of Warcraft: Forever Beta, Dev Says It's Putting Up 'The Craziest Numbers I've Seen in 17 Years Working at Blizzard'",
     body: "World of Warcraft: Forever looks like it could be a smash hit after the launch of the beta was overrun with eager fans, surprising even Blizzard itself.",
     time: "just now",
