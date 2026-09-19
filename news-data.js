@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "We Ranked the 10 Best First Partner Pok\u00e9mon TCG Cards of All Time",
+    body: "We ranked the 10 best First Partner Pok\u00e9mon TCG cards of all time, featuring $4,500 vintage grails, iconic Charizard classics, and budget-friendly picks.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "EA Sports FC 27 Review So Far",
+    body: "EA Sports stands on shaky ground with a new open-world hub, but the realistic, intuitive Tactics system shows promise.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+    body: "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
+    body: "A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service.\n\nThe extension, named \"Twitc",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Remedy Honors the Late David Lynch in Control Resonant With Powerful Twin Peaks Quote",
     body: "Remedy's games have always had Lynchian inspirations, including its new open-world action game Control Resonant.",
     time: "just now",
