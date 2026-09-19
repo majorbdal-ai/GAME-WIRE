@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "As Fans Flood the World of Warcraft: Forever Beta, Dev Says It's Putting Up 'The Craziest Numbers I've Seen in 17 Years Working at Blizzard'",
+    body: "World of Warcraft: Forever looks like it could be a smash hit after the launch of the beta was overrun with eager fans, surprising even Blizzard itself.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Marvel's Wolverine Developer Nerfs Scent Trails and Audio Sense Indicators After 'Fart Gas' Backlash",
+    body: "Insomniac has released an update for Marvel\u2019s Wolverine that nerfs the \u201cfart gas\u201d that had become such a talking point even before the game\u2019s release.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+    body: "Three researchers at the security firm&nbsp;Hacktron&nbsp;used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an inte",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
+    body: "SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerab",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "We Ranked the 10 Best First Partner Pok\u00e9mon TCG Cards of All Time",
     body: "We ranked the 10 best First Partner Pok\u00e9mon TCG cards of all time, featuring $4,500 vintage grails, iconic Charizard classics, and budget-friendly picks.",
     time: "just now",
