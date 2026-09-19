@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The Blood of Dawnwalker Modders Aren\u2019t Missing the Point \u2013 They Just Love the Game",
+    body: "Modders are extending The Blood of Dawnwalker's 30-day time limit to allow more time to complete every questline. But while this goes against the developer's vision, it shouldn't be seen as vandalism.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "We Ranked the 10 Best First Partner Pok\u00e9mon TCG Cards of All Time",
+    body: "We ranked the 10 best First Partner Pok\u00e9mon TCG cards of all time, featuring $4,500 vintage grails, iconic Charizard classics, and budget-friendly picks.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+    body: "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first repor",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
+    body: "An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec&nbsp;said on September 18.\n\nThe French security company ha",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Lollipop Chainsaw Live-Action Movie Revealed by Dragami Games",
     body: "A live-action Lollipop Chainsaw movie is officially in the works, developer Dragami Games has announced.",
     time: "just now",
