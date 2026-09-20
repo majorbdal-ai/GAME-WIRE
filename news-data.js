@@ -67,6 +67,26 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "We Ranked The 10 Best Eevee Pok\u00e9mon Cards of All Time",
+    body: "We've ranked the 10 best Eevee Pok\u00e9mon cards of all time, from priceless Japanese trophy promos to iconic vintage classics and modern chase cards.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The Blood of Dawnwalker Modders Aren\u2019t Missing the Point \u2013 They Just Love the Game",
+    body: "Modders are extending The Blood of Dawnwalker's 30-day time limit to allow more time to complete every questline. But while this goes against the developer's vision, it shouldn't be seen as vandalism.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "The Last of Us Director Apologizes to God of War Laufey Devs After Calling Recent AAA Games 'Boring'",
     body: "The Last of Us game director Bruce Straley has apologized to the God of War Laufey team after his comments about modern AAA games brought \"uninvited and unnecessary negative attention.\"",
     time: "just now",
