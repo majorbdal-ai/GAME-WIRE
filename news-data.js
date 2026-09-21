@@ -43,6 +43,36 @@ const NEWS_ALL = [
     link: "#"
   },
   {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
+    body: "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once again h",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "We Ranked The 10 Best Eevee Pok\u00e9mon Cards of All Time",
+    body: "We've ranked the 10 best Eevee Pok\u00e9mon cards of all time, from priceless Japanese trophy promos to iconic vintage classics and modern chase cards.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The Blood of Dawnwalker Modders Aren\u2019t Missing the Point \u2013 They Just Love the Game",
+    body: "Modders are extending The Blood of Dawnwalker's 30-day time limit to allow more time to complete every questline. But while this goes against the developer's vision, it shouldn't be seen as vandalism.",
+    time: "just now",
+    link: "#"
+  },
+  {
     section: "gaming",
     tag: "TRENDING",
     category: "GAMING",
