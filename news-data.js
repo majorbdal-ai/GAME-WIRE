@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Kingdom Come: Deliverance 2 Is Coming to Nintendo Switch 2 \u2013 Here\u2019s Where You Can Preorder It",
+    body: "Kingdom Come: Deliverance 2: Royal Edition is releasing next year on Nintendo Switch 2. Here's where it's available to preorder for $59.99, alongside details on what comes with this edition of the gam",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Bungie Bosses Promise to \u2018Evolve\u2019 Marathon, Deny Game Will \u2018Replace\u2019 Destiny",
+    body: "Bungie Studio Head Poria Torkan and Josh Dean, Head of Product and GM of Marathon, revealed plans to \u201cevolve\u201d Marathon as Bungie continues to navigate big internal changes.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
+    body: "A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
+    body: "The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account credentials from over ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Here's Everything You Need to Know About Mighty Mike Plays and the $118,000 He Allegedly Cost His Dad",
     body: "Why is everyone talking about Mighty Mike Plays? From the (alleged) $118,000 bill to AI-generated T-shirt designs, we're here to explain how a Minecraft YouTube channel has captured the internet's att",
     time: "just now",
