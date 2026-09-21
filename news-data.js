@@ -27,6 +27,36 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Here's Everything You Need to Know About Mighty Mike Plays and the $118,000 He Allegedly Cost His Dad",
+    body: "Why is everyone talking about Mighty Mike Plays? From the (alleged) $118,000 bill to AI-generated T-shirt designs, we're here to explain how a Minecraft YouTube channel has captured the internet's att",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Silent Hill: Townfall Review",
+    body: "Like the intravenous needle permanently jutting out of its hero\u2019s wrist, Silent Hill: Townfall gives this long running series a welcome shot in the arm.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
+    body: "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript.\n\n\"ChainScript has appeared under multiple build names, including Co",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "We Ranked The 10 Best Eevee Pok\u00e9mon Cards of All Time",
     body: "We've ranked the 10 best Eevee Pok\u00e9mon cards of all time, from priceless Japanese trophy promos to iconic vintage classics and modern chase cards.",
     time: "just now",
