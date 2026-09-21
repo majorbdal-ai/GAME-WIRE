@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Rockstar Games Is Taking Down Footage and Images of Scrapped GTA 5 DLC And Early Version of Leaked GTA 6 Map",
+    body: "Take-Two Interactive, the parent company of Rockstar Games, has begun taking down videos and posts about leaked GTA 5 and GTA 6 content.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Blizzard Says StarCraft 'Won't Be Exclusive' When It Launches in 2030",
+    body: "Blizzard has confirmed its open-world StarCraft shooter \"won't be exclusive\" to Xbox platforms when it launches in 2030.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Google Fined \u20ac403 Million Over GDPR Violations Tied to Location Data",
+    body: "Google has been&nbsp;fined \u20ac403 million&nbsp;for breaking the EU's data protection law, the GDPR, in the way three of its features handled people's location data from May 2018 to February 2020.\n\nIrela",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
+    body: "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week.\n\nThe trouble keeps showing up inside things people already trust: code that takes a bad turn, old",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Kingdom Come: Deliverance 2 Is Coming to Nintendo Switch 2 \u2013 Here\u2019s Where You Can Preorder It",
     body: "Kingdom Come: Deliverance 2: Royal Edition is releasing next year on Nintendo Switch 2. Here's where it's available to preorder for $59.99, alongside details on what comes with this edition of the gam",
     time: "just now",
