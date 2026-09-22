@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Rayman Legends Retold Does a Good Job of Scratching That Platforming Itch | IGN Preview",
+    body: "Rayman Legends Retold isn't breaking any new ground \u2013 not visually and not gameplay-wise, not that it should be expected to since it's a remake, after all \u2013 but it is a clean remake chock-full of cont",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Nodusfall Hands-On Preview: It\u2019s Hoyoverse\u2019s New One About Squadding Up and Killing Really, Really Big Monsters",
+    body: "I didn\u2019t know anything about Nodusfall coming into it, but I came out very, very impressed by it. It\u2019s no secret that the action game is in something of a bad way at the moment. Most things are kind o",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "AI Agents Are Rewriting the Rules of Lateral Movement",
+    body: "Security teams have spent decades asking whether an identity has too much access. AI agents raise a harder question: how can we determine which paths an autonomous system can discover, given the acces",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups",
+    body: "Attackers are exploiting a new flaw in on-premises VeloCloud Orchestrator (VCO), the server that manages the Edge devices in a VeloCloud SD-WAN, Arista said on September 22.\n\nThe flaw, tracked as CVE-",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Here's Your First Look at 3 Cards From Pok\u00e9mon TCG: Mega Evolution \u2014 Delta Reign, Due to Launch This November",
     body: "IGN can today reveal three new Pok\u00e9mon card designs from the upcoming set Pok\u00e9mon TCG: Mega Evolution \u2014 Delta Reign.",
     time: "just now",
