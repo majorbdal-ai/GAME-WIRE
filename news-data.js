@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Wardogs Season 2 Release Date Announced, Will Add Weather Including Rain",
+    body: "Wardogs Season 2 has a release date, and the new content update will add weather effects, including rain.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Halo Fans Can't Decide if Activision Takeover Is a Good Thing or Not",
+    body: "Call of Duty developer Activision is now taking over creation of the next Halo game, and fans are understandably divided about it.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
+    body: "Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23,&nbsp;the company said.\n\nThe flaw, CVE-2026-93616, allows an attac",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
+    body: "WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders.\n\nOn some servers, that can go further, allowi",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Rayman Legends Retold Does a Good Job of Scratching That Platforming Itch | IGN Preview",
     body: "Rayman Legends Retold isn't breaking any new ground \u2013 not visually and not gameplay-wise, not that it should be expected to since it's a remake, after all \u2013 but it is a clean remake chock-full of cont",
     time: "just now",
