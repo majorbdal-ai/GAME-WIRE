@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Here's Your First Look at 3 Cards From Pok\u00e9mon TCG: Mega Evolution \u2014 Delta Reign, Due to Launch This November",
+    body: "IGN can today reveal three new Pok\u00e9mon card designs from the upcoming set Pok\u00e9mon TCG: Mega Evolution \u2014 Delta Reign.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "How Long Is Silent Hill: Townfall?",
+    body: "Five different IGN editors played through Silent: Hill Townfall in five different ways to find out how long Konami's new survival horror is, depending on playstyle.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "DORA Year Two: Can Your SOC Actually See the Attack?",
+    body: "When the Digital Operational Resilience Act (DORA) became enforceable across the European Union in January 2025, it triggered an administrative sprint. Financial entities spent the first year establis",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
+    body: "A new flaw in the Linux kernel's KVM virtualization code for ARM64 processors can leave a freed piece of host memory exposed to a guest virtual machine on hosts with nested virtualization enabled.\n\nTh",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Injustice 3 Leak Reportedly Reveals 2 Playable Characters",
     body: "Injustice 3 will feature one character fans will expect and one who perhaps comes as a surprise, according to a fresh leak.",
     time: "just now",
