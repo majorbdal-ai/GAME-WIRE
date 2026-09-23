@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Warhammer 40,000: Dawn of War 4 Hard Mode Is No Joke \u2014 Watch AI-Controlled Orks Wipe the Floor With 2 Developers Playing Space Marines",
+    body: "When developers show off their games, they tend to defeat the enemy AI in spectacular fashion. But that\u2019s exactly the opposite of what happens in the gameplay King Art Games just released for its upco",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The Legend of Zelda: Tears of the Kingdom for Switch Drops to $38.97 After This Walmart Coupon",
+    body: "10/10 IGN \"Masterpiece\".",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
+    body: "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
+    body: "A flaw in cPanel's&nbsp;CalDAV and CardDAV service&nbsp;lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22.\n\nA&nbsp;seco",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Game of Thrones Star Kit Harington Isn't a Gamer, But He's Excited for Grand Theft Auto 6",
     body: "Game of Thrones star Kit Harington has confessed that he isn't much of a gamer, but wants to play Grand Theft Auto 6.",
     time: "just now",
