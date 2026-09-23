@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "State of Decay Developer Undead Labs Responds to 'Significant' Layoffs Following Independence from Xbox",
+    body: "State of Decay 3 developer Undead Labs has confirmed that it has had to undergo \"significant\" layoffs following its independence from Xbox.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Save 27% Off Kirby Air Riders for the Nintendo Switch 2",
+    body: "Super Smash Kart World",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
+    body: "A critical vulnerability in&nbsp;Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway serv",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
+    body: "A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was&nbsp;published on GitHub&nbsp;on September 19.\n\nTh",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Sea of Thieves Fans Fear for Rare's Future as Studio Gets Put Under Activision Following Xbox Reset",
     body: "Sea of Thieves fans are concerned for Rare's future, as the studio has been consolidated under Activision as part of Xbox's latest reset.",
     time: "just now",
