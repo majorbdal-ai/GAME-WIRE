@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Gears of War: E-Day Story Director Laid Off Just a Week Before Early Access Launch",
+    body: "Gears of War: E-Day's story director has been laid off, just one week before the game's early access launch.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Wolverine's Narrative Director Explains Why Logan Needed to be a Short King in the Game",
+    body: "Wolverine's narrative director, Walt Williams, opened up about why it was important to him that Logan was made to be significantly shorter than his hulking counterpart, Sabretooth, and why the emotion",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
+    body: "A SharePoint Server vulnerability that Microsoft initially classified as a spoofing flaw with a CVSS score of 6.5 actually enables authenticated remote code execution, according to&nbsp;full technical",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal",
+    body: "A malicious npm package named \"indexed-btree\" has been observed hiding its malicious behavior within application code rather than using lifecycle scripts, indicating that threat actors are likely shif",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "State of Decay Developer Undead Labs Responds to 'Significant' Layoffs Following Independence from Xbox",
     body: "State of Decay 3 developer Undead Labs has confirmed that it has had to undergo \"significant\" layoffs following its independence from Xbox.",
     time: "just now",
