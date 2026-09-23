@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Beast of Reincarnation on PS5 Drops to a New Low Price at Amazon",
+    body: "Amazon has knocked Beast of Reincarnation on PS5 down to a new low price of $51.30, saving you just over $8 off its usual list price.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "\u2018Vice City\u2019 Trademark Abandoned by WWE ahead of GTA 6 launch",
+    body: "With GTA 6 imminent, it appears that WWE was trying to trademark the term \u2018Vice City,\u2019 before abandoning plans to do so.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+    body: "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication.\n\nThe cha",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
+    body: "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server,&nbsp;Cisco Talos said&nbsp;on September 22.\n\nThe models can choose to",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Star Wars Zero Company Estimated to Have Sold 1 Million, With Nearly 70% on Steam",
     body: "Star Wars Zero Company is estimated to have sold 1 million copies, with the majority of those sales coming from Steam.",
     time: "just now",
