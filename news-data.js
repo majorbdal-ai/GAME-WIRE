@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Game of Thrones Star Kit Harington Isn't a Gamer, But He's Excited for Grand Theft Auto 6",
+    body: "Game of Thrones star Kit Harington has confessed that he isn't much of a gamer, but wants to play Grand Theft Auto 6.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Marvel Tokon: Fighting Souls PC Sales Figures and Player Count Spark Worry From Players About Game's Longevity",
+    body: "It\u2019s been over a month since Marvel Tokon: Fighting Souls released, and its early sales figures and player counts on PC are sparking concern within the fighting game community about its longevity.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
+    body: "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted b",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
+    body: "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including m",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Beast of Reincarnation on PS5 Drops to a New Low Price at Amazon",
     body: "Amazon has knocked Beast of Reincarnation on PS5 down to a new low price of $51.30, saving you just over $8 off its usual list price.",
     time: "just now",
