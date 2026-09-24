@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "New Report Sheds Light on What Will \u2014 and Won't \u2014 Return to Destiny 2 When Bungie Adds Back Vaulted Content",
+    body: "Bungie will freely return vaulted content it previously stripped from Destiny 2, but is unlikely to include everything fans were once able to play.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Injustice 3 Rumor Sparks Response From NetherRealm's Ed Boon",
+    body: "NetherRealm development chief Ed Boon has responded to rumors doing the rounds about the studio\u2019s next game, including reports indicating Injustice 3 is in the works.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls",
+    body: "The logistics sector has become the target of a new malicious cyber campaign that distributes an Android spyware codenamed Corp MDM.\n\nAccording to Have I Been Squatted, the campaign uses fake Google P",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
+    body: "AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian\u2019s 2026 State of Secrets Sprawl Report, ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Artist Behind Pok\u00e9mon 30th Anniversary Jirachi SIR Card Gives Tearful Response to Late Influencer's Heart-Wrenching Final Pack Opening",
     body: "The artist behind a Pok\u00e9mon 30th Anniversary Jirachi SIR card has responded after beloved influencer Avery the Pok\u00e9 Kid pulled the card in his last pack opening before his death from pancreatic cancer",
     time: "just now",
