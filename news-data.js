@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Artist Behind Pok\u00e9mon 30th Anniversary Jirachi SIR Card Gives Tearful Response to Late Influencer's Heart-Wrenching Final Pack Opening",
+    body: "The artist behind a Pok\u00e9mon 30th Anniversary Jirachi SIR card has responded after beloved influencer Avery the Pok\u00e9 Kid pulled the card in his last pack opening before his death from pancreatic cancer",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Halo Fans Are Divided Over Whether Activision Should Reboot the Series and Start Fresh",
+    body: "Halo fans are divided on whether or not Activision should completely reboot the franchise or keep Master Chief's story going.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
+    body: "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: co",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
+    body: "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior.\n\nOpus ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Warhammer 40,000: Dawn of War 4 Hard Mode Is No Joke \u2014 Watch AI-Controlled Orks Wipe the Floor With 2 Developers Playing Space Marines",
     body: "When developers show off their games, they tend to defeat the enemy AI in spectacular fashion. But that\u2019s exactly the opposite of what happens in the gameplay King Art Games just released for its upco",
     time: "just now",
