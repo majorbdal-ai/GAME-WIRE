@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Beyond Good & Evil 2 Is Still Alive, and Just Added an Assassin's Creed Shadows Writer",
+    body: "Beyond Good & Evil 2 is still in development, and just added another writer to its team.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Marvel\u2019s Wolverine Is Getting a Translucent Yellow Vinyl This December \u2013 Here\u2019s Where To Preorder It",
+    body: "Marvel\u2019s Wolverine is getting a bright translucent yellow vinyl release for its original soundtrack composed by David Fleming. Here's where you can preorder it for $29.99 ahead of its December 11 rele",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
+    body: "The \"third-party[.]com\" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users.\n\n\"third-pa",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer",
+    body: "An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a previously undocume",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "New Report Sheds Light on What Will \u2014 and Won't \u2014 Return to Destiny 2 When Bungie Adds Back Vaulted Content",
     body: "Bungie will freely return vaulted content it previously stripped from Destiny 2, but is unlikely to include everything fans were once able to play.",
     time: "just now",
