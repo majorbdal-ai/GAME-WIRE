@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Xbox Says Its Share of GTA 6 Preorders Matches Its Share of the Console Market, Following PS5 Dominance Claim",
+    body: "Microsoft has stepped in to address a report that claimed GTA 6 preorders are \u201cheavily skewed\u201d toward PlayStation 5 over Xbox Series X and S.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Entire Prince of Persia: The Lost Crown Game Available to Play for Free in Nintendo Switch Demo, But There\u2019s a Catch",
+    body: "Players who haven\u2019t yet experienced Prince of Persia: The Lost Crown can play the entire game for free right now on Nintendo Switch and the Nintendo Switch 2 until September 30.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
+    body: "ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique f",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
+    body: "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister&nbsp;Anthony Albanese said.\n\nThe portal publishe",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Bungie Finally Details Radical Changes for Marathon",
     body: "It's no secret that Marathon has had a rough time since launching in March 2026, but Bungie is hard at work on new game modes that it's hoping will breathe new life into the game.",
     time: "just now",
