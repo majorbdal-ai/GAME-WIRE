@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Bungie Finally Details Radical Changes for Marathon",
+    body: "It's no secret that Marathon has had a rough time since launching in March 2026, but Bungie is hard at work on new game modes that it's hoping will breathe new life into the game.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Counter-Strike Co-Creator Says Gabe Newell Got So Obsessed With Mongolian Throat Singing at Valve HQ That Staff Started Closing Their Office Doors to Escape the Noise",
+    body: "In an interview with game consultant Indie Game Joe, Counter-Strike co-creator Minh Le revealed a hilarious anecdote about Valve boss Gabe Newell that\u2019s going viral for just how absurd it is.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
+    body: "A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats,&nbsp;chained two flaws in OnePlus'",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
+    body: "This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hundred times before.\n\nThat is the thread r",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Beyond Good & Evil 2 Is Still Alive, and Just Added an Assassin's Creed Shadows Writer",
     body: "Beyond Good & Evil 2 is still in development, and just added another writer to its team.",
     time: "just now",
