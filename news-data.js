@@ -37,6 +37,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Warhammer 40,000: Dawn of War 4 Hard Mode Is No Joke \u2014 Watch AI-Controlled Orks Wipe the Floor With 2 Developers Playing Space Marines",
+    body: "When developers show off their games, they tend to defeat the enemy AI in spectacular fashion. But that\u2019s exactly the opposite of what happens in the gameplay King Art Games just released for its upco",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
+    body: "A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst&nbsp;said in research published September 22.\n\nThe",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
+    body: "A new security vulnerability in Next.js could allow attackers to run code on a server via&nbsp;ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said.\n\nThe r",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Artist Behind Pok\u00e9mon 30th Anniversary Jirachi SIR Card Gives Tearful Response to Late Influencer's Heart-Wrenching Final Pack Opening",
+    body: "The artist behind a Pok\u00e9mon 30th Anniversary Jirachi SIR card has responded after beloved influencer Avery the Pok\u00e9 Kid pulled the card in his last pack opening before his death from pancreatic cancer",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Halo Fans Are Divided Over Whether Activision Should Reboot the Series and Start Fresh",
     body: "Halo fans are divided on whether or not Activision should completely reboot the franchise or keep Master Chief's story going.",
     time: "just now",
