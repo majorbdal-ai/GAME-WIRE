@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "This Cozy Dressmaking Game is Taking Over Steam's Top Sellers List",
+    body: "Dressmaker, an indie game where you run a boutique and design dresses, is taking over Steam, becoming one of the platform\u2019s Top 10 best-selling games mere days after its release.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Warcraft 3 Reforged: Forsaken Kingdom Review",
+    body: "A surprise single-player campaign that maintains the feel of classic Warcraft 3 while mixing in some new ideas.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
+    body: "A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday.\n\nThe ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
+    body: "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (K",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Arc Raiders Is Testing a PvE Mode Very Soon",
     body: "Embark Studios has announced that it will be testing a PvE mode for Arc Raiders next month.",
     time: "just now",
