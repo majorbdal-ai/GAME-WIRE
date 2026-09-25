@@ -37,6 +37,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Metroid Prime Remastered for Switch Is on Sale for $27.99",
+    body: "One of the best Metroid games ever made is on sale for just $27.99 in digital form.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
+    body: "Two actions-cool GitHub Actions have been disabled for a second time after the repositories became accessible last week, months after they were compromised during the May 2026 Mini Shai-Hulud campaign",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence",
+    body: "Cybersecurity researchers have flagged a new version of PamStealer that ensures that the main payload can only be recovered using a server-side decryption chain.\n\nThe latest artifacts, per Jamf Threat",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Entire Prince of Persia: The Lost Crown Game Available to Play for Free in Nintendo Switch Demo, But There\u2019s a Catch",
+    body: "Players who haven\u2019t yet experienced Prince of Persia: The Lost Crown can play the entire game for free right now on Nintendo Switch and the Nintendo Switch 2 until September 30.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "How Silent Hill: Townfall Brings a New Perspective to the Iconic Horror Series",
     body: "How Silent Hill: Townfall Brings a New Perspective to the Iconic Horror Series",
     time: "just now",
