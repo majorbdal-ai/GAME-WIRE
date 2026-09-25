@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Entire Prince of Persia: The Lost Crown Game Available to Play for Free in Nintendo Switch Demo, But There\u2019s a Catch",
+    body: "Players who haven\u2019t yet experienced Prince of Persia: The Lost Crown can play the entire game for free right now on Nintendo Switch and the Nintendo Switch 2 until September 30.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "How Silent Hill: Townfall Brings a New Perspective to the Iconic Horror Series",
+    body: "How Silent Hill: Townfall Brings a New Perspective to the Iconic Horror Series",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "The SOC Doesn't Need to Start Over with Every Alert",
+    body: "Security leaders keep debating whether AI will produce an entirely new class of cyberattack. The nearer change is quieter and already visible: AI has made a failed attack cheap to retry.\n\nThe routine ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
+    body: "Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets.&nbsp;\n\n\"At 18:31 UTC on September 24, 2026, Bitget's security systems",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "This Cozy Dressmaking Game is Taking Over Steam's Top Sellers List",
     body: "Dressmaker, an indie game where you run a boutique and design dresses, is taking over Steam, becoming one of the platform\u2019s Top 10 best-selling games mere days after its release.",
     time: "just now",
