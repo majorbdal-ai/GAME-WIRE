@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Avery the Pok\u00e9 Kid\u2019s Family Speaks Out After Scalpers Use Child\u2019s Death to Inflate Card Prices",
+    body: "The family of late Pok\u00e9mon influencer Avery the Pok\u00e9 Kid is speaking out after scalpers have reportedly started using his death to artificially inflate the prices of a 30th Anniversary Jirachi SIR car",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "As Resident Evil Requiem Passes $500m Revenue, Analysis Shows 8.6% Sales Were on Xbox, With Remaining 91% Shared Between PS5 and Steam",
+    body: "Resident Evil Requiem sold just 8.6% of its copies on Xbox, new sales analysis indicates.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
+    body: "The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild.\n\nThe vulnerability in question is CVE-2026-48842 (CVSS sco",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
+    body: "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency.\n\n\"W",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Entire Prince of Persia: The Lost Crown Game Available to Play for Free in Nintendo Switch Demo, But There\u2019s a Catch",
     body: "Players who haven\u2019t yet experienced Prince of Persia: The Lost Crown can play the entire game for free right now on Nintendo Switch and the Nintendo Switch 2 until September 30.",
     time: "just now",
