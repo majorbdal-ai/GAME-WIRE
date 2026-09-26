@@ -37,6 +37,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Avery the Pok\u00e9 Kid\u2019s Family Speaks Out After Scalpers Use Child\u2019s Death to Inflate Card Prices",
+    body: "The family of late Pok\u00e9mon influencer Avery the Pok\u00e9 Kid is speaking out after scalpers have reportedly started using his death to artificially inflate the prices of a 30th Anniversary Jirachi SIR car",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
+    body: "The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
+    body: "Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber a",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Minecraft LIVE September 2026 Live Report \u2014 All the News as It Happens",
+    body: "It\u2019s time for another Minecraft LIVE, and this one is expected to feature some big reveals as Mojang\u2019s all-conquering sandbox game heads towards the end of 2026 and beyond. Check out out live report f",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Delta Force Celebrates Its Second Anniversary with New Season Reorientation",
     body: "Delta Force Celebrates Its Second Anniversary with New Season Reorientation",
     time: "just now",
