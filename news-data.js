@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "GTA 6 Fans Are Already 3D Printing Items in the Game's $400 Collector's Edition",
+    body: "Fans of GTA 6 are already copying items in the game\u2019s $400 collector\u2019s edition and 3D-printing them for a far cheaper price.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Try IGN's Prince of Persia: The Lost Crown Checklists for Free During Nintendo's September Game Trial",
+    body: "Try IGN's Prince of Persia: The Lost Crown Checklists for Free During Nintendo's September Game Trial",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Google Fined \u20ac403 Million Over GDPR Violations Tied to Location Data",
+    body: "Google has been&nbsp;fined \u20ac403 million&nbsp;for breaking the EU's data protection law, the GDPR, in the way three of its features handled people's location data from May 2018 to February 2020.\n\nIrela",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
+    body: "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week.\n\nThe trouble keeps showing up inside things people already trust: code that takes a bad turn, old",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "How to Play the Silent Hill Games in Order",
     body: "How to Play the Silent Hill Games in Order",
     time: "just now",
