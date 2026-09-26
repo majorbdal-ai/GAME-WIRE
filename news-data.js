@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Marvel's Wolverine Dev Adds Option to Turn Off Controversial Scent Trails and More in New Update",
+    body: "Insomniac Games has published a new Marvel's Wolverine update that adds an option to turn off those controversial scent trails for collectibles.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Final Fantasy 7 Revelation Will Be Easier to Platinum Than Rebirth",
+    body: "Final Fantasy 7 Revelation is still a few months away, but it seems like it's at least going to be easier to get the Platinum trophy than it was in Rebirth.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
+    body: "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+    body: "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) ca",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "GTA 6 Fans Are Already 3D Printing Items in the Game's $400 Collector's Edition",
     body: "Fans of GTA 6 are already copying items in the game\u2019s $400 collector\u2019s edition and 3D-printing them for a far cheaper price.",
     time: "just now",
