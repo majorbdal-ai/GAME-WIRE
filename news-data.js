@@ -63,6 +63,26 @@ const NEWS_ALL = [
     link: "#"
   },
   {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Minecraft LIVE September 2026 Live Report \u2014 All the News as It Happens",
+    body: "It\u2019s time for another Minecraft LIVE, and this one is expected to feature some big reveals as Mojang\u2019s all-conquering sandbox game heads towards the end of 2026 and beyond. Check out out live report f",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Avery the Pok\u00e9 Kid\u2019s Family Speaks Out After Scalpers Use Child\u2019s Death to Inflate Card Prices",
+    body: "The family of late Pok\u00e9mon influencer Avery the Pok\u00e9 Kid is speaking out after scalpers have reportedly started using his death to artificially inflate the prices of a 30th Anniversary Jirachi SIR car",
+    time: "just now",
+    link: "#"
+  },
+  {
     section: "tech",
     tag: "TRENDING",
     category: "HACKING",
