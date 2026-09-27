@@ -47,6 +47,26 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Minecraft LIVE September 2026 \u2014 Everything Announced",
+    body: "Minecraft LIVE wrapped up with a number of big announcements for the game. We've got everything you need to know right here.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Avery the Pok\u00e9 Kid\u2019s Family Speaks Out After Scalpers Use Child\u2019s Death to Inflate Card Prices",
+    body: "The family of late Pok\u00e9mon influencer Avery the Pok\u00e9 Kid is speaking out after scalpers have reportedly started using his death to artificially inflate the prices of a 30th Anniversary Jirachi SIR car",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Minecraft Is Getting Its First New Dimension in Over 14 Years",
     body: "Minecraft developer Mojang has announced that the Sift is coming to Java and Bedrock Edition in 2027 \u2014 the game's first new dimension in over 14 years.",
     time: "just now",
