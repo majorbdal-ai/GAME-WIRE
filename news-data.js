@@ -27,6 +27,26 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More",
+    body: "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The Last of Us Gets Animated Background on PS5 as Naughty Dog Teases Announcements for TLOU Day 2026",
+    body: "Naughty Dog has released a free background on PlayStation 5 as it prepares to celebrate The Last of Us Day 2026.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Minecraft LIVE September 2026 Live Report \u2014 All the News as It Happens",
     body: "It\u2019s time for another Minecraft LIVE, and this one is expected to feature some big reveals as Mojang\u2019s all-conquering sandbox game heads towards the end of 2026 and beyond. Check out out live report f",
     time: "just now",
