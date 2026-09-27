@@ -27,6 +27,26 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Minecraft Is Getting Its First New Dimension in Over 14 Years",
+    body: "Minecraft developer Mojang has announced that the Sift is coming to Java and Bedrock Edition in 2027 \u2014 the game's first new dimension in over 14 years.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The Legend of Zelda: Ocarina of Time Remake Extended Clip Reveals Closer Look at Ganondorf",
+    body: "Nintendo has published a short clip that shows a closer look at Ganondorf in The Legend of Zelda: Ocarina of Time remake.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Minecraft Confirms Ice Caves as Next Game Drop, Adds Frozen Zombies, Ice Balls, and More",
     body: "Mojang has teased Minecraft\u2019s next game drop, giving fans a sneak peek at some of its features.",
     time: "just now",
