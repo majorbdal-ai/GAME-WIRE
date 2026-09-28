@@ -27,6 +27,26 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Castlevania's Iconic Soundtrack Gets Its Own Symphony, Brought to Life by a 25-Piece Power Rock Orchestra",
+    body: "Konami is celebrating Castlevania\u2019s 40th birthday with a special symphony made up of a 25-member rock orchestra that will bring the series\u2019 iconic sounds to fans in Tokyo, London, and Los Angeles.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Minecraft LIVE September 2026 \u2014 Everything Announced",
+    body: "Minecraft LIVE wrapped up with a number of big announcements for the game. We've got everything you need to know right here.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "The Best Deals Today: Super Mario RPG, Fire Emblem: Fortune's Weave, Corsair K70 Keyboard, and More",
     body: "The Best Deals Today: Super Mario RPG, Fire Emblem: Fortune's Weave, Corsair K70 Keyboard, and More",
     time: "just now",
