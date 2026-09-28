@@ -27,6 +27,26 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The Best Deals Today: Super Mario RPG, Fire Emblem: Fortune's Weave, Corsair K70 Keyboard, and More",
+    body: "The Best Deals Today: Super Mario RPG, Fire Emblem: Fortune's Weave, Corsair K70 Keyboard, and More",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Minecraft LIVE September 2026 \u2014 Everything Announced",
+    body: "Minecraft LIVE wrapped up with a number of big announcements for the game. We've got everything you need to know right here.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Minecraft LIVE September 2026 \u2014 Everything Announced",
     body: "Minecraft LIVE wrapped up with a number of big announcements for the game. We've got everything you need to know right here.",
     time: "just now",
