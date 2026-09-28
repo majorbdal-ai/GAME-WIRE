@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Minecraft Dungeons 2 Review",
+    body: "This shallow sequel provides some peaceful button mashing, but does little to stand out.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "CD Projekt Releases Official List of All the Improvements in The Witcher 3: Wild Hunt \u2014 Remastered",
+    body: "CD Projekt has released an official list of all the improvements made for The Witcher 3: Wild Hunt \u2014 Remastered.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
+    body: "A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assump",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
+    body: "AI agents are moving into production faster than security teams can govern them. They are connecting to apps, handling data, calling APIs, and acting across business systems\u2014often without the same con",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Castlevania's Iconic Soundtrack Gets Its Own Symphony, Brought to Life by a 25-Piece Power Rock Orchestra",
     body: "Konami is celebrating Castlevania\u2019s 40th birthday with a special symphony made up of a 25-member rock orchestra that will bring the series\u2019 iconic sounds to fans in Tokyo, London, and Los Angeles.",
     time: "just now",
