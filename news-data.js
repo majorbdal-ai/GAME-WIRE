@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Call of Duty: Modern Warfare 4 Is Finally Making Double XP Tokens Only Active During Matches",
+    body: "Call of Duty: Modern Warfare 4 is making a major quality of life change that fans have been wanting to see for years.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The MSI Codex Z2C  RTX 5070 Prebuilt Gaming PC Drops to $1399 and Includes Control: Resonant",
+    body: "Excellent prebuilt option for 1080p and 1440p gaming, and it's capable enough to run games in 4K as well.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
+    body: "Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks.\n\nThe vulnerability, tracked as CVE-",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
+    body: "Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in&nbsp;a technical analysis.\n\nThe malware has been seen in a s",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Minecraft Dungeons 2 Review",
     body: "This shallow sequel provides some peaceful button mashing, but does little to stand out.",
     time: "just now",
