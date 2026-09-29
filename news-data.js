@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "New Game Ready to Add Meat and Blood to Steam\u2019s Tidying-Up Craze",
+    body: "Steam has seen an avalanche of cheap and cheerful tidying-up games lately, from libraries to magic shops to toy stores, but the genre is about to get weird.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "'As Far as I'm Concerned, That's a Step in the Right Direction' \u2014 Path of Exile Dev Optimistic About Diablo 5",
+    body: "While Diablo 5 was announced at Blizzcon 2026 just a couple weeks ago, the game doesn't come out until Spring 2029. But it seems like Chris Wilson, Ex-Co-Founder of Path of Exile developer Grinding Ge",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
+    body: "Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group.\n\n\"It is true that this month a 24-year-old man from Amsterdam was arrest",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
+    body: "OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loo",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Naughty Dog Will 'Fully Reveal' Intergalactic in 2027, but No Release Window Yet",
     body: "Naughty Dog studio head Neil Druckmann concluded this year's \"The Last of Us Day\" by giving updates on the developer's current projects, teasing two new The Last of Us projects that \"will expand the c",
     time: "just now",
