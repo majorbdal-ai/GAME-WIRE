@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Naughty Dog Will 'Fully Reveal' Intergalactic in 2027, but No Release Window Yet",
+    body: "Naughty Dog studio head Neil Druckmann concluded this year's \"The Last of Us Day\" by giving updates on the developer's current projects, teasing two new The Last of Us projects that \"will expand the c",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Zach Cregger's Resident Evil Movie Is So Popular, It Increased RE2 Remake Sales by More Than 50% on PS5",
+    body: "Data shows that Zach Cregger\u2019s film adaptation of Capcom\u2019s flagship horror franchise was so successful, it boosted sales for copies of both the Resident Evil 2 remake and RE4\u2019s 2023 remake on the Play",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
+    body: "A malicious MCP server could trick an application built on the official&nbsp;MCP Python SDK&nbsp;into handing over the OAuth credentials it uses to log in to a real service, the SDK's maintainers said",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
+    body: "OpenAI on Monday shelved plans to release GPT-6.1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audi",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Resident Evil Fans Have Already Modded Austin Abrams' Character from the Movie Into RE2",
     body: "As Zach Cregger's Resident Evil movie spreads to theaters across the globe, one dedicated fan has managed to create a Resident Evil 2 mod featuring Austin Abrams' character, Bryan.",
     time: "just now",
