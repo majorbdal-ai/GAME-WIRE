@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Coinbase Joins Pok\u00e9mon TCG Hype With Its Own Digital Pack-Opening Service",
+    body: "Coinbase is joining the Pok\u00e9mon TCG craze with its own digital pack-opening platform.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Pok\u00e9mon VGC Pro Begs Players to Wash Themselves After Opponent\u2019s 'Putrid' Stench Makes Them Vomit",
+    body: "A professional Pok\u00e9mon player is going viral after begging his fellow competitors to keep up with their personal hygiene, claiming he literally threw up at an event due to someone\u2019s stench.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
+    body: "Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers,&nbsp;according to Microsoft.\n\nThe campaigns, ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
+    body: "Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled precautionary shutdown.\n",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Why Control Resonant Developer Remedy Avoided Using Yellow Paint to Guide Players",
     body: "Control Resonant's director has explained how the team chose to handle exploration in a way that doesn't feel like it is holding the player's hand with things like yellow paint.",
     time: "just now",
