@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Resident Evil Fans Have Already Modded Austin Abrams' Character from the Movie Into RE2",
+    body: "As Zach Cregger's Resident Evil movie spreads to theaters across the globe, one dedicated fan has managed to create a Resident Evil 2 mod featuring Austin Abrams' character, Bryan.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The Elder Scrolls Doesn't Have a New Vegas-Like Spinoff Because Todd Howard Is 'Very Protective' of the Franchise, Former Dev Claims",
+    body: "The Elder Scrolls never got a Fallout: New Vegas-like spinoff because Todd Howard is \"very protective\" of the IP, according to former Bethesda developer Kurt Kuhlmann.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "IAM for AI agents: A Practical Enterprise Framework",
+    body: "What is IAM for AI agents?\n\nAI agents authenticate, invoke tools, and act across enterprise systems with delegated authority. IAM for AI Agents is the identity-control architecture that governs those ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
+    body: "The attacker who stole about $388 million from the cryptocurrency exchange Bitget gained access through a vulnerability in a third-party security product the exchange used, Bitget said on Monday.\n\nThe",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Call of Duty: Modern Warfare 4 Is Finally Making Double XP Tokens Only Active During Matches",
     body: "Call of Duty: Modern Warfare 4 is making a major quality of life change that fans have been wanting to see for years.",
     time: "just now",
