@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Why Control Resonant Developer Remedy Avoided Using Yellow Paint to Guide Players",
+    body: "Control Resonant's director has explained how the team chose to handle exploration in a way that doesn't feel like it is holding the player's hand with things like yellow paint.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The Witcher 3 Fans Relieved to Find Low-Polygon Pigeons Have Survived the Remaster Process",
+    body: "The Witcher 3 Remastered brings tons of graphics improvements, but developer CD Projekt Red has left one incredibly important creature as it was: the pigeon.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
+    body: "An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July.\n\nNeither the tax administration nor Fr",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
+    body: "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, langua",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "New Game Ready to Add Meat and Blood to Steam\u2019s Tidying-Up Craze",
     body: "Steam has seen an avalanche of cheap and cheerful tidying-up games lately, from libraries to magic shops to toy stores, but the genre is about to get weird.",
     time: "just now",
