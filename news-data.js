@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The Witcher 3: Wild Hunt Remastered Review Update",
+    body: "The best this already amazing RPG has ever been.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "A Ton of Legend of Zelda T-Shirts Are Getting Price Cuts for Amazon Prime Members",
+    body: "A Ton of Legend of Zelda T-Shirts Are Getting Price Cuts for Amazon Prime Members",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
+    body: "Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an&nbsp;advisory&nbsp;on September",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
+    body: "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware.\n\nHuntre",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "The CyberPowerPC RTX 5070 Gaming PC Drops to $1399, Includes a Free Copy of Control: Resonant",
     body: "A stellar 1080p, 1440p gaming rig that can also handle most games in 4K.",
     time: "just now",
