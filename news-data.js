@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Huge Deadlock Update Propels Valve's MOBA Hero Shooter to the Top of the Steam Charts, Smashes Peak Concurrent Player Record",
+    body: "Valve has issued a huge update to its in-development MOBA hero shooter Deadlock, propelling it to the top of Steam\u2019s most-played games chart.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "'The Train Isn't Stopping' \u2014 Diablo 4 Director Promises the Game Will Still Receive Support Well After Diablo 5 Launches",
+    body: "Diablo 4 director Brent Gibson is telling fans not to worry about the game after Diablo 5\u2019s announcement sparked concerns about the former title\u2019s lifespan.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Know Your Enemy: Browser-Based Attack Techniques in 2026",
+    body: "Given that the browser is where business apps are accessed and used, it makes sense that attacks are happening there too. Most breaches today begin in a browser session. Often, they never leave it, wi",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
+    body: "AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said.\n\nIts researchers found more than 13,0",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "'The Train Isn't Stopping' \u2014 Diablo 4 Director Promises the Game Will Still Receive Support Well After Diablo 5 Launches",
     body: "Diablo 4 director Brent Gibson is telling fans not to worry about the game after Diablo 5\u2019s announcement sparked concerns about the former title\u2019s lifespan.",
     time: "just now",
