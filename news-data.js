@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "'The Train Isn't Stopping' \u2014 Diablo 4 Director Promises the Game Will Still Receive Support Well After Diablo 5 Launches",
+    body: "Diablo 4 director Brent Gibson is telling fans not to worry about the game after Diablo 5\u2019s announcement sparked concerns about the former title\u2019s lifespan.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Original God of War Creator Defends Laufey's Creative Director From Harassment After His Critical Remarks Go Viral",
+    body: "David Jaffe, the creator, co-writer, and director for the original God of War game, has cleared up his viral comments about Ariel Lawrence, creative director for Laufey.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
+    body: "Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed PhantomSub.\n\n\"The malicious packages abuse the",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
+    body: "RatHat's operators build and publish the Android banking trojan and control infected phones from a web console, according to security company Cleafy. Cleafy has&nbsp;traced nearly 100 deployments&nbsp",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Coinbase Joins Pok\u00e9mon TCG Hype With Its Own Digital Pack-Opening Service",
     body: "Coinbase is joining the Pok\u00e9mon TCG craze with its own digital pack-opening platform.",
     time: "just now",
