@@ -37,6 +37,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "GTA 6's Game of the Year Chances Have Been Called Into Question",
+    body: "GTA 6 may not even be eligible for Game of the Year at The Game Awards this year.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
+    body: "Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild.\n\nThe vu",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
+    body: "A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assump",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "'The Train Isn't Stopping' \u2014 Diablo 4 Director Promises the Game Will Still Receive Support Well After Diablo 5 Launches",
+    body: "Diablo 4 director Brent Gibson is telling fans not to worry about the game after Diablo 5\u2019s announcement sparked concerns about the former title\u2019s lifespan.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Original God of War Creator Defends Laufey's Creative Director From Harassment After His Critical Remarks Go Viral",
     body: "David Jaffe, the creator, co-writer, and director for the original God of War game, has cleared up his viral comments about Ariel Lawrence, creative director for Laufey.",
     time: "just now",
