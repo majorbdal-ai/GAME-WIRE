@@ -37,6 +37,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Crimson Desert Charting the Unknown Expansion Delayed Two Weeks",
+    body: "Crimson Desert's first expansion was only just announced at the State of Play in September with a very ambitious October 15 release date. Unfortunately it seems that target was a little too ambitious.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
+    body: "OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning from its artificial intelligence (AI) models.\n\nA \"co",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
+    body: "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manager to its Known Exploited Vulnerabilities",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "\"Extraction is Still a Major Part of Marathon\" \u2013 Marathon Game Director Reassures Fans Main Game Mode Isn't Going Anywhere",
+    body: "Just last week, Marathon's developers laid out a new roadmap for the game that'd bring PvE and deathmatch modes to the game, but now Game Director Del Chafe has reassured fans that the extraction mode",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Rockstar Suggests Disney World and SeaWorld Probably Won't Be in GTA 6",
     body: "Rockstar has suggested that GTA 6 probably won't feature some key Florida attracts, such as Disney World and SeaWorld.",
     time: "just now",
