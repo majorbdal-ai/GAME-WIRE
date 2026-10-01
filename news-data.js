@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Mega Man: Dual Override Developers Dish on Designing for New and Old Players Alike",
+    body: "The 40th anniversary of Mega Man is just around the corner, celebrating four decades of one of gaming\u2019s most enduring icons. After going hands-on with both Mega Man and Proto Man in the upcoming mainl",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Ghost of Yotei DLC Review \u2013 Echoes of Sekigahara and Most Wanted",
+    body: "The Echoes of Sekigahara story expansion and the new Most Wanted run-based mode deliver more of what made Ghost of Yotei great to begin",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
+    body: "Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
+    body: "This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model ch",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "\"Extraction is Still a Major Part of Marathon\" \u2013 Marathon Game Director Reassures Fans Main Game Mode Isn't Going Anywhere",
     body: "Just last week, Marathon's developers laid out a new roadmap for the game that'd bring PvE and deathmatch modes to the game, but now Game Director Del Chafe has reassured fans that the extraction mode",
     time: "just now",
