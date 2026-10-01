@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "\"Extraction is Still a Major Part of Marathon\" \u2013 Marathon Game Director Reassures Fans Main Game Mode Isn't Going Anywhere",
+    body: "Just last week, Marathon's developers laid out a new roadmap for the game that'd bring PvE and deathmatch modes to the game, but now Game Director Del Chafe has reassured fans that the extraction mode",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Rockstar Suggests Disney World and SeaWorld Probably Won't Be in GTA 6",
+    body: "Rockstar has suggested that GTA 6 probably won't feature some key Florida attracts, such as Disney World and SeaWorld.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
+    body: "Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configur",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
+    body: "ANY.RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States. Technology, manufacturing, government, and consulti",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "The Witcher 3: Wild Hunt Remastered Review Update",
     body: "The best this already amazing RPG has ever been.",
     time: "just now",
