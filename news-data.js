@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "How GTA 6's Jason and Lucia Have Evolved Since 2023 in Pictures",
+    body: "GTA 6 officially releases next month, so we're taking a look at how the game's two protagonists, Jason and Lucia, have evolved since their 2023 reveal.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Ahead of Metro 2039, Metro 2033 and Metro Last Light Are Getting Next-Gen Updates",
+    body: "Metro 2039 is not too far away, launching on February 4, 2027. While that game will truly bring the franchise into the current generation, developer 4A Games is launching next-gen updates for the firs",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
+    body: "Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without having to in",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "How Financial Services Companies Can Modernize Their Software Supply Chain",
+    body: "Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engineering explains what it would take to up",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Mega Man: Dual Override Developers Dish on Designing for New and Old Players Alike",
     body: "The 40th anniversary of Mega Man is just around the corner, celebrating four decades of one of gaming\u2019s most enduring icons. After going hands-on with both Mega Man and Proto Man in the upcoming mainl",
     time: "just now",
