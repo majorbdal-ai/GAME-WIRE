@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Disney Says Conversations About Buying Epic Games Are Not Happening 'Right Now'",
+    body: "Disney has responded after rumors suggested it was interested in buying Fortnite developer Epic Games.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Vibe-Coded Mashup Mods Have Taken Over X This Week",
+    body: "I have spent the last three days scrolling through some of the most insane mod videos I've ever seen. Modders are taking games that have been decompiled with Claude, and mashing them up with other gam",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+    body: "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems.\n\nThe vuln",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
+    body: "Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled.\n\nWith",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "MTG\u2019s Hobbit Cards Are the Closest Thing to Owning Rare Tolkien Memorabilia, and Perfect for Collectors",
     body: "Here's why Magic: The Gathering\u2019s small-ish Hobbit set somehow surpasses the massive Lord of the Rings crossover for die-hard Tolkien collectors, just one month after its release.",
     time: "just now",
