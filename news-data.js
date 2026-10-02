@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Doom: The Dark Ages - Revelations Getting New 'Slaughter Mode' as Free Update Next Month",
+    body: "Doom: The Dark Ages developer id Software has announced a new free update coming to the first-person shooter's Revelations DLC next month: an endless single-player \"Slaughter Mode.\"",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Riot Games Co-Founder Says 2XKO Needed \u2018Hundreds of Thousands, if Not Millions\u2019 of Monthly Active Players to Survive",
+    body: "The co-founder, co-chairman, and chief product officer of Riot Games, Marc Merrill, revealed the number of monthly active users 2XKO would have needed to justify its budget, and the eye-popping amount",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
+    body: "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, followi",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
+    body: "Cryptocurrency exchange Bitget on Wednesday confirmed that attackers who stole $387.5 million last week exploited a zero-day flaw in third-party security products, citing ongoing investigation finding",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "New GTA 6 Age Rating Confirms Game Will Feature Sex Scenes",
     body: "GTA 6 will have sex scenes, according to a new listing from international ratings boards.",
     time: "just now",
