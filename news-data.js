@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The Best Deals Today: Trails in the Sky 1st Chapter, Shuten Order, MLB The Show 26, and More",
+    body: "The Best Deals Today: Trails in the Sky 1st Chapter, Shuten Order, MLB The Show 26, and More",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Call of Duty: Modern Warfare 4 Video Reveals Major Change That Could End Wallhacks for Good",
+    body: "Wallhacks have plagued Call of Duty for years, but in Modern Warfare 4, Activision has a plan to change that.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "MI5 Says China\u2019s MSS Funded Research Involving 100+ U.K.-Linked Academics",
+    body: "The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service.\n\n",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "The State of Cybersecurity in 2026:\u00a0Key Segments, Insights, and Innovations",
+    body: "Featuring:\n\nCybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, d",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Ex-Rockstar Boss Dan Houser Doesn't Play a Lot of Open-World Games \u2013 and Doesn't Plan to Play GTA 6",
     body: "Dan Houser, the former co-boss of Rockstar Games and former creative director on the Grand Theft Auto series, doesn't play a lot of open-world games. And he doesn't plan on playing GTA 6 either. But i",
     time: "just now",
