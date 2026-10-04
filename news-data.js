@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "'I Did My Best' \u2014 Final Fantasy 7 Revelation Director Responds to Fans Asking for Full Disc Version",
+    body: "Final Fantasy 7 Revelation director Naoki Hamaguchi said he did his best to fight for a disc release as the industry heads toward a \"future where physical media is essentially disc-less.\"",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Ex-Rockstar Boss Dan Houser Doesn't Play a Lot of Open-World Games \u2013 and Doesn't Plan to Play GTA 6",
+    body: "Dan Houser, the former co-boss of Rockstar Games and former creative director on the Grand Theft Auto series, doesn't play a lot of open-world games. And he doesn't plan on playing GTA 6 either. But i",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
+    body: "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
+    body: "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, univer",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Gears of War: E-Day Devs 'Proud to Be One of Xbox's Main Titles' Amid Newfound Focus on Exclusivity",
     body: "The Gears of War: E-Day developers at The Coalition say they are \"proud to be one of Xbox's main titles\" as Microsoft refocuses on exclusivity.",
     time: "just now",
