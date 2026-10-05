@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Infinity Ward Details Call of Duty: Modern Warfare 4's Extraction Mode, DMZ",
+    body: "Call of Duty: Modern Warfare 4's ambitious new extraction mode, DMZ, has gotten a massive deep dive from Infinity Ward.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "RuneScape Dev Pulls Trailer After 6-Fingered Knight Leads to Generative AI Allegations",
+    body: "RuneScape developer Jagex has pulled a new trailer after a six-fingered knight led to allegations of generative AI use from fans.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
+    body: "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions.\n\nThe vuln",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
+    body: "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week\u2019s threats keep finding leverage in small things that were ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Star Wars Zero Company Gets Its First Big Discount at Amazon Ahead of Prime Big Deal Days",
     body: "Star Wars Zero Company has dropped to a new low price at Amazon ahead of the retailer's Prime Big Deal Days sale event, with a 20% discount across PS5 and Xbox Series X.",
     time: "just now",
