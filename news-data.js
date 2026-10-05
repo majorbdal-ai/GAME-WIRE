@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Star Wars Zero Company Gets Its First Big Discount at Amazon Ahead of Prime Big Deal Days",
+    body: "Star Wars Zero Company has dropped to a new low price at Amazon ahead of the retailer's Prime Big Deal Days sale event, with a 20% discount across PS5 and Xbox Series X.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "'We Have a Strong Desire to Further Develop the Character of Bayonetta' \u2014 PlatinumGames Isn't Done With the Gun Witch",
+    body: "PlatinumGames CEO Atsushi Inaba said he isn\u2019t done with Bayonetta, the studio\u2019s character action series featuring a witch equipped with gun shoes and weaponized hair.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
+    body: "Every modern enterprise depends on credentials. This is how humans, systems, and now AI, all connect to data, services, and each other securely. GitGuardian helps secure that credential layer through ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
+    body: "Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called Cling.\n\n\"Cling",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Blindfolded Tekken 8 Player Achieves One of the Game\u2019s Top Ranks from Beginner",
     body: "Professional Tekken 8 player SuperBrine is going viral after reaching God of Destruction using Alisa while completely blindfolded with a sleep mask.",
     time: "just now",
