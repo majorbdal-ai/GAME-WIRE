@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Prime Day Deal Knocks 25% Off MTG Marvel Draft Night Box With Free Collector Booster",
+    body: "Amazon\u2019s Prime Day deal drops the Magic: The Gathering Marvel Draft Night Box to $89.99, letting you snag a rare $40 Collector Booster for effectively $6.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Nintendo Switch Sports Resort Appears To Solve All of Switch Sports\u2019 Shortcomings | IGN Preview",
+    body: "I\u2019m stunned at how excited I am for Nintendo Switch Sports Resort. I plan to 100% this game, which is not something I would have said two weeks ago. I\u2019m still not entirely thrilled with the sports lin",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
+    body: "A malicious spreadsheet can make LibreOffice and Apache OpenOffice run an attacker's code as soon as the file is opened, security researchers have shown. There is no warning first, of the kind either ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
+    body: "The Wikimedia Foundation, which hosts Wikipedia, has confirmed that it has discovered activity by rogue OpenAI agents on its platforms, including unsuccessful efforts to compromise Etherpad, a public ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Hideo Kojima Says You'll See Him Cameo in a 'Big' Live-Action Movie \u2014 But Which One Is It?",
     body: "Hideo Kojima teased that he's got a cameo in a \"big\" live-action movie, but he's not saying which one we'll see him in quite yet.",
     time: "just now",
