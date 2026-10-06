@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Nolan North Is Staying in Shape Just in Case Sony Calls About Uncharted 5",
+    body: "Uncharted star Nolan North is keen to return for Uncharted 5, amid reports that a fresh entry in the franchise is in production.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Star Wars Zero Company Gets Its First Big Discount at Amazon for Prime Day",
+    body: "Star Wars Zero Company has dropped to a new low price at Amazon ahead of the retailer's Prime Big Deal Days sale event, with a 20% discount across PS5 and Xbox Series X.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+    body: "Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
+    body: "Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their traffic as email services and seemingly legitimate processes to blend in and evade detecti",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Prime Day Deal Knocks 25% Off MTG Marvel Draft Night Box With Free Collector Booster",
     body: "Amazon\u2019s Prime Day deal drops the Magic: The Gathering Marvel Draft Night Box to $89.99, letting you snag a rare $40 Collector Booster for effectively $6.",
     time: "just now",
