@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Call of Duty e-Sports Commentator Resigns After Pursuing Relationship With Co-Commentator's Ex-Wife",
+    body: "A prominent Call of Duty e-sports commentator has opted to resign from his role after pursuing a romantic relationship with his co-commentator's ex-wife.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Gears of War E-Day is a 'Natural Choice to Be an Exclusive' \u2013 Studio Head Mike Crump Claims Series Carries The Banner For Xbox",
+    body: "Gears of War: E-Day launched this week, and while it is excellent, the game was pulled away from a PS5 launch earlier this year. But, in a recent interview, The Coalition Studio Head Mike Crump claims",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
+    body: "Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google&nbsp;said on October 6.\n\nGoogle's own systems were n",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
+    body: "Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts.\n\nThe campaig",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Save 33% On This Disney Lorcana Starter Set for Prime Day",
     body: "Two decks, boxes, counters and a rulebook, all for under $20? Sounds like a great deal to us.",
     time: "just now",
