@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Dragon's Dogma 2: Dark Arisen Review",
+    body: "An engrossing expansion full of interesting new characters and vibrant enemies.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Castlevania: Belmont's Curse Demo Hides Fighting Game Easter Eggs Behind Secret Weapon",
+    body: "The developers of Castlevania: Belmont\u2019s Curse are wearing their love of fighting games on their sleeves, as eagle-eyed fans have spotted some unmistakable references to classic fighting game characte",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
+    body: "SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
+    body: "A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Call of Duty e-Sports Commentator Resigns After Pursuing Relationship With Co-Commentator's Ex-Wife",
     body: "A prominent Call of Duty e-sports commentator has opted to resign from his role after pursuing a romantic relationship with his co-commentator's ex-wife.",
     time: "just now",
