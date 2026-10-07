@@ -37,6 +37,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Hideo Kojima Acknowledges Fan-Made P.T. Port That Runs Natively on PC",
+    body: "Hideo Kojima has acknowledged a fan-made port of P.T. that allows the game to run natively on Windows, making it playable for a wide majority of users after it was relegated to PS4 hell.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account",
+    body: "Unauthorized parties have gained access to the names, addresses, and personal identification numbers of about 8.8 million people, living and dead, in Denmark's national population register, the countr",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits",
+    body: "A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache.\n\n\"Instead of downloading and executing remote payloads li",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Amazon Is Discounting All Things Pok\u00e9mon for October Prime Day This Year",
+    body: "Amazon Is Discounting All Things Pok\u00e9mon for October Prime Day This Year",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Classic Board Games Are Dropping to All-Time Low Prices in Amazon's Prime Day Sale",
     body: "Classic Board Games Are Dropping to All-Time Low Prices in Amazon's Prime Day Sale",
     time: "just now",
