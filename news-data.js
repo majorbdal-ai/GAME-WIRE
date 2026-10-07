@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Amazon Is Discounting All Things Pok\u00e9mon for October Prime Day This Year",
+    body: "Amazon Is Discounting All Things Pok\u00e9mon for October Prime Day This Year",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Classic Board Games Are Dropping to All-Time Low Prices in Amazon's Prime Day Sale",
+    body: "Classic Board Games Are Dropping to All-Time Low Prices in Amazon's Prime Day Sale",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers",
+    body: "In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data. The protocol delivered. Thousands of developers built s",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
+    body: "Google has stopped accepting product vulnerability reports through its bug bounty program for its open-source software.\n\nThe change, in effect since October 1, means researchers can no longer submit s",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Nolan North Is Staying in Shape Just in Case Sony Calls About Uncharted 5",
     body: "Uncharted star Nolan North is keen to return for Uncharted 5, amid reports that a fresh entry in the franchise is in production.",
     time: "just now",
