@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Save 33% On This Disney Lorcana Starter Set for Prime Day",
+    body: "Two decks, boxes, counters and a rulebook, all for under $20? Sounds like a great deal to us.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "GTA 6: The Big Interview",
+    body: "The in-depth interview with Rockstar North's Rob Nelson in full, as he played through 30 minutes of the game ahead of the Netflix reveal.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
+    body: "The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems w",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
+    body: "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Amazon Is Discounting All Things Pok\u00e9mon for October Prime Day This Year",
     body: "Amazon Is Discounting All Things Pok\u00e9mon for October Prime Day This Year",
     time: "just now",
