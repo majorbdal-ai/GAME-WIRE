@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Tekken 8\u2019s Reina Teased as the Next Guest Character for Fatal Fury: City of the Wolves",
+    body: "Reina, who made her debut in Tekken 8, is coming to Fatal Fury: City of the Wolves. The announcement comes from a short teaser trailer from SNK Official.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Best Buy Announces Midnight Opening for Ocarina of Time Launch, Zelda Switch 2 Consoles Also Up for Grabs",
+    body: "Best Buy is opening select stores at midnight on Nov. 5 for The Legend of Zelda: Ocarina of Time launch day, featuring surprise restocks of the limited-edition Zelda 40th Anniversary Switch 2.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
+    body: "Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious institutions in Southeast Asia, the FBI and agenc",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
+    body: "The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and traces of an intrus",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Wardogs Streamer Banned for Exploiting the Game's Building Mechanics to Get Rich",
     body: "A vtuber is at the center of a controversy in the Wardogs community surrounding exploits.",
     time: "just now",
