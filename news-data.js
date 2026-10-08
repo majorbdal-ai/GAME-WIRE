@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Wardogs Streamer Banned for Exploiting the Game's Building Mechanics to Get Rich",
+    body: "A vtuber is at the center of a controversy in the Wardogs community surrounding exploits.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Bit Reactor CEO Welcomes Return of Some Furloughed Staff for 'Continued Support' of Star Wars Zero Company",
+    body: "Bit Reactor, the developer of Star Wars Zero Company, has begun returning some of its staff to the team after furloughing an estimated 80% of employees just before the game\u2019s launch.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
+    body: "Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, and traffic contr",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
+    body: "Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phrases and private keys.\n\n\"The extensions ma",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Star Wars: Galactic Racer Multiplayer Party Limit Will Be Doubled Via Update",
     body: "Developer Fuse Games aims to release an update to increase party size from three to six players \u201cwithin the first few weeks of launch.\u201d",
     time: "just now",
