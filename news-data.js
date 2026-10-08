@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Star Wars: Galactic Racer Multiplayer Party Limit Will Be Doubled Via Update",
+    body: "Developer Fuse Games aims to release an update to increase party size from three to six players \u201cwithin the first few weeks of launch.\u201d",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Mixtape Wins Game of the Year at the 2026 Australian Game Developer Awards",
+    body: "Mixtape developer Beethoven & Dinosaur has won a trifecta of awards at the 2026 AGDAs, including Excellence in Visual Art, Excellence in Sound Design, and Game of the Year.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
+    body: "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
+    body: "Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions.\n\nThe arbitrar",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Dragon's Dogma 2: Dark Arisen Review",
     body: "An engrossing expansion full of interesting new characters and vibrant enemies.",
     time: "just now",
