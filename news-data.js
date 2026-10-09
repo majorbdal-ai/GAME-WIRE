@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Call of Duty: Modern Warfare 4 Launch Rollout Adds DMZ Early Access",
+    body: "Call of Duty: Modern Warfare 4 has added DMZ to its list of early access experiences available for pre-order players ahead of its launch later this month.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "October\u2019s Humble Choice Has Dropped \u2013 Get Like a Dragon: Pirate Yakuza in Hawaii and 7 More PC Games for $15",
+    body: "Humble Bundle has dropped its October Humble Choice lineup, which features Like a Dragon: Pirate Yakuza in Hawaii, Psychonauts 2, and 6 more games that you can grab for $15 when you sign up to become ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
+    body: "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 34",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+    body: "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a&nbsp;post on X.\n\nShinyHunters is the extortion group that said in September it had",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Militsioner Preview: Flirting with a Colossal Policeman to Beat the Allegations",
     body: "I've never played a game quite like Militsioner before. It's unnerving, moving around a town when you're always being watched by a giant who could squash you as easily as look at you.",
     time: "just now",
