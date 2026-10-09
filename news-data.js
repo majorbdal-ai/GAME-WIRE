@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Militsioner Preview: Flirting with a Colossal Policeman to Beat the Allegations",
+    body: "I've never played a game quite like Militsioner before. It's unnerving, moving around a town when you're always being watched by a giant who could squash you as easily as look at you.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "YouTuber's Channel Permanently Banned Over Censored Hellraiser: Revival Gameplay Video",
+    body: "A YouTuber and streamer's channel was permanently banned for a Clive Barker\u2019s Hellraiser: Revival gameplay video.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+    body: "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword.\n\n\"Compared with the variants we usually observe, P7 reduces its on",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
+    body: "Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with &nbsp;Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the California ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Silver Pines Is the Silent Hill Metroidvania Mash-Up I Never Knew I Needed",
     body: "Silver Pines Is the Silent Hill Metroidvania Mash-Up I Never Knew I Needed",
     time: "just now",
