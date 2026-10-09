@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Phantom Blade Zero Might Be This Year\u2019s Most Stylish Action Game | IGN Preview",
+    body: "After half a day playing Phantom Blade Zero, it\u2019s gone from mostly not on my radar to to the top of my wishlist this fall, and I truly cannot wait to dive back in later this month to see if it can del",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Daredevil Star Charlie Cox Confirms He's in an Unannounced Sega Game | NYCC 2026",
+    body: "Daredevil star Charlie Cox has confirmed that he is starring in another video game, this one for Sega.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
+    body: "Cybersecurity researchers have disclosed details of a targeted campaign aimed at South Korean financial organizations that used an artificial intelligence (AI) pen testing tool named ARTEX to carry ou",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
+    body: "The U.S. State Department is offering up to $10 million for information leading to the identification or location of Zhang Yu, a Chinese national charged in the United States in connection with the 20",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Final Fantasy VII Revelation Announces an NPC-ified Version of Shiva Voiced by Marisha Ray | NYCC 2026",
     body: "The Critical Role performer is also the real-life wife of the voice of Vincent Valentine.",
     time: "just now",
