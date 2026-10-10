@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Final Fantasy 7 Revelation: I Played a New Slice from the Early Game With a Boss Fight | IGN Preview",
+    body: "While our earlier previews described a giant open-world game absolutely chock-full of activities, it was nice to see that the story-intense linear bits are still there, and just as dramatic as they we",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Konami Planning 'Second and Third Waves' of New Silent Hill Games",
+    body: "Konami is planning \"second and third waves\" of new Silent Hill games, according to producer Motoi Okamoto.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
+    body: "Security researchers have&nbsp;published a full working exploit&nbsp;for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access before anyone approves the co",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
+    body: "Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI).\n\n\"It's an opt-in service informed by our expe",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Call of Duty: Modern Warfare 4 Launch Rollout Adds DMZ Early Access",
     body: "Call of Duty: Modern Warfare 4 has added DMZ to its list of early access experiences available for pre-order players ahead of its launch later this month.",
     time: "just now",
