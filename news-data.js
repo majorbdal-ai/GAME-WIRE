@@ -27,6 +27,36 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "\u2018I\u2019m Shocked That People Are Still Playing\u2019 \u2013 How GTA 5 Took Over the World",
+    body: "Could GTA 6 be as big as its predecessor? We take a look at how GTA 5 became one of the biggest games in history, selling over 230m copies and being played by millions of people every week for over a ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Marvel Tokon DLC Roadmap Reveals First Look at Jane Foster Thor, Venom and Jubilee Coming in 2027",
+    body: "Marvel Tokon: Fighting Souls will continue its Year 1 DLC roadmap with Thor (Jane Foster) this winter, with two more characters coming in 2027.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
+    body: "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week\u2019s threats keep finding leverage in small things that were ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Tekken 8 Yujiro Teaser Reveals Baki Rep's In-Game Render Is Just as Uncanny as Fans Expected",
     body: "Bandai Namco has revealed a first look at Tekken 8 DLC character Yujiro Hanma, and the Baki rep is looking just as uncanny as fans expected.",
     time: "just now",
