@@ -37,6 +37,36 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Magic: The Gathering Darkhold Destiny Panel \u2013 Everything Announced",
+    body: "Earlier this year at MagicCon in Las Vegas, Wizards of the Coast revealed its in-universe sets for 2027, but that only covered three of the six planned sets. The other three are Universes Beyond \u2014 the",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
+    body: "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week\u2019s threats keep finding leverage in small things that were ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Call of Duty: Modern Warfare Story Recap \u2013 What You Need To Know Ahead of MW4",
+    body: "The whole story of Call of Duty's rebooted Modern Warfare saga ends in this month's MW4. Catch up on everything you need to know before you play, including all the stuff that happened in Warzone's cut",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Blumhouse Partners With MatPat to Make Amanda the Adventurer Movie, Confirms More Indie Horror Game Adaptations Are Coming | NYCC 2026",
     body: "Blumhouse Productions has partnered with YouTube star Matthew \u2018MatPat\u2019 Patrick to create a series of movies based on viral indie horror games, and Amanda the Adventurer is first on the docket.",
     time: "just now",
