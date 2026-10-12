@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Riftbound: Radiance Rarest Cards - Riot Games Music Crossovers Dominate the Set",
+    body: "Riftbound's fifth set, Radiance, features rare showcase cards inspired by Riot Games Music acts: Heartsteel, True Damage, and K/DA. Check out all of the Overnumbered cards in the set along with the ra",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "He-Man and the Masters of the Universe: Dragon Pearl of Destruction Release Date Confirmed",
+    body: "He-Man and the Masters of the Universe: Dragon Pearl of Destruction has a release date: February 4, 2027.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
+    body: "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone d",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
+    body: "The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing; Instinct keeps raising privacy concerns",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Doom 2016 Composer Mick Gordon Says \"F##k AI\"",
     body: "Doom 2016 Composer Mick Gordon Says \"F##k AI\"",
     time: "just now",
