@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Satisfactory: The Board Game Preview",
+    body: "Satisfactory: The Board Game Preview",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "EXCLUSIVE: For the Stars Images Showcase the Upcoming Space Sandbox Survival Multiplayer Game | IGN Fall Fan Fest 2026",
+    body: "As part of IGN Fan Fest 2026: Fall Edition, we are proud to reveal five brand-new screenshots of For the Stars, Snail Games USA's upcoming space sandbox survival game that will have you exploring and ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
+    body: "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone d",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
+    body: "Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices sold by the reseller.\n\nOn Friday, the company said",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Riftbound: Radiance Rarest Cards - Riot Games Music Crossovers Dominate the Set",
     body: "Riftbound's fifth set, Radiance, features rare showcase cards inspired by Riot Games Music acts: Heartsteel, True Damage, and K/DA. Check out all of the Overnumbered cards in the set along with the ra",
     time: "just now",
