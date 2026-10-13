@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Officially Licensed Fallout Bookends Are Up for Preorder for a Whopping $325",
+    body: "Officially Licensed Fallout Bookends Are Up for Preorder for a Whopping $325",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Xbox Announces Xbox Labs, Aimed in Part at Getting Improved Old-Gen Games Playable in Web Browsers",
+    body: "Xbox has announced Xbox Labs, a new initiative aimed at getting games to more people in more places \u2014 with a particular emphasis on web browsers.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+    body: "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
+    body: "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it fou",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "GTA 6 Reportedly Set for PC Q1 2027",
     body: "GTA 6 will launch on PC just a few months after consoles, according to a new report.",
     time: "just now",
