@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Will You Be Taking Time Off Work or School for GTA 6's Release Next Month?",
+    body: "We are just a little over 30 days until the release of GTA 6, which begs the question: will you be taking time off of work or school to play it?",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Send in the Clown Gameplay Trailer Focuses On Its Hilarious, One-and-Only Turn-Based RPG Battle | IGN Fan Fest 2026",
+    body: "As part of IGN Fan Fest 2026: Fall Edition, we can reveal a new gameplay trailer for Send in the Clown, the upcoming one-hour comedy RPG where players become history's least-appreciated clown as he tr",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
+    body: "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm&nbsp;Volexity said&nbsp;on October 13. Ivanti has released",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
+    body: "A flaw in SAP's&nbsp;Cloud SDK for Python&nbsp;can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a&nbsp;security advisory&nbsp;on October 13. The flaw a",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Officially Licensed Fallout Bookends Are Up for Preorder for a Whopping $325",
     body: "Officially Licensed Fallout Bookends Are Up for Preorder for a Whopping $325",
     time: "just now",
