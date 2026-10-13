@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "GTA 6 Reportedly Set for PC Q1 2027",
+    body: "GTA 6 will launch on PC just a few months after consoles, according to a new report.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Pok\u00e9mon TCG: Elite Trainer Box is now down to $120 at Walmart \u2014 save $20 compared to Amazon",
+    body: "Pre-order the Pok\u00e9mon TCG Delta Reign Elite Trainer Box for $119.99 at Walmart, nearly $20 less than Amazon and below TCGplayer market price.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Xandr Fined a Record \u20ac8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
+    body: "The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, \u20ac8.6 million ($9.62 million) for illegally relaying \u200bGrindr users' sensitive data to advertisers.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
+    body: "The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next.\n\nWith AI accelerating reconnaissance, exploitation of vulnerabilities, and p",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Mick Gordon Plans to Take His Upcoming Doom Concert Performance On the Road",
     body: "Mick Gordon Plans to Take His Upcoming Doom Concert Performance On the Road",
     time: "just now",
