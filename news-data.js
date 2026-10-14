@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Spawn Gets 7-inch Warlock Diablo Immortal Deluxe Action Figure - Fall FanFest 2026",
+    body: "IGN Fan Fest is kicking off today, and as part of the celebration, we\u2019re showing off a Spawn Warlock action figure that commemorates the anti-hero\u2019s special collaboration with Diablo Immortal.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Warhammer 40,000: Boltgun 2 Review",
+    body: "With two main characters in a replayable old-school FPS campaign, Boltgun 2 elevates the bloody action of the Warhammer universe.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
+    body: "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme.\n\nThe ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
+    body: "Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothi",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "The Legend of Zelda: Ocarina of Time Remake Is Surprisingly More Different Than You Think | IGN Preview",
     body: "The Legend of Zelda: Ocarina of Time is far from a 1:1 remake. When I played it, I found familiar rooms containing redesigned challenges that change how the world and player function. I spoke to old f",
     time: "just now",
