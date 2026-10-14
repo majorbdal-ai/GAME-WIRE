@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "K/DA Reactivates Social Accounts, Fueling Rumors of the Virtual K-Pop Group\u2019s Comeback After 6 Years",
+    body: "Official K/DA accounts have been updated for the first time in six years. New profile and banner images continue to show the existing promotional art from the All Out era, now with the addition of hot",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "EA Sports' College Football Devs Reportedly Fear the Franchise Could Disappear by 2030",
+    body: "Developers working on EA Sports' College Football franchise reportedly fear that the series may not live to see the end of the decade.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
+    body: "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted vi",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
+    body: "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over.\n\nThe protected area is a VBS enclave, an i",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Peak Has Been Leaked for PS5 by the ESRB",
     body: "The beloved co-op adventure game, Peak, has been leaked for PS5 by the ESRB.",
     time: "just now",
