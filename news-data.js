@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The Legend of Zelda: Ocarina of Time Remake Is Surprisingly More Different Than You Think | IGN Preview",
+    body: "The Legend of Zelda: Ocarina of Time is far from a 1:1 remake. When I played it, I found familiar rooms containing redesigned challenges that change how the world and player function. I spoke to old f",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "29 New Changes in the Zelda: Ocarina of Time Remake \u2014 Redesigned Puzzles, Updated Miniboss Fights, and Deeper Dialogue",
+    body: "I played more than an hour of The Legend of Zelda: Ocarina of Time on Switch 2, and as someone who\u2019s finished the original several times, I noticed a lot of small changes that shine some light on the ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
+    body: "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
+    body: "A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading m",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "K/DA Reactivates Social Accounts, Fueling Rumors of the Virtual K-Pop Group\u2019s Comeback After 6 Years",
     body: "Official K/DA accounts have been updated for the first time in six years. New profile and banner images continue to show the existing promotional art from the All Out era, now with the addition of hot",
     time: "just now",
