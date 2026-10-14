@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Peak Has Been Leaked for PS5 by the ESRB",
+    body: "The beloved co-op adventure game, Peak, has been leaked for PS5 by the ESRB.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "K/DA Reactivates Social Accounts, Fueling Rumors of the Virtual K-Pop Group\u2019s Comeback After 6 Years",
+    body: "Official K/DA accounts have been updated for the first time in six years. New profile and banner images continue to show the existing promotional art from the All Out era, now with the addition of hot",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
+    body: "A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sen",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
+    body: "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a d",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Will You Be Taking Time Off Work or School for GTA 6's Release Next Month?",
     body: "We are just a little over 30 days until the release of GTA 6, which begs the question: will you be taking time off of work or school to play it?",
     time: "just now",
