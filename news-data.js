@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "GTA 6 Was Originally Meant to Release Much Sooner Than We Realized",
+    body: "Rockstar Games has revealed that it originally intended to develop GTA 6 alongside Red Dead Redemption 2, meaning it probably would've come out much sooner than we ever realized.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Invincible VS Players Can't Get Enough of Atom Eve's 'Thicc' Casual Skin",
+    body: "Atom Eve got a Casual costume in Invincible VS and, to no one\u2019s surprise, the show\u2019s fanbase is going feral for it.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
+    body: "Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco&nbsp;said in an advisory&nbsp;on Wednesda",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora\u2019s Built-in CODE App",
+    body: "Attackers exploited a flaw in an optional Nextcloud app,&nbsp;Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators&nbsp;reported the issue on GitHub,",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Spawn Gets 7-inch Warlock Diablo Immortal Deluxe Action Figure - Fall FanFest 2026",
     body: "IGN Fan Fest is kicking off today, and as part of the celebration, we\u2019re showing off a Spawn Warlock action figure that commemorates the anti-hero\u2019s special collaboration with Diablo Immortal.",
     time: "just now",
