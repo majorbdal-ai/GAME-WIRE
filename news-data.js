@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "RuneScape Reignited Canceled Less Than Two Weeks After Being Announced",
+    body: "Creative director Mod Ryan announced that RuneScape Reignited, a new game mode designed for both old and seasoned players to start fresh, has been canceled less than two weeks after it was first annou",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Galaxies Autumn Showcase 2026: Everything Announced",
+    body: "Galaxies Autumn Showcase 2026: Everything Announced",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+    body: "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
+    body: "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS).\n\nThe activity, observed from",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "CD Projekt Has Officially Begun Work on Project Hadar, but It's Not in Pre-Production Yet",
     body: "CD Projekt Red, the Polish developer best known for its amazing RPG series The Witcher and Cyberpunk 2077, has officially finished imagining up a new world for us to play in. The \u201cworld vision\u201d stage ",
     time: "just now",
