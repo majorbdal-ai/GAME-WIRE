@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Mick Gordon On How He Helped to Make Warhammer 40,000: Boltgun 2\u2019s Climactic Boss Fight \u201cBig and Bombastic\u201d",
+    body: "Mick Gordon On How He Helped to Make Warhammer 40,000: Boltgun 2\u2019s Climactic Boss Fight \u201cBig and Bombastic\u201d",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Win a LEGO Batman: Legacy of the Dark Knight and Deluxe Edition and Retro Batman Minifigure | IGN Fall Fan Fest 2026",
+    body: "Enter the IGN Fan Fest giveaway for your chance to win a digital Deluxe Edition of LEGO Batman: Legacy of the Dark Knight and a Retro Batman minifigure.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora\u2019s Built-in CODE App",
+    body: "Attackers exploited a flaw in an optional Nextcloud app,&nbsp;Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators&nbsp;reported the issue on GitHub,",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
+    body: "Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "GTA 6 Was Originally Meant to Release Much Sooner Than We Realized",
     body: "Rockstar Games has revealed that it originally intended to develop GTA 6 alongside Red Dead Redemption 2, meaning it probably would've come out much sooner than we ever realized.",
     time: "just now",
