@@ -37,6 +37,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Xbox Copies of Forza Horizon 6 Have Hit New Low Prices at Amazon and Walmart",
+    body: "Xbox copies of Forza Horizon 6 are on sale at Amazon and Walmart, with both retailers discounting the standard physical edition and the latter also discounting the game's digital premium edition.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora\u2019s Built-in CODE App",
+    body: "Attackers exploited a flaw in an optional Nextcloud app,&nbsp;Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators&nbsp;reported the issue on GitHub,",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
+    body: "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said.\n\nIts researc",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Mick Gordon On How He Helped to Make Warhammer 40,000: Boltgun 2\u2019s Climactic Boss Fight \u201cBig and Bombastic\u201d",
+    body: "Mick Gordon On How He Helped to Make Warhammer 40,000: Boltgun 2\u2019s Climactic Boss Fight \u201cBig and Bombastic\u201d",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Win a LEGO Batman: Legacy of the Dark Knight and Deluxe Edition and Retro Batman Minifigure | IGN Fall Fan Fest 2026",
     body: "Enter the IGN Fan Fest giveaway for your chance to win a digital Deluxe Edition of LEGO Batman: Legacy of the Dark Knight and a Retro Batman minifigure.",
     time: "just now",
