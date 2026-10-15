@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "CD Projekt Has Officially Begun Work on Project Hadar, but It's Not in Pre-Production Yet",
+    body: "CD Projekt Red, the Polish developer best known for its amazing RPG series The Witcher and Cyberpunk 2077, has officially finished imagining up a new world for us to play in. The \u201cworld vision\u201d stage ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "New Marvel's Wolverine Funko Pops Drop Next April \u2013 Here\u2019s Where You Can Preorder Them",
+    body: "Three new Wolverine Funko Pops, based on Insomniac's latest game, are up for preorder with a release date of April 18 next year. Here's where you can preorder them.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
+    body: "Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that\u2019s an actual feature. And somehow, it fits right in with this week's security stories.\n\nThe rest gets inte",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
+    body: "Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action from the user, re",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "GTA 6 Launch Trailer Teases Jason's Troubled Past, a Steamy Shower Scene With Lucia, and Much More",
     body: "Rockstar has released the launch trailer for GTA 6, which shows us brand new footage of Jason and Lucia as well as the open world.",
     time: "just now",
