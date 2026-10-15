@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Big Walk Developer Explains Why the Game Isn't on Xbox",
+    body: "Big Walk developer House House has explained why it\u2019s boycotting Xbox and thus why the game isn\u2019t available on Microsoft's console.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Mick Gordon On How He Helped to Make Warhammer 40,000: Boltgun 2\u2019s Climactic Boss Fight \u201cBig and Bombastic\u201d",
+    body: "Mick Gordon On How He Helped to Make Warhammer 40,000: Boltgun 2\u2019s Climactic Boss Fight \u201cBig and Bombastic\u201d",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
+    body: "The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations.\n\nThe spike, according to GitGuardian, was observed on Oc",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
+    body: "Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian.\n\nLangflow is an open-source platform that allows developers to build artificial intelligence (A",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Mick Gordon On How He Helped to Make Warhammer 40,000: Boltgun 2\u2019s Climactic Boss Fight \u201cBig and Bombastic\u201d",
     body: "Mick Gordon On How He Helped to Make Warhammer 40,000: Boltgun 2\u2019s Climactic Boss Fight \u201cBig and Bombastic\u201d",
     time: "just now",
