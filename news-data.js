@@ -37,6 +37,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "MTG Darkhold Destiny Arcanum Bundle: What's Inside and Is It Worth The Price Tag?",
+    body: "MTG Marvel Darkhold Destiny Arcanum Bundle features exclusive alt-art promo cards and booster packs. Here is a breakdown of what is inside and if it is worth the $100 preorder price tag.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Why AI Confidence Is Not Validation",
+    body: "AI is already part of digital forensics and incident response work, with or without a policy in place to govern it. The issue is that these tools are growing more confident in their own output faster ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1",
+    body: "The Indian government has directed telecom service providers (TSPs) in the country to mandatorily display callers' registered names along with their numbers for incoming calls starting November 1, 202",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Call of Duty: Modern Warfare 4 \u2013 Captain Price's Fate Explained",
+    body: "Who is alive and who is dead at the end of Call of Duty Modern Warfare 4's campaign? Infinity Ward explains Captain Price's fate.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Ghost of Yotei Sales Lag Behind Tsushima but Are Still Strong on PS5, Analyst Estimates Show",
     body: "Ghost of Y\u014dtei sales appear to be trailing behind Ghost of Tsushima, but that doesn't mean it's not still pulling big numbers on PlayStation 5.",
     time: "just now",
