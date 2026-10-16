@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Tactical PC FPS Game Squad Is Coming to Consoles, Playable PS5 Alpha Releases Later This Month",
+    body: "The acclaimed PC shooter, Squad, is coming to consoles and PS5 players will be able to experience it very soon.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Activision Confirms Brand New Call of Duty Subfranchise Is in the Works, Leading to Rampant Fan Speculation",
+    body: "Activision is actively developing a new Call of Duty subfranchise, suggesting it is ready to move on from Black Ops and Modern Warfare for the time being.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
+    body: "Next.js released an&nbsp;out-of-band security update&nbsp;on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-severity denial-of-service flaw.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules",
+    body: "Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19.\n\nAn attac",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "RuneScape Reignited Canceled Less Than Two Weeks After Being Announced",
     body: "Creative director Mod Ryan announced that RuneScape Reignited, a new game mode designed for both old and seasoned players to start fresh, has been canceled less than two weeks after it was first annou",
     time: "just now",
