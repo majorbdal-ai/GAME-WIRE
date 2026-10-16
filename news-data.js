@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "This Fallout Power Fist 1:1 Scale Replica Will Have You Ready for Any Post-Apocalyptic Future",
+    body: "As part of IGN Fan Fest: Fall Edition 2026, we were able to exclusively reveal a first look at the officially licensed Fallout Power Fist 1:1 Scale Replica, a perfect addition to the collection of tho",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "I Never Played Ocarina of Time, But 2 Hours With the Remake Proves There\u2019s So Much More to This Masterpiece Than Nostalgia",
+    body: "I never played Ocarina of Time, but 2 hours with the remake proves there\u2019s so much more to this masterpiece than nostalgia.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "AI Decision Models and Their Impact on AI SOC Platforms",
+    body: "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
+    body: "A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH.\n\nThe attack inv",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "'I Just Sort of Disconnect' \u2014 Jeff Kaplan is Avoiding Overwatch at all Costs",
     body: "Former Overwatch director Jeff Kaplan explained how he protects his psyche by completely avoiding online discussions and subreddits about Blizzard's hero shooter.",
     time: "just now",
