@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Apparent Leaked Footage Shows Canceled Assassin's Creed Game Set in Qin Dynasty China",
+    body: "Ubisoft was apparently making another Assassin\u2019s Creed game set in ancient China, except this one was a full-fat AC with a massive open world and a fancy umbrella weapon.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "'We F***ed Up' \u2014 Wardogs Boss Admits Season 2 Hasn't Gone Particularly Well",
+    body: "Wardogs developer Bulkhead had some strong words to say about the rough launch of Season 2, admitting: \"We f***ed up.\"",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+    body: "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+    body: "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct vi",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "This Fallout Power Fist 1:1 Scale Replica Will Have You Ready for Any Post-Apocalyptic Future",
     body: "As part of IGN Fan Fest: Fall Edition 2026, we were able to exclusively reveal a first look at the officially licensed Fallout Power Fist 1:1 Scale Replica, a perfect addition to the collection of tho",
     time: "just now",
