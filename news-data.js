@@ -37,6 +37,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Pro Dota 2 Player Claims He Had to Play a Full Match in Front of Police Officers to Prove His Identity",
+    body: "A pro Dota 2 player is claiming he had to play a full Dota match in front of police officers to prove his identity.\u00a0Thankfully, he had the sauce.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
+    body: "The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-da",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
+    body: "AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CERT-In&nbsp;said in an advisory&nbsp;on Oc",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "'I Just Sort of Disconnect' \u2014 Jeff Kaplan is Avoiding Overwatch at all Costs",
+    body: "Former Overwatch director Jeff Kaplan explained how he protects his psyche by completely avoiding online discussions and subreddits about Blizzard's hero shooter.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Remedy Boss Reacts After Control Resonant Sells 1 Million Copies, Becoming Studio's Fastest-Selling Game",
     body: "Control Resonant has sold one million copies, becoming Remedy\u2019s fastest-selling game in spite of leakers cracking the title and pirating it after its digital launch in September.",
     time: "just now",
