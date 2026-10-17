@@ -47,6 +47,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "HACKING",
     color: "var(--violet)",
+    title: "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora\u2019s Built-in CODE App",
+    body: "Attackers exploited a flaw in an optional Nextcloud app,&nbsp;Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators&nbsp;reported the issue on GitHub,",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
+    body: "Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass se",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "\u2018There Should be a Game Award for Hot Dads\u2019 \u2014 Castlevania: Belmont\u2019s Curse Devs Are Fully Aware and Loving the \u2018Horny\u2019 Fanart for Their Game",
+    body: "The developers behind Castlevania: Belmont\u2019s Curse are enthusiastic about the \u201chorny\u201d fanart they\u2019ve seen of the game\u2019s characters, saying they specifically made them \"hot\" to appeal to fans.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Call of Duty: Modern Warfare 4 \u2013 Captain Price's Fate Explained",
+    body: "Who is alive and who is dead at the end of Call of Duty Modern Warfare 4's campaign? Infinity Ward explains Captain Price's fate.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
     title: "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
     body: "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud B",
     time: "just now",
