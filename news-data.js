@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "We Sat Down with D&D Game Designer James Wyatt to Talk Dungeons & Dragons: World of Warcraft",
+    body: "At New York Comic Con, I got a chance to sit down with Wizards of the Coast Principal Game Designer James Wyatt to talk about the first Universes Beyond expansion for D&D.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "\u2018There Should be a Game Award for Hot Dads\u2019 \u2014 Castlevania: Belmont\u2019s Curse Devs Are Fully Aware and Loving the \u2018Horny\u2019 Fanart for Their Game",
+    body: "The developers behind Castlevania: Belmont\u2019s Curse are enthusiastic about the \u201chorny\u201d fanart they\u2019ve seen of the game\u2019s characters, saying they specifically made them \"hot\" to appeal to fans.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
+    body: "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX.\n\nThe package, named \"imgdecode,\" was uploaded",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora\u2019s Built-in CODE App",
+    body: "Attackers exploited a flaw in an optional Nextcloud app,&nbsp;Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators&nbsp;reported the issue on GitHub,",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "\u2018There Should be a Game Award for Hot Dads\u2019 \u2014 Castlevania: Belmont\u2019s Curse Devs Are Fully Aware and Loving the \u2018Horny\u2019 Fanart for Their Game",
     body: "The developers behind Castlevania: Belmont\u2019s Curse are enthusiastic about the \u201chorny\u201d fanart they\u2019ve seen of the game\u2019s characters, saying they specifically made them \"hot\" to appeal to fans.",
     time: "just now",
