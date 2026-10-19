@@ -67,6 +67,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "\u2018There Should be a Game Award for Hot Dads\u2019 \u2014 Castlevania: Belmont\u2019s Curse Devs Are Fully Aware and Loving the \u2018Horny\u2019 Fanart for Their Game",
+    body: "The developers behind Castlevania: Belmont\u2019s Curse are enthusiastic about the \u201chorny\u201d fanart they\u2019ve seen of the game\u2019s characters, saying they specifically made them \"hot\" to appeal to fans.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Call of Duty: Modern Warfare 4 \u2013 Captain Price's Fate Explained",
+    body: "Who is alive and who is dead at the end of Call of Duty Modern Warfare 4's campaign? Infinity Ward explains Captain Price's fate.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora\u2019s Built-in CODE App",
+    body: "Attackers exploited a flaw in an optional Nextcloud app,&nbsp;Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators&nbsp;reported the issue on GitHub,",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Xandr Fined a Record \u20ac8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
+    body: "The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, \u20ac8.6 million ($9.62 million) for illegally relaying \u200bGrindr users' sensitive data to advertisers.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Silent Hill Remake Studio Wants to Make Physical Games 'for as Long as Possible'",
     body: "Silent Hill developer Bloober Team wants to make physical versions of its games \"for as long as possible.\"",
     time: "just now",
