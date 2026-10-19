@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Arkham Horror Remastered Preview and Exclusive Art Reveal",
+    body: "Arkham Horror Remastered Preview and Exclusive Art Reveal",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Even Sexyy Red is Confused Why Storm Doesn't Have More Legendary Skins",
+    body: "Storm is one of a handful of female characters in Marvel Rivals with just one Legendary skin, and the pushback around this fact has become so big that even rapper Sexyy Red is speaking up about it.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
+    body: "Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public.\n\nAccor",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
+    body: "The worst problems don't always come with a warning. Sometimes they arrive through a service everyone trusts, a device someone bought, or a system nobody thought to check. By the time something looks ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "The 10 Best Call of Duty Multiplayer Games",
     body: "Call of Duty has been the king of FPS multiplayer for years, but what is the king of kings? Black Ops? Modern Warfare 2? Here's our pick of the 10 best COD games for PvP.",
     time: "just now",
