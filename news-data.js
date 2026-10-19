@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Call of Duty: Modern Warfare 4 Player Reveals How They Beat the Campaign on One-Life YOLO Difficulty",
+    body: "One Modern Warfare 4 campaign player has already finished YOLO mode, an ultra hard setting with realistic damage, where you go right back to the start when you die. Here's how they did it.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "\u2018There Should be a Game Award for Hot Dads\u2019 \u2014 Castlevania: Belmont\u2019s Curse Devs Are Fully Aware and Loving the \u2018Horny\u2019 Fanart for Their Game",
+    body: "The developers behind Castlevania: Belmont\u2019s Curse are enthusiastic about the \u201chorny\u201d fanart they\u2019ve seen of the game\u2019s characters, saying they specifically made them \"hot\" to appeal to fans.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
+    body: "A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
+    body: "An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said.\n\nConsole is",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "\u2018There Should be a Game Award for Hot Dads\u2019 \u2014 Castlevania: Belmont\u2019s Curse Devs Are Fully Aware and Loving the \u2018Horny\u2019 Fanart for Their Game",
     body: "The developers behind Castlevania: Belmont\u2019s Curse are enthusiastic about the \u201chorny\u201d fanart they\u2019ve seen of the game\u2019s characters, saying they specifically made them \"hot\" to appeal to fans.",
     time: "just now",
