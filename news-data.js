@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "There's Real Force Behind These Star Wars Battlefront 3 Rumors",
+    body: "Talk of Star Wars Battlefront 3 has ramped up this week, with a number of studios reportedly in with a chance of developing the shooter sequel.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Love and Deepspace Launches Blade Runner Crossover as Fans Draw Parallels to Canceled Character Valko",
+    body: "At first glance the Love and Deepspace Blade Runner 2049 crossover is a cool, if unexpected, addition to the otome game's romantic universe, but it didn't take long for fans of the game to notice an u",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
+    body: "An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
+    body: "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks.\n\nThe high-severity vulnerability, tracked as CVE-2026-11093",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Call of Duty: Modern Warfare 4 Pop-Up: The DMZ Has Never Been This Much Fun",
     body: "Call of Duty: Modern Warfare 4 Pop-Up: The DMZ Has Never Been This Much Fun",
     time: "just now",
