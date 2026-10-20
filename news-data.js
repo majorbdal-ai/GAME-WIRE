@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Fortnite's Nikki Skin Sparks Debate Among Horror Fans, With Some Calling for a Boycott",
+    body: "A vocal group of Fortnite players are calling for a boycott of Epic's battle royale game after a skin of Obsession\u2019s Nikki Freeman, played by Inde Navarrette, sparked backlash among fans.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Shrek 2 Remastered Reveal Trailer Parodies GTA 6, Sets November Release Date",
+    body: "Shrek 2 Remastered is real, and its release date is less than a month away.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
+    body: "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised,&nbsp;Mozilla&nbsp;and&nbsp;Google's Chrome Root Program&nbsp;confirms on October 20.\n\nAn interme",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
+    body: "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution.\n\nThe ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Nintendo Switch Sports Resort Review",
     body: "A collection of sports games designed to spark deceptively heated rivalries.",
     time: "just now",
