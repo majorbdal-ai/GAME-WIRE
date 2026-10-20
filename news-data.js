@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Nintendo Switch Sports Resort Review",
+    body: "A collection of sports games designed to spark deceptively heated rivalries.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Final Fantasy Resonance Review",
+    body: "Final Fantasy Resonance retools Brave Exvius and sets a new benchmark for HD-2D visuals alongside solid turn-based combat and incredible music, which carry an underwhelming story.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
+    body: "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their con",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
+    body: "The iPhone of Vladan \u0110oki\u0107, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026, the&nbsp;Citizen",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "There's Real Force Behind These Star Wars Battlefront 3 Rumors",
     body: "Talk of Star Wars Battlefront 3 has ramped up this week, with a number of studios reportedly in with a chance of developing the shooter sequel.",
     time: "just now",
