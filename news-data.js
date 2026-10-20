@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "It Looks Like GTA 6's Beer Brands Are About to Become Real",
+    body: "It appears that Rockstar may be preparing to sell beer brands from GTA 6 in real life.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Police Confirm Nearly $1 Million Worth of Trading Cards Stolen in PSA FedEx Truck Heist",
+    body: "Police in Santa Ana, California estimate that more than $963,000 in collectible trading cards was stolen from a FedEx truck outside of PSA\u2019s Santa Ana headquarters.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+    body: "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting&nbsp; PAN-OS and Prisma Access by ransomware actors.\n\nThe activity relates to CVE",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
+    body: "WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their accounts, eve",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Fortnite's Nikki Skin Sparks Debate Among Horror Fans, With Some Calling for a Boycott",
     body: "A vocal group of Fortnite players are calling for a boycott of Epic's battle royale game after a skin of Obsession\u2019s Nikki Freeman, played by Inde Navarrette, sparked backlash among fans.",
     time: "just now",
