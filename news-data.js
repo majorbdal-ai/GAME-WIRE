@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Sony Issues New PS5 Firmware Update as Jailbreak Race Heats Up Ahead of GTA 6 Release",
+    body: "Sony has issued a new PlayStation 5 firmware update amid the homebrew community's ongoing effort to jailbreak the console.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Arctic Eggs, Mouthwashing, and No, I'm Not a Human Are Coming to Xbox | IDXBOX",
+    body: "Three indie games that achieved viral status over the last three years are making their long-awaited debut on Xbox from publisher Critical Reflex.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
+    body: "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggeste",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "The Harness Is the Hard Part of Agentic Pentesting",
+    body: "An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run a",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Fight Night, EA's Beloved but Long-Dormant Boxing Sim Franchise, Is Coming Back",
     body: "Electronic Arts created social media accounts for its long-dormant boxing sim franchise Fight Night and the first post was exactly what fans wanted to hear: Fight Night is coming back.",
     time: "just now",
