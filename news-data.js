@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "GTA 6 Fans Think Rockstar Games Is Shooting an Elaborate and Expensive Live-Action Trailer in Miami",
+    body: "Eagle-eyed Rockstar fans have noticed camera crews recording convoys of flashy GTA-themed cars in Miami, creating speculation over a new live-action trailer.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Counter-Strike 2 Pro Aleksib Faces Four-Month Suspended Prison Sentence Over Charges of Aggravated Tax Fraud",
+    body: "Finnish Counter-Strike 2 pro Aleksi \u201cAleksib\u201d Virolainen is facing a possible four-month suspended prison sentence over alleged \u201caggravated tax fraud\u201d after failing to declare income from in-game stic",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "What Security Teams Can Do To Tame Wild Code",
+    body: "A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces man",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
+    body: "Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of&nbsp;eight intermediate certificate authority keys.\n\nPrograms b",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "It Looks Like GTA 6's Beer Brands Are About to Become Real",
     body: "It appears that Rockstar may be preparing to sell beer brands from GTA 6 in real life.",
     time: "just now",
