@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "BioWare Shutting Down, Next Mass Effect Canceled",
+    body: "BioWare is shutting down and the next Mass Effect game is canceled, according to a new report.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The Long Game: The Best Upgrades for Each Vehicle in Star Wars: Galactic Racer",
+    body: "The Long Game: The Best Upgrades for Each Vehicle in Star Wars: Galactic Racer",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+    body: "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
+    body: "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSec",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "ID@Xbox Showcase October 2026: Everything Announced",
     body: "From remasters/director's cuts of Shrek 2, The Wolf Among Us, and Zero Parades to games about shredding paper (Paper Shredder!), tongue-grappling and pinball-bouncing (Croak), and digging holes (A Gam",
     time: "just now",
