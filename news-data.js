@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "'Regions Are Cheating and We Need to Address It' \u2014 Wardogs Dev Says Region Locking Is About 'Protecting the Largest Amount of Players'",
+    body: "Bulkhead is rolling out region locking in Wardogs to, in the studio's words, protect \"the largest amount of players from an influx of regions that are more prone to cheating.\" However, legitimate play",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Resident Evil Developer Capcom Issues Phishing Warning After Data Breach Hits Over 11 Million Customer Accounts",
+    body: "Capcom has disclosed a data breach of its online membership service affecting over 11 million customer accounts, warning gamers to brace themselves for potential phishing attempts.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
+    body: "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables.\n\nUpon further investigation, the company found t",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
+    body: "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Cont",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Dragon Ball Xenoverse 3 Narrows Release Window Following Player Feedback",
     body: "Bandai Namco announced a narrower release window for the upcoming multiplayer-enabled brawler Dragon Ball Xenoverse 3, although it's not too much more specific. Previously, the publisher had stated th",
     time: "just now",
