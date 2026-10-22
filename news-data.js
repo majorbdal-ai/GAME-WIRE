@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Cyberpunk 2 Associate Director Says Half of Game's Quest Team Are Former Modders",
+    body: "Cyberpunk 2 associate game director Pawel Sasko revealed that much of the game\u2019s staff are actually former modders who CD Projekt Red picked up to work on the highly-anticipated sequel.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Amazon Has a Sale on Magic: The Gathering Booster Boxes Even Before Black Friday Kicks Off",
+    body: "Save on Magic: The Gathering Play Booster Boxes at Amazon ahead of Black Friday, with discounts on Marvel, The Hobbit, and unreleased Star Trek sets.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
+    body: "eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business,&nbsp;its board decided on Thursday. The decision came five days after a researcher&nbsp;repor",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
+    body: "This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "\u2018Now You\u2019re Pushing It\u2019 \u2014 Debra Wilson Drew the Line at the Wolverine Devs Scanning Her Tattoos Into the Game",
     body: "In a recent interview with GameSpot, actor Debra Wilson, who you might recognize from Star Wars Jedi: Fallen Order, Wolfenstein: The New Colossus, or God of War Ragnarok, said she\u2019s sick of seeing her",
     time: "just now",
