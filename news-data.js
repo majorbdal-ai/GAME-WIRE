@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Dragon Ball Xenoverse 3 Narrows Release Window Following Player Feedback",
+    body: "Bandai Namco announced a narrower release window for the upcoming multiplayer-enabled brawler Dragon Ball Xenoverse 3, although it's not too much more specific. Previously, the publisher had stated th",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "BioWare Was the Greatest RPG Developer Ever",
+    body: "There are many great role-playing game developers, past and present. But none can touch what BioWare has done over 30-plus years.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+    body: "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application.\n\nDuring the incident, Sto",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
+    body: "Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral, UpdraftVault, and UpdraftClone, using them to backdoor",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "GTA 6's Fast Food Restaurant, Burger Shot, Is Coming to Real Life in the Miami Heat's Arena",
     body: "One of the most iconic fast food restaurants from the GTA universe is becoming real ahead of GTA 6's release.",
     time: "just now",
