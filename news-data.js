@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "\u2018Now You\u2019re Pushing It\u2019 \u2014 Debra Wilson Drew the Line at the Wolverine Devs Scanning Her Tattoos Into the Game",
+    body: "In a recent interview with GameSpot, actor Debra Wilson, who you might recognize from Star Wars Jedi: Fallen Order, Wolfenstein: The New Colossus, or God of War Ragnarok, said she\u2019s sick of seeing her",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Valve Developer Mistakenly Mentions Rumored Half-Life 3 Codename",
+    body: "A Valve developer mistakenly slipped up and made mention of Half-Life 3's long rumored codename during a recent conference.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+    body: "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching.\n",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
+    body: "Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the&nbsp;central management system&nbsp;for VeloCloud SD-WAN networks, the company said in an&nbsp;advi",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Alan Wake 2: Deluxe Edition for PS5 Drops to Its Lowest Price Ever, Just in Time for Halloween",
     body: "IGN's best horror game of 2023.",
     time: "just now",
