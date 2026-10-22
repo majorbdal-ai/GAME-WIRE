@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Alan Wake 2: Deluxe Edition for PS5 Drops to Its Lowest Price Ever, Just in Time for Halloween",
+    body: "IGN's best horror game of 2023.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Dispatch Gets Over 16 Hours of New Content With Commentary Track, Mobile Version, and Live Concert to Celebrate Its First Anniversary",
+    body: "Dispatch is now officially one year old! To celebrate, Adhoc is giving fans oodles of new content in the form of a commentary track and storyboard modes, a new mobile version of the game, a live conce",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
+    body: "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal,",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
+    body: "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds.\n\nIn tandem, the effort saw law e",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "'Regions Are Cheating and We Need to Address It' \u2014 Wardogs Dev Says Region Locking Is About 'Protecting the Largest Amount of Players'",
     body: "Bulkhead is rolling out region locking in Wardogs to, in the studio's words, protect \"the largest amount of players from an influx of regions that are more prone to cheating.\" However, legitimate play",
     time: "just now",
