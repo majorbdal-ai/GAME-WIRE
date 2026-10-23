@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Mass Effect-Style Game Exodus Picked a Hell of a Time to Reveal Its Redesigned Male Protagonist",
+    body: "The developers of Mass Effect-style game Exodus picked a hell of a time to reveal their redesigned male protagonist.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "'I Don't Know if There's Perfecting It' \u2014 Call of Duty: Modern Warfare 4 Multiplayer Chief Weighs in on Matchmaking",
+    body: "Infinity Ward's Multiplayer boss weighs in on Call of Duty: Modern Warfare 4 matchmaking.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "URGENT - PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+    body: "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws.\n\nThe new issue, assigned CVE-2026-115560, affects ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+    body: "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year.\n\nAccording to ESET, t",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "The Battlestar Galactica Board Game Is Making a Surprise Comeback Next Year",
     body: "The Battlestar Galactica Board Game Is Making a Surprise Comeback Next Year",
     time: "just now",
