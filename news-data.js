@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The Battlestar Galactica Board Game Is Making a Surprise Comeback Next Year",
+    body: "The Battlestar Galactica Board Game Is Making a Surprise Comeback Next Year",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Wo Long 2: Wings of Ember Gets Wuxia\u2026 and Let Me Fight a Horrific Spider Thing | IGN Preview",
+    body: "Wo Long 2: Wings of Ember is shaping up to be an interesting sequel that combines elements of Team Ninja\u2019s action game expertise with the Three Kingdoms games\u2019 penchant for strategy.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
+    body: "Node.js released&nbsp;security updates&nbsp;on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that N",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
+    body: "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO&nbsp;disclosed, releasing working proof-of-concept code.\n\nBy sending a small bat",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Saber Interactive CEO Says Clive Barker\u2019s Hellraiser: Revival is Performing 'Extremely Well on PC and Consoles' with More to Come",
     body: "Clive Barker\u2019s Hellraiser: Revival has been a smash hit, says Saber Interactive CEO Matthew Karch in a post on LinkedIn, and it\u2019s the first of a \"series\" of releases from the studio that will improve ",
     time: "just now",
