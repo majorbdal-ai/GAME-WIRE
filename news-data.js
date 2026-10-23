@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Saber Interactive CEO Says Clive Barker\u2019s Hellraiser: Revival is Performing 'Extremely Well on PC and Consoles' with More to Come",
+    body: "Clive Barker\u2019s Hellraiser: Revival has been a smash hit, says Saber Interactive CEO Matthew Karch in a post on LinkedIn, and it\u2019s the first of a \"series\" of releases from the studio that will improve ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "\u2018Now You\u2019re Pushing It\u2019 \u2014 Debra Wilson Drew the Line at the Wolverine Devs Scanning Her Tattoos Into the Game",
+    body: "In a recent interview with GameSpot, actor Debra Wilson, who you might recognize from Star Wars Jedi: Fallen Order, Wolfenstein: The New Colossus, or God of War Ragnarok, said she\u2019s sick of seeing her",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
+    body: "Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by&nbsp;Trend Micro's Zero Day Initiative, with no fix yet in ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+    body: "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Cyberpunk 2 Associate Director Says Half of Game's Quest Team Are Former Modders",
     body: "Cyberpunk 2 associate game director Pawel Sasko revealed that much of the game\u2019s staff are actually former modders who CD Projekt Red picked up to work on the highly-anticipated sequel.",
     time: "just now",
