@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "EA Appears to Have Quietly Pulled Mass Effect Content From Battlefield 6 Following BioWare Shutdown",
+    body: "EA seems to have quietly pulled a collection of Mass Effect content for Battlefield 6 just days after it shuttered series developer BioWare.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Save Mass Effect Petition Hits 50,000 Signatures, Just Days After BioWare Closure",
+    body: "EA shut down BioWare on Wednesday, cancelling its upcoming Mass Effect game. And, after the trailer for what's now known as Mass Effect Universe leaked online, fans have started flocking to a petition",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+    body: "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls.\n\n\"A",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
+    body: "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws.\n\nThe new issue, assigned CVE-2026-115560, affects ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Mass Effect-Style Game Exodus Picked a Hell of a Time to Reveal Its Redesigned Male Protagonist",
     body: "The developers of Mass Effect-style game Exodus picked a hell of a time to reveal their redesigned male protagonist.",
     time: "just now",
