@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "FemShep Voice Actor Jennifer Hale Speaks Out After Mass Effect 5 Trailer Leaks Online",
+    body: "Award-winning voice actor Jennifer Hale, best known for voicing the female version of Commander Shepard in the first three Mass Effect games, is speaking out after a leaked trailer for the sci-fi fran",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Magic: The Gathering The Hobbit Gift Bundle Deal Hits Amazon, but You Should Wait for Black Friday",
+    body: "The Magic: The Gathering The Hobbit Gift Bundle is on sale at Amazon, but here is why crunching the numbers proves you should wait for Black Friday before buying.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+    body: "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX.\n\nThe activity, which singled out diplomatic entit",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+    body: "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab pa",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "EA Appears to Have Quietly Pulled Mass Effect Content From Battlefield 6 Following BioWare Shutdown",
     body: "EA seems to have quietly pulled a collection of Mass Effect content for Battlefield 6 just days after it shuttered series developer BioWare.",
     time: "just now",
