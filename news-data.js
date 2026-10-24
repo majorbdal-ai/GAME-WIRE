@@ -37,6 +37,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Humble Bundle\u2019s Sci-Fi Exposure Bundle Is Stacked With 8 Games for $25, Including Marathon",
+    body: "To celebrate its 15th anniversary, Humble Bundle has dropped a new Sci-Fi Exposure Bundle which features 8 thrilling sci-fi games \u2013 including Bungie's Marathon \u2013 which you can get for as low as $25.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+    body: "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on the",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+    body: "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have all",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "IGN Is Partnering with Best Buy for 3 Weeks of Giveaways Leading Up to GTA VI\u2019s Release",
+    body: "IGN Is Partnering with Best Buy for 3 Weeks of Giveaways Leading Up to GTA VI\u2019s Release",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "BioWare May Be Gone, But Its Spirit Lives On in These Games",
     body: "BioWare was shut down by EA earlier this week. While the studio had struggled through a long stretch without putting out a genuine classic, it\u2019s no lie to say it was behind some of the best RPGs of al",
     time: "just now",
