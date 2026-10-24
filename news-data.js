@@ -47,6 +47,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "HACKING",
     color: "var(--violet)",
+    title: "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+    body: "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Know",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Critical Flaw in Python\u2019s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
+    body: "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open.\n\nThe flaw,&nbsp;CVE-2026-112900, is",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "IGN Is Partnering with Best Buy for 3 Weeks of Giveaways Leading Up to GTA VI\u2019s Release",
+    body: "IGN Is Partnering with Best Buy for 3 Weeks of Giveaways Leading Up to GTA VI\u2019s Release",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Humble Bundle\u2019s Sci-Fi Exposure Bundle Is Stacked With 8 Games for $25, Including Marathon",
+    body: "To celebrate its 15th anniversary, Humble Bundle has dropped a new Sci-Fi Exposure Bundle which features 8 thrilling sci-fi games \u2013 including Bungie's Marathon \u2013 which you can get for as low as $25.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
     title: "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
     body: "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on the",
     time: "just now",
