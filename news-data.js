@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Mass Effect Leaks Reveal Canceled BioWare Game's Story Would Have Accounted for 'All' Choices From Previous Games",
+    body: "Additional details about BioWare's canceled Mass Effect game have leaked online, revealing a story that would have taken choices from the Commander Shepard trilogy into account if EA hadn't shut down ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Rumored Lucia Actress Goes Viral After Dodging Swarm of GTA 6 Comments During Livestream",
+    body: "Manni L. Perez, the actress long rumored to be playing Lucia in GTA 6, has gone viral after dodging a swarm of comments from Grand Theft Auto fans during a recent livestream.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+    body: "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week.\n\nThe attack requir",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+    body: "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "IGN Is Partnering with Best Buy for 3 Weeks of Giveaways Leading Up to GTA VI\u2019s Release",
     body: "IGN Is Partnering with Best Buy for 3 Weeks of Giveaways Leading Up to GTA VI\u2019s Release",
     time: "just now",
