@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Dragon Ball Xenoverse 2 Gets Surprise 10th Anniversary Update This Week",
+    body: "Bandai Namco has revealed a 10th anniversary update for Dragon Ball Xenoverse 2 as fans await the fighting game series' third installment.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Mass Effect's Commander Shepard Actors, Destiny Community Help #SaveMassEffect Petition Cross 200,000 Signatures",
+    body: "The #SaveMassEffect movement has picked up even more steam after videos from both Commander Shepard actors \u2013 and even posts from the Destiny community \u2013 helped its petition reach 200,000 signatures.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
+    body: "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2She",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Critical Flaw in Python\u2019s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
+    body: "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open.\n\nThe flaw,&nbsp;CVE-2026-112900, is",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Magic: The Gathering's Top 12 Most Powerful Commander Precons Of All Time",
     body: "Looking for Magic's most powerful boxed precon decks for Commander? Here's our top 12, including Universes Beyond.",
     time: "just now",
