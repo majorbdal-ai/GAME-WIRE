@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Magic: The Gathering's Top 12 Most Powerful Commander Precons Of All Time",
+    body: "Looking for Magic's most powerful boxed precon decks for Commander? Here's our top 12, including Universes Beyond.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "IGN Is Partnering with Best Buy for 3 Weeks of Giveaways Leading Up to GTA VI\u2019s Release",
+    body: "IGN Is Partnering with Best Buy for 3 Weeks of Giveaways Leading Up to GTA VI\u2019s Release",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Critical Flaw in Python\u2019s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
+    body: "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open.\n\nThe flaw,&nbsp;CVE-2026-112900, is",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents\u2019 Token Balances",
+    body: "AI agents paying for API calls with the&nbsp;x402 SDKs&nbsp;could sign a payment for their full balance of a supported token if a malicious API asked for it,&nbsp;security firm V12 said&nbsp;on Octobe",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "The Best Deals Today: Xenoblade Chronicles 2, Persona 3 Reload, Dragon Quest III HD-2D Remake, and More",
     body: "The Best Deals Today: Xenoblade Chronicles 2, Persona 3 Reload, Dragon Quest III HD-2D Remake, and More",
     time: "just now",
