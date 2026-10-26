@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Phantom Blade Zero Review",
+    body: "Memorable boss fights, compelling combat, and limitless swagger.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "IGN Is Partnering with Best Buy for 3 Weeks of Giveaways Leading Up to GTA VI\u2019s Release",
+    body: "IGN Is Partnering with Best Buy for 3 Weeks of Giveaways Leading Up to GTA VI\u2019s Release",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+    body: "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who instal",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+    body: "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen token",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Dragon Ball Xenoverse 2 Gets Surprise 10th Anniversary Update This Week",
     body: "Bandai Namco has revealed a 10th anniversary update for Dragon Ball Xenoverse 2 as fans await the fighting game series' third installment.",
     time: "just now",
