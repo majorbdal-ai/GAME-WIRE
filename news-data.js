@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Assassin's Creed Black Flag Resynced Final Major Content Update Coming This Week",
+    body: "Ubisoft has detailed Assassin's Creed Black Flag Resynced's final major content update, revealing a closer look at new game+, Nightmare difficulty, and more.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Palworld's First Official Toy Collection Is Here, Complete With Mystery Eggs and Adorable Pals",
+    body: "Collectibles creator The Loyal Subjects has released the game's first official toy collection, featuring everything from articulated figures to mystery eggs.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
+    body: "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025.\n\nAccording to Dutch e-commerce security company Sansec,",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
+    body: "PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt m",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Sony Awarded a Hacker $50,000 for Privately Reporting a PS5 Exploit He Found With AI \u2014 Now He's Public Enemy Number One",
     body: "A hacker sparked an uproar within the PlayStation 5 homebrew scene for privately reporting an exploit to Sony and cashing in on a $50,000 reward, rather than keeping it confidential for the community.",
     time: "just now",
