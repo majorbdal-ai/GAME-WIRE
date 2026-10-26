@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Sony Awarded a Hacker $50,000 for Privately Reporting a PS5 Exploit He Found With AI \u2014 Now He's Public Enemy Number One",
+    body: "A hacker sparked an uproar within the PlayStation 5 homebrew scene for privately reporting an exploit to Sony and cashing in on a $50,000 reward, rather than keeping it confidential for the community.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Epic Games Boss Tim Sweeney Doubles Down on Valve Criticism, Says Steam's AI Content Disclosure Is a 'Political Act'",
+    body: "Epic Games boss Tim Sweeney spent the weekend doubling down on his severe criticism of Valve, calling Steam\u2019s AI content disclosure a \u201cpolitical act.\u201d",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
+    body: "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, som",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
+    body: "Two critical flaws in&nbsp;Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project's",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Phantom Blade Zero Review",
     body: "Memorable boss fights, compelling combat, and limitless swagger.",
     time: "just now",
