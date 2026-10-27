@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Mass Effect Has Been Taken Away Just When We Needed It Most",
+    body: "Mass Effect: Universe looked great, and BioWare's closure means it's been taken away just when we needed it most.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Silent Hill Remake Coming 2027, First Cast Details Leaked",
+    body: "The 1999 PS1 horror game is getting the Bloober treatment, and a new leak from MP1ST suggests work has been underway since 2022 and the game is targeting a 2027 launch.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
+    body: "A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
+    body: "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text,&nbsp;security firm Xint&nbsp;has shown.\n\n",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "You Can Play Buckshot Roulette in Real Life at this Tokyo Cafe \u2014 and Even Drink an Arctic Eggs Cocktail",
     body: "The Ukiyo Game Bar in Tokyo is going viral for its unique guest experience that lets customers play Buckshot Roulette in real life\u2026 well, sort of.",
     time: "just now",
