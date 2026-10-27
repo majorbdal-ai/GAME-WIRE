@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Life Is Strange Developer Don't Nod Blasted by Union Employees Over 'Illegal' Management Practices as Possible Layoffs Loom",
+    body: "An October 27 statement from employees of Don't Nod, the developer best known for making the original Life is Strange games, warn that the company is in danger of insolvency and layoffs, and accused i",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Call of Duty: Modern Warfare 4 Adds Series Favorite Map, Shipment, to Multiplayer",
+    body: "Shipment, one of Call of Duty's most iconic maps, has officially been added to Modern Warfare 4's multiplayer.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
+    body: "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assis",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
+    body: "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's w",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "South Korean Politician Urges President to Play Modern Warfare 4 to Understand 'Devastation' of Potential Invasion",
     body: "A South Korean politician has urged the country's President to play Call of Duty: Modern Warfare 4 to grasp the potential devastation from a North Korean invasion.",
     time: "just now",
