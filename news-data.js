@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "South Korean Politician Urges President to Play Modern Warfare 4 to Understand 'Devastation' of Potential Invasion",
+    body: "A South Korean politician has urged the country's President to play Call of Duty: Modern Warfare 4 to grasp the potential devastation from a North Korean invasion.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Get GTA 6 Ultimate Edition on PS5 for Just $85 Using This Trick \u2013 Today Only",
+    body: "Today only, you can get a $100 PlayStation Store gift card for just $85 \u2013 and then use it to buy the Ultimate Edition of Grand Theft Auto 6 for PS5.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
+    body: "The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on aff",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
+    body: "Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices.\n\nThe vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Mass Effect Has Been Taken Away Just When We Needed It Most",
     body: "Mass Effect: Universe looked great, and BioWare's closure means it's been taken away just when we needed it most.",
     time: "just now",
