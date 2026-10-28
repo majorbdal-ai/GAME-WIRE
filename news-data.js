@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Masahiro Sakurai Shrugs Off AI Games as \u2018Unprofitable Titles\u2019 as Clones and Mods Boom",
+    body: "Super Smash Bros creator Masahiro Sakurai explained why the boom in AI-created games isn\u2019t likely to create a lasting demand for such projects, comparing them to \u201clow-quality goods\u201d that could never c",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Save 47% Off Back to the Future Trilogy: 40th Anniversary Edition in Both 4K Ultra HD and Blu-Ray",
+    body: "The most comprehensive and definitive Back to the Future edition.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
+    body: "An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a&nbsp;statement&nbsp;on October 26.\n\nSomeone with tha",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
+    body: "Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing at",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Life Is Strange Developer Don't Nod Blasted by Union Employees Over 'Illegal' Management Practices as Possible Layoffs Loom",
     body: "An October 27 statement from employees of Don't Nod, the developer best known for making the original Life is Strange games, warn that the company is in danger of insolvency and layoffs, and accused i",
     time: "just now",
