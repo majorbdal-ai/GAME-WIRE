@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "'Appreciate the Fans' \u2014 GTA 5 Cast Tell Jason and Lucia\u2019s Actors the Most Important Things They Should Know Before GTA 6 Launches Them to Fame",
+    body: "The stars behind GTA 5\u2019s Franklin, Michael, and Trevor, along with the voice of CJ from San Andreas, were asked if they had any advice for the actors playing GTA 6\u2019s Jason and Lucia now that the game ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Alien: Isolation 2 Team Confirms Physical Edition, Photo Mode, and New Gameplay Details",
+    body: "The team behind Alien: Isolation 2 released a Q&A that reveals new gameplay details, including using your real-life microphone, a physical edition, a photo mode, and more.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
+    body: "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown.\n\nOrange Tsai",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
+    body: "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2S",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Call of Duty: Modern Warfare 4 Patch Makes It Impossible to Get a Nuke in Free-for-All",
     body: "A new patch for Modern Warfare 4 has players up in arms because it prevents you from getting a tactical nuke Killstreak in Free-for-All, one of the Multiplayer modes.",
     time: "just now",
