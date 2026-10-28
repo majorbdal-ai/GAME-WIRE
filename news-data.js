@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Call of Duty: Modern Warfare 4 Patch Makes It Impossible to Get a Nuke in Free-for-All",
+    body: "A new patch for Modern Warfare 4 has players up in arms because it prevents you from getting a tactical nuke Killstreak in Free-for-All, one of the Multiplayer modes.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Viture Phantom Beast XR Glasses Are Available for Preorder",
+    body: "Viture Phantom Beast XR Glasses Are Available for Preorder",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
+    body: "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and stra",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
+    body: "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background.\n\nTo qualify, a s",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Phantom Blade Zero Looks Like a Hit Before It's Even Come Out, With an Estimated 1 Million Prelaunch Copies Sold",
     body: "Phantom Blade Zero is on track to be a huge hit, with estimates suggesting the action game has already sold over 1 million copies before launch.",
     time: "just now",
