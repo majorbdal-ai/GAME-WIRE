@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Phantom Blade Zero Looks Like a Hit Before It's Even Come Out, With an Estimated 1 Million Prelaunch Copies Sold",
+    body: "Phantom Blade Zero is on track to be a huge hit, with estimates suggesting the action game has already sold over 1 million copies before launch.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Pocketpair Would Love to Release Palworld on Nintendo Switch 2, Despite Pok\u00e9mon Legal Battle",
+    body: "The legal battle between Nintendo and Pocketpair is ongoing, but the Palworld developer hasn\u2019t ruled out a Switch 2 version of its creature collecting survival game.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
+    body: "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber.\n\nThe vulnerability in question is",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
+    body: "A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "The Upcoming Blade Runner 2099 Board Game Will Feature a Different Story Than the TV Series",
     body: "The Upcoming Blade Runner 2099 Board Game Will Feature a Different Story Than the TV Series",
     time: "just now",
