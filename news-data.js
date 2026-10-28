@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The Upcoming Blade Runner 2099 Board Game Will Feature a Different Story Than the TV Series",
+    body: "The Upcoming Blade Runner 2099 Board Game Will Feature a Different Story Than the TV Series",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Masahiro Sakurai Shrugs Off AI Games as \u2018Unprofitable Titles\u2019 as Clones and Mods Boom",
+    body: "Super Smash Bros creator Masahiro Sakurai explained why the boom in AI-created games isn\u2019t likely to create a lasting demand for such projects, comparing them to \u201clow-quality goods\u201d that could never c",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
+    body: "Japan's GMO Internet Group is&nbsp;offering up to $1 million in total&nbsp;for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers",
+    body: "Tailscale has released&nbsp;version 1.104.4&nbsp;to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the&nbsp;root&nbsp;user should b",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Masahiro Sakurai Shrugs Off AI Games as \u2018Unprofitable Titles\u2019 as Clones and Mods Boom",
     body: "Super Smash Bros creator Masahiro Sakurai explained why the boom in AI-created games isn\u2019t likely to create a lasting demand for such projects, comparing them to \u201clow-quality goods\u201d that could never c",
     time: "just now",
