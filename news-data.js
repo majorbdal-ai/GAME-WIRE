@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "BioWare Co-Founder Speaks Out on Studio Closure, Mass Effect Cancellation",
+    body: "BioWare co-founder Greg Zeschuk has spoken out about the closure of BioWare last week, which saw 50 jobs lost as part of 400 cuts across the company, along with the cancellation of Mass Effect 5, whic",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Original Donkey Kong Poster That Was Nearly Thrown Away Sold at Auction for Record-Breaking $329,400",
+    body: "A 1981 promotional poster for the original Donkey Kong, featuring the first public appearance of Mario, has become the the most expensive piece of original video game art ever sold at auction.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
+    body: "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privi",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
+    body: "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted busi",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "'Appreciate the Fans' \u2014 GTA 5 Cast Tell Jason and Lucia\u2019s Actors the Most Important Things They Should Know Before GTA 6 Launches Them to Fame",
     body: "The stars behind GTA 5\u2019s Franklin, Michael, and Trevor, along with the voice of CJ from San Andreas, were asked if they had any advice for the actors playing GTA 6\u2019s Jason and Lucia now that the game ",
     time: "just now",
