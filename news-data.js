@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Some People Who Paid for WoW Forever Name Reservation Couldn't Reserve Their Name Due to a Weird Bug",
+    body: "After the World of Warcraft Forever beta ended last week, Blizzard opened up the servers to character creation in order to allow players who bought one of the Skyborne packs to reserve their names. Bu",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "FromSoftware's Nintendo Switch 2 Exclusive The Duskbloods Officially Delayed Into 2027",
+    body: "FromSoftware has announced a delay of The Duskbloods to 2027. The Nintendo Switch 2 exclusive was due out by the end of 2026.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
+    body: "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campa",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
+    body: "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities.\n\n\"It shows significant gains across coding and agen",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "A Famous GTA 4 Meme Is Now a Mechanic in GTA 6",
     body: "GTA 6 has named one of its biggest mechanics after a beloved GTA 4 meme.",
     time: "just now",
