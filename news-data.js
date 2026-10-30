@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Struggling To Buy Magic\u2019s Foundations Commander Decks? Wizards Confirms Reprints Are Likely",
+    body: "Looking for a way to get the Foundations Commander Decks? Wizards of the Coast has confirmed to IGN that they'll be \"evergreen\"",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Call of Duty: Modern Warfare 2 Rating Potentially Leaks Port for Original 2009 FPS",
+    body: "The Australian Classification Board has rated Call of Duty: Modern Warfare 2, suggesting a port of Infinity Ward's original 2009 shooter may soon be revealed.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+    body: "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simulta",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
+    body: "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes c",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "MTG's Reality Fracture Commander Deck Is \"Among The Most Powerful We've Ever Released\" According to WOTC",
     body: "Magic's newest Commander precon, Multiverse Reforged, might be one of its most powerful yet - according to Wizards of the Coast.",
     time: "just now",
