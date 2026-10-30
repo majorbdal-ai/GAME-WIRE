@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Attack on Titan 3: The Final Preview",
+    body: "Attack on Titan 3 may come with a number, but it isn\u2019t a direct sequel in the truest sense of the word. It\u2019s more of a retelling.  Based on my time with it, Attack on Titan 3 is juggling a lot of plat",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Bethesda Pays Tribute to Patrick Stewart for His Role in Oblivion, Fans Remember His Role in Games Like Castlevania",
+    body: "Bethesda has paid tribute to Sir Patrick Stewart for his role in The Elder Scrolls 4: Oblivion after his death.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
+    body: "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets.\n\nThe world's biggest cryptocurrency exchange said nearly $3 bi",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
+    body: "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing res",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Call of Duty: Modern Warfare 4 Adds 'Non MilSim Content' Disclaimer to Halloween Themed Content",
     body: "Call of Duty: Modern Warfare 4 has added new disclaimers to content that may not abide by the game's usual grounded tone and aesthetic.",
     time: "just now",
