@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "MTG's Reality Fracture Commander Deck Is \"Among The Most Powerful We've Ever Released\" According to WOTC",
+    body: "Magic's newest Commander precon, Multiverse Reforged, might be one of its most powerful yet - according to Wizards of the Coast.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Star Trek Online Players Form Galaxy Class Honor Guard to Pay Tribute to Captain Picard Actor Sir Patrick Stewart",
+    body: "Star Trek Online players have gathered in-game to pay tribute to Sir Patrick Stewart, who died this week aged 86.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
+    body: "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported.\n\nTrezor has not yet e",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
+    body: "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won\u2019t br",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Attack on Titan 3: The Final Preview",
     body: "Attack on Titan 3 may come with a number, but it isn\u2019t a direct sequel in the truest sense of the word. It\u2019s more of a retelling.  Based on my time with it, Attack on Titan 3 is juggling a lot of plat",
     time: "just now",
