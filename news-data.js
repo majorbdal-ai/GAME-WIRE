@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Hoyoverse\u2019s Cozy Sim Petit Planet Coming to Nintendo Switch 2 in 2027",
+    body: "Hoyoverse\u2019s Cozy Sim Petit Planet Coming to Nintendo Switch 2 in 2027",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Stranger Than Heaven Features Optional \u201cCheats\u201d to Make its Combat Easier",
+    body: "Stranger Than Heaven Features Optional \u201cCheats\u201d to Make its Combat Easier",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Attacker Tried to Exploit Alpine Linux\u2019s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
+    body: "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab&nbsp;released a fix, Alpine Linux&nbsp;said&nbsp;on 28 October.\n\nThe fl",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering",
+    body: "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine.\n\nThe move was in response to the service being ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Stranger Than Heaven Features Optional \u201cCheats\u201d to Make its Combat Easier",
     body: "Stranger Than Heaven Features Optional \u201cCheats\u201d to Make its Combat Easier",
     time: "just now",
