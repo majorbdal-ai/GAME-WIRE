@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Anthropic Blocks AI Game Clones in Claude Opus Update",
+    body: "Anthropic has issued an update for Claude Opus that puts a stop to the AI-generated game clones that have filled platforms like Steam.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Joe Manganiello Says He 'Will Never Give Up Hope' on His D&D Dragonlance TV Series",
+    body: "Joe Manganiello, one of the most famous Dungeons & Dragons players in Hollywood, said he still wants his Dragonlance TV series to come to fruition despite its cancellation several years ago.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
+    body: "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
+    body: "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia.\n\nThe activity, detailed by Kaspersky",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Input Lag Is So Bad in Call of Duty: Modern Warfare 4 on Nintendo Switch 2 That Players Suffer From a 'Competitive Disadvantage'",
     body: "If you\u2019re playing Call of Duty: Modern Warfare 4 on Nintendo Switch 2, beware: you\u2019re at a disadvantage in competitive Multiplayer due to crushing input lag that is much worse than the other platforms",
     time: "just now",
