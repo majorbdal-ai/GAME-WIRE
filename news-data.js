@@ -37,6 +37,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Magic: The Gathering Designers Detail Reality Fracture\u2019s Jace Arc, Echoed Pairs, and Secret Lair Bundles",
+    body: "Magic: The Gathering designers Yoni Skolnik and Meris Mullaley break down Reality Fracture\u2019s Jace storyline, Echoed Pairs pack changes, and the future of Secret Lair bundles.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Attacker Tried to Exploit Alpine Linux\u2019s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
+    body: "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab&nbsp;released a fix, Alpine Linux&nbsp;said&nbsp;on 28 October.\n\nThe fl",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
+    body: "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report.\n\nTh",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Stranger Than Heaven Features Optional \u201cCheats\u201d to Make its Combat Easier",
+    body: "Stranger Than Heaven Features Optional \u201cCheats\u201d to Make its Combat Easier",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Xbox's Doom, Wolfenstein Developers Working 'More Closely Than Ever' Following Xbox 'Reset' Layoffs",
     body: "Bethesda and Xbox development studio id Software, maker of the Doom franchise, has deepened its partnership with fellow Bethesda and Xbox studio MachineGames, makers of the most recent Wolfenstein gam",
     time: "just now",
