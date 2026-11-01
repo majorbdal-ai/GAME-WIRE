@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Stranger Than Heaven Features Optional \u201cCheats\u201d to Make its Combat Easier",
+    body: "Stranger Than Heaven Features Optional \u201cCheats\u201d to Make its Combat Easier",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Xbox's Doom, Wolfenstein Developers Working 'More Closely Than Ever' Following Xbox 'Reset' Layoffs",
+    body: "Bethesda and Xbox development studio id Software, maker of the Doom franchise, has deepened its partnership with fellow Bethesda and Xbox studio MachineGames, makers of the most recent Wolfenstein gam",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+    body: "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the net",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+    body: "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Anthropic Blocks AI Game Clones in Claude Opus Update",
     body: "Anthropic has issued an update for Claude Opus that puts a stop to the AI-generated game clones that have filled platforms like Steam.",
     time: "just now",
