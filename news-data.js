@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Police Mock Car Chase Criminal for Getting Arrested Right Before GTA 6 Release",
+    body: "Police in Derbyshire, UK, are going viral after making a TikTok video mocking a criminal who led them on a high-speed car chase, saying the suspect will now miss out on GTA 6\u2019s highly-anticipated laun",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Get Final Fantasy VII Remake and Rebirth Switch 2 Editions for Less Than $7 Each With This One Easy Step",
+    body: "Get all caught up before Final Fantasy VII Revelation releases early next year.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
+    body: "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA)",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
+    body: "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure.\n\nThe in",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Dead by Daylight Developer Apologizes Again, Removes Free Items From TheBurntPeanut's Account",
     body: "Behavior Interactive is currently under fire after one of its community staff allegedly went rogue and gifted controversial streamer TheBurntPeanut every in-game item in Dead by Daylight live on strea",
     time: "just now",
