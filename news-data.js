@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Dead by Daylight Developer Apologizes Again, Removes Free Items From TheBurntPeanut's Account",
+    body: "Behavior Interactive is currently under fire after one of its community staff allegedly went rogue and gifted controversial streamer TheBurntPeanut every in-game item in Dead by Daylight live on strea",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "World of Warcraft Forever Launch Patch Notes Bring Controller Support and Massive Class Changes",
+    body: "World of Warcraft Forever is just a day away, and now that the beta has concluded Blizzard has released its patch notes for the release build of the game. Check out all the changes.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
+    body: "Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a \"sophisticated, multi-stage campaign\" that involve",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
+    body: "Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "A Concerning Amount of GTA Fans Would Give Up Their Pets to Play GTA 6 Early",
     body: "A poll of 1,300 American gamers shows some concerning trends regarding GTA 6 \u2014 more specifically, their willingness to abandon their pets for a chance at playing the game ahead of its release.",
     time: "just now",
