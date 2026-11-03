@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "A Concerning Amount of GTA Fans Would Give Up Their Pets to Play GTA 6 Early",
+    body: "A poll of 1,300 American gamers shows some concerning trends regarding GTA 6 \u2014 more specifically, their willingness to abandon their pets for a chance at playing the game ahead of its release.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Blackpink's Jisoo Confirms She Referenced Resident Evil's Ada Wong in New Music Video",
+    body: "Blackpink\u2019s Jisoo has confirmed that she referenced Resident Evil\u2019s Ada Wong in the music video for her solo song Addicted.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
+    body: "BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen fr",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
+    body: "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks.\n\nThe Taiwanese vendor said it observed t",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "How to Enter the AGON x COUNTER-STRIKE 2 Limited Edition Monitor Giveaway",
     body: "10 eligible winners will each take home an exclusive 24\" CS2 monitor.",
     time: "just now",
