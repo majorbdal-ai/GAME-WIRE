@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "How to Enter the AGON x COUNTER-STRIKE 2 Limited Edition Monitor Giveaway",
+    body: "10 eligible winners will each take home an exclusive 24\" CS2 monitor.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Terminally Ill GTA 6 Fan Dies 3 Weeks Before Game's Launch, Fans Pay Their Respects",
+    body: "A terminally ill GTA 6 fan has died three weeks before the game's launch.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
+    body: "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was eno",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
+    body: "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026.\n",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Gearbox Calls on Fans to Help Shape the Next Borderlands, Teases 'Exciting Overall Direction' For the Future of the Franchise",
     body: "Borderlands developer Gearbox has called on fans to let it know what they want next from the next game in the franchise, as work begins on \u201can exciting overall direction.\u201d",
     time: "just now",
