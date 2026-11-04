@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Maya Hawke Gets \u2018Key\u2019 Role in Live-Action Magic: The Gathering Movie",
+    body: "Maya Hawke has been cast in a \u2018key\u2019 role for Legendary\u2019s live-action Magic: The Gathering movie, which is also planned to have a television series.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "PUBG: Battlegrounds Gets K-Pop Girl Group Collab",
+    body: "K-pop girl group IVE is bringing its hit song \"Love Dive\" to the PUBG, complete with themed locations, character skins, choreography, and music videos.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+    body: "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
+    body: "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain a",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "New Hogwarts Legacy Trailer Shows Off Nvidia's DLSS 5 Enhanced Lighting and Materials",
     body: "Nvidia just showed off DLSS 5 in Hogwarts Legacy in a new video that shows how its AI-enhanced lighting and materials model looks in-game. It\u2019s a much more subtle effect compared to the images and cli",
     time: "just now",
