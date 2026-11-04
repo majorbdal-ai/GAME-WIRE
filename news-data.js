@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "007 First Light Gets Free Trial For Select PlayStation Plus Subscribers",
+    body: "Select PlayStation Plus subscribers can try 007 First Light for free via a new trial.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The Witcher 3 Devs Talk Songs of the Past DLC Details",
+    body: "IGN spoke to CD Projekt Red's level design lead Miles Tost and Songs of the Past writer Paula Meissner at the Lucca Comics & Games festival about creating a distinct new corner of the Continent, the s",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
+    body: "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services.\n\nThe tactic is called",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
+    body: "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers.\n\nThe script installed a backdoor and collected p",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Police Mock Car Chase Criminal for Getting Arrested Right Before GTA 6 Release",
     body: "Police in Derbyshire, UK, are going viral after making a TikTok video mocking a criminal who led them on a high-speed car chase, saying the suspect will now miss out on GTA 6\u2019s highly-anticipated laun",
     time: "just now",
