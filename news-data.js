@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "New Hogwarts Legacy Trailer Shows Off Nvidia's DLSS 5 Enhanced Lighting and Materials",
+    body: "Nvidia just showed off DLSS 5 in Hogwarts Legacy in a new video that shows how its AI-enhanced lighting and materials model looks in-game. It\u2019s a much more subtle effect compared to the images and cli",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Last Chance to Save $10 on The Legend of Zelda: Ocarina of Time",
+    body: "Physical copies of The Legend of Zelda: Ocarina of Time go back up to full price tomorrow, so now is your last chance to save $10.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+    body: "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own.\n\nThe attacker's code then runs as root, according",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
+    body: "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched.\n\nDetails of the security flaws, which affect SonicWall GMS 9.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Bride Goes Viral After Challenging Groom to Beat Her at Valorant Before Marrying Her",
     body: "A bride in China is going viral for giving her husband-to-be a wild challenge: making him beat her at Valorant before they could officially marry.",
     time: "just now",
