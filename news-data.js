@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Nintendo Rules Out Further Switch 2 Price Rises as Console Sales and Profit Fall",
+    body: "Nintendo has ruled out further Switch 2 price rises while reporting falling console sales and reduced profit.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Our Big Interview With Ocarina of Time Producers Eiji Aonuma and Hidemaro Fujibayashi",
+    body: "The leaders of Zelda reflect on the series as they guide a new generation of developers.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+    body: "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enter",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
+    body: "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3.\n\nThe change specifically applies to scena",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "World of Warcraft Forever Launch Live Blog: It's Looking Like a Smooth Blizzard Launch",
     body: "World of Warcraft Forever launch day live blog.",
     time: "just now",
