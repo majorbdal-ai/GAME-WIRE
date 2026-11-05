@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Sony Announces Official Marvel's Wolverine Sales Figure for the First Time, Raises PlayStation Sales Forecast With GTA 6 Imminent",
+    body: "Sony has raised its sales forecast for its gaming business, while announcing an official sales figure for Marvel\u2019s Wolverine for the first time.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The Legend of Zelda: Ocarina of Time Remake Full English Voice Cast Revealed",
+    body: "The Legend of Zelda: Ocarina of Time remake is out now, and so we have confirmation of the full English voice cast for the first time.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+    body: "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+    body: "A critical finding can move through several security tools and still leave the organization exposed.&nbsp;\n\nThe vulnerability has a severity score, and a ticket has reached the queue. Progress then de",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Nintendo Rules Out Further Switch 2 Price Rises as Console Sales and Profit Fall",
     body: "Nintendo has ruled out further Switch 2 price rises while reporting falling console sales and reduced profit.",
     time: "just now",
