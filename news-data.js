@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "World of Warcraft Forever Launch Live Blog: It's Looking Like a Smooth Blizzard Launch",
+    body: "World of Warcraft Forever launch day live blog.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "World of Warcraft: Forever Review So Far - Beta Impressions",
+    body: "30 hours with Forever's beta provides an optimistic start to a long journey.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
+    body: "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rai",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
+    body: "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0.\n\nDom0 is the VM that, by default, has full perm",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Maya Hawke Gets \u2018Key\u2019 Role in Live-Action Magic: The Gathering Movie",
     body: "Maya Hawke has been cast in a \u2018key\u2019 role for Legendary\u2019s live-action Magic: The Gathering movie, which is also planned to have a television series.",
     time: "just now",
