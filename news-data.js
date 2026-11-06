@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "G2 Esports Parts Ways With Head Coach Luka 'Perkz' Perkovi\u0107 After His 'Tweet Bomb' Sparks Backlash",
+    body: "G2 Esports has parted ways with its head coach, Luka \"Perkz\" Perkovi\u0107, following divisive comments he made in a lengthy post on Twitter/X.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Bethesda Is Already Selling The Elder Scrolls 6: Sentinel Merch",
+    body: "Hot on the heels of Bethesda Game Studios officially announcing the full name of its highly anticipated next project, The Elder Scrolls 6: Sentinel, the developer has already put up merch for the upco",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+    body: "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server,",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+    body: "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT.\n\nLockdown Mode was introduced by the arti",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Sony Announces Official Marvel's Wolverine Sales Figure for the First Time, Raises PlayStation Sales Forecast With GTA 6 Imminent",
     body: "Sony has raised its sales forecast for its gaming business, while announcing an official sales figure for Marvel\u2019s Wolverine for the first time.",
     time: "just now",
