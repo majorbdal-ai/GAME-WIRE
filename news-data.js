@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Spectrum Is Offering Free Internet Upgrades So People Can Download GTA 6 Faster",
+    body: "Spectrum customers can get a free internet upgrade this month to download GTA 6 faster.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Bill Skarsg\u00e5rd Explains Why Starring in Hideo Kojima\u2019s Physint Is a \u2018Big Deal\u2019 for Him",
+    body: "Skarsg\u00e5rd opened up about Physint in a November 5 episode of Josh Horowitz\u2019s Happy Sad Confused podcast, where he revealed that he\u2019s a massive fan of the Metal Gear series and shared a conversation he",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+    body: "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+    body: "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Fin",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "G2 Esports Parts Ways With Head Coach Luka 'Perkz' Perkovi\u0107 After His 'Tweet Bomb' Sparks Backlash",
     body: "G2 Esports has parted ways with its head coach, Luka \"Perkz\" Perkovi\u0107, following divisive comments he made in a lengthy post on Twitter/X.",
     time: "just now",
