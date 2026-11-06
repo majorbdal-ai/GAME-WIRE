@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Rockstar Will Be Keen to Release GTA 6 on PC Sooner Rather Than Later Because of AI Clones, Former Dev Says",
+    body: "Rockstar may officially release GTA 6 on PC soon after console over concern about AI-generated clones, one former developer has said.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Pok\u00e9mon TCG 30th Celebration Ultra-Premium Collection: Where to Buy the Day and Night Boxes",
+    body: "Find out where to buy the Pok\u00e9mon TCG 30th Celebration Ultra-Premium Collection across Target, Walmart, Amazon, and other retailers on launch day.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
+    body: "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates.\n\nThe fixed build, ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
+    body: "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test.\n\nThe a",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Spectrum Is Offering Free Internet Upgrades So People Can Download GTA 6 Faster",
     body: "Spectrum customers can get a free internet upgrade this month to download GTA 6 faster.",
     time: "just now",
