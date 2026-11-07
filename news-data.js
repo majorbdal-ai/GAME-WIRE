@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Pok\u00e9mon TCG: 10 Most Valuable Delta Reign Cards From New Expansion",
+    body: "Mega Rayquaza ex leads the secondary market surge in the newest Pok\u00e9mon TCG expansion. Here are the 10 most expensive Delta Reign cards on TCGplayer and eBay.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Steam Is Having an Early Black Friday Sale on Digital Board Games Right Now",
+    body: "Steam Is Having an Early Black Friday Sale on Digital Board Games Right Now",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+    body: "OpenAI on Thursday unveiled GPT\u20116 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in mode",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "The Flood is Coming And The Pipes Were Already Full",
+    body: "An update on Athena, and some unsolicited predictions on what's coming next\n\nOn Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "God of War Ragnarok Tops List of 10 Highest-Grossing PlayStation Studios Games From the PS5 Generation",
     body: "Sony Santa Monica Studios' God of War Ragnarok tops the list of highest-grossing PlayStation Studios games of the PS5 generation, according to Alinea Analytics.",
     time: "just now",
