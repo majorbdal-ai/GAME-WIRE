@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Gundam Assemble: Hands-On With Mobile Suit Gundam\u2019s Miniatures Tabletop Game",
+    body: "Get a closer look at the Gundam Assemble Starter Set.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Avery the Pok\u00e9 Kid's Father Pleads With The Pok\u00e9mon Company to Make a Trading Card in Honor of His Late Son",
+    body: "The father of late Pok\u00e9mon influencer Avery the Pok\u00e9 Kid is asking The Pok\u00e9mon Company to create a special card in honor of his son.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Claude Code's \u201cDon't Ask Again\u201d File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+    body: "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them.\n\nWhen a user selects \"Yes, and don't ask ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
+    body: "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found.\n\nThe exploit lets anyone",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Avery the Pok\u00e9 Kid's Father Pleads With The Pok\u00e9mon Company to Make a Trading Card in Honor of His Late Son",
     body: "The father of late Pok\u00e9mon influencer Avery the Pok\u00e9 Kid is asking The Pok\u00e9mon Company to create a special card in honor of his son.",
     time: "just now",
