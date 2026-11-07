@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch",
+    body: "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "EA HQ Graced With 'Save Mass Effect' Truck as N7 Day Looms",
+    body: "Mass Effect fans have taken their mission to save BioWare and its beloved sci-fi franchise to EA headquarters with a truck displaying the #SaveMassEffect message.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
+    body: "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
+    body: "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week.\n\nThe backdoored web",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Pok\u00e9mon TCG: 10 Most Valuable Delta Reign Cards From New Expansion",
     body: "Mega Rayquaza ex leads the secondary market surge in the newest Pok\u00e9mon TCG expansion. Here are the 10 most expensive Delta Reign cards on TCGplayer and eBay.",
     time: "just now",
