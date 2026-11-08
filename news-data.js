@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Epic Reveals Drop Rate for Fortnite's Pirate Token Following Pressure From Fans",
+    body: "Epic Games has revealed the drop rate for Fortnite's Pirate Token after backlash surrounding the infamous in-game pickup saw fans try to report the studio to the FTC.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "'I Feel Like Modding is Kind Of Dying' \u2013 Mass Effect 3 Multiplayer Modder on AI's Impact on the Scene",
+    body: "Over the past few months, there's been a sort of explosion of AI in the modding scene. Whether it's mashup mods on Twitter or full decompilation done by Claude, AI is everywhere in the mod community, ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Claude Code's \u201cDon't Ask Again\u201d File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+    body: "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them.\n\nWhen a user selects \"Yes, and don't ask ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+    body: "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitatio",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "'I Feel Like Modding is Kind Of Dying' \u2013 Mass Effect 3 Multiplayer Modder on AI's Impact on the Scene",
     body: "Over the past few months, there's been a sort of explosion of AI in the modding scene. Whether it's mashup mods on Twitter or full decompilation done by Claude, AI is everywhere in the mod community, ",
     time: "just now",
