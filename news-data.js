@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "BioWare May Be Dead, But a Modder Has Rebuilt Mass Effect 3's Multiplayer Into the Legendary Edition",
+    body: "When the Mass Effect Legendary Edition came out in 2021, it included the single player campaign of all three original games, along with all the DLC. But while all the story content you could ever want",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "'I Feel Like Modding is Kind Of Dying' \u2013 Mass Effect 3 Multiplayer Modder on AI's Impact on the Scene",
+    body: "Over the past few months, there's been a sort of explosion of AI in the modding scene. Whether it's mashup mods on Twitter or full decompilation done by Claude, AI is everywhere in the mod community, ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Claude Code's \u201cDon't Ask Again\u201d File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+    body: "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them.\n\nWhen a user selects \"Yes, and don't ask ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
+    body: "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Missing Teen Saved From Alleged Kidnapper After Seeking Help in Among Us",
     body: "A Utah teenager was rescued from an Oregon man's home after she successfully contacted help from another child in Among Us.",
     time: "just now",
