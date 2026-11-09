@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Former BioWare Executive Producer Mark Darrah Shares Original Vision for a More 'Immersive' Dragon Age 4",
+    body: "BioWare veteran Mark Darrah has revealed an internal pitch for Dragon Age 4 that was never shared with fans.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Get Ready for the First New Scott Pilgrim Comic in 16 Years",
+    body: "The first new Scott Pilgrim comic in 16 years is almost upon us. Feast your eyes on this exclusive preview of Scott Pilgrim EX: Dawn of Metal Scott #1.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
+    body: "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today.\n\nThe attacker use",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
+    body: "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2.\n\n",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Father Arrested After Leaving Sleeping 6-Year-Old Daughter in Line for Pok\u00e9mon Cards",
     body: "Father Arrested After Leaving Sleeping 6-Year-Old Daughter in Line for Pok\u00e9mon Cards",
     time: "just now",
