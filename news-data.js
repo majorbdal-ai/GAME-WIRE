@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Petit Planet, aka HoYoverse's Take on Animal Crossing, Is Packed With Charm and Attention to Detail | IGN Preview",
+    body: "2026 has been an incredibly crowded year for cozy life simulation games. Ironically, a genre that people usually turn to when they need a break from intense action games has started to wear me out. Af",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "'I Feel Like Modding is Kind Of Dying' \u2013 Mass Effect 3 Multiplayer Modder on AI's Impact on the Scene",
+    body: "Over the past few months, there's been a sort of explosion of AI in the modding scene. Whether it's mashup mods on Twitter or full decompilation done by Claude, AI is everywhere in the mod community, ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Claude Code's \u201cDon't Ask Again\u201d File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+    body: "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them.\n\nWhen a user selects \"Yes, and don't ask ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
+    body: "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations.\n\n\"Active since at least February 2025, the group ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "'I Feel Like Modding is Kind Of Dying' \u2013 Mass Effect 3 Multiplayer Modder on AI's Impact on the Scene",
     body: "Over the past few months, there's been a sort of explosion of AI in the modding scene. Whether it's mashup mods on Twitter or full decompilation done by Claude, AI is everywhere in the mod community, ",
     time: "just now",
