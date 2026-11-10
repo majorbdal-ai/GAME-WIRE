@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "'We Don't Take Anything For Granted' \u2014 LATAM is the Strongest Region in Street Fighter 6, and It\u2019s Because They\u2019re Hungrier Than You",
+    body: "IGN sat down with Blaz and the team at 2Game to discuss their monumental victory at the Street Fighter League Americas 2026 Finals and that viral set with NoahTheProdigy.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Call of Duty FaceTime Chat Causes Plane to Be Evacuated",
+    body: "A Frontier Airlines flight as well as the entire east wing of Terminal 2 at Southern California's Ontario International Airport was evacuated prior to departure after a passenger's FaceTime conversati",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
+    body: "The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unr",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
+    body: "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep syst",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Former BioWare Executive Producer Mark Darrah Shares Original Vision for a More 'Immersive' Dragon Age 4",
     body: "BioWare veteran Mark Darrah has revealed an internal pitch for Dragon Age 4 that was never shared with fans.",
     time: "just now",
