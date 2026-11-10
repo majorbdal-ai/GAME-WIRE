@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The Legend of Zelda: Ocarina of Time's High-Quality Visuals Have Players Second-Guessing Decades of Memories",
+    body: "The Legend of Zelda: Ocarina of Time remake gives Link's first 3D adventure a new coat of paint, but some of its details have players second-guessing the reality they thought they once knew.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "'We Don't Take Anything For Granted' \u2014 LATAM is the Strongest Region in Street Fighter 6, and It\u2019s Because They\u2019re Hungrier Than You",
+    body: "IGN sat down with Blaz and the team at 2Game to discuss their monumental victory at the Street Fighter League Americas 2026 Finals and that viral set with NoahTheProdigy.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
+    body: "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that cou",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
+    body: "The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exch",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "'We Don't Take Anything For Granted' \u2014 LATAM is the Strongest Region in Street Fighter 6, and It\u2019s Because They\u2019re Hungrier Than You",
     body: "IGN sat down with Blaz and the team at 2Game to discuss their monumental victory at the Street Fighter League Americas 2026 Finals and that viral set with NoahTheProdigy.",
     time: "just now",
