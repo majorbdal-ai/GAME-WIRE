@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "We Asked Nintendo of America's Nate Bihldorff About Localizing Ocarina of Time's Most Obscure Secrets",
+    body: "\"The localization team, absolutely, puts the most importance on those single lines that are really, really hard to find.\"",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Nintendo Opens New Job Role to Preserve and Organize its Old Games",
+    body: "Nintendo of America has opened up a new job position to help preserve and archive the older games in its vast library of titles.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+    body: "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with match",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+    body: "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday.\n\nThe attacker could also have seen reques",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "GTA 6 Now the Most Preordered Game in PlayStation Store and Microsoft Store History, Official Preload Warning Issued",
     body: "Sony has confirmed that GTA 6 is now the most preordered game in PlayStation Store history, although it failed to put a number on it. Microsoft hasn\u2019t made an announcement on GTA 6 preorders for Xbox ",
     time: "just now",
