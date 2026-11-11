@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "How About a GTA Set Outside the United States? 'Never Say Never,' Rockstar Boss Teases, but Don't Hold Your Breath",
+    body: "Rockstar isn't ruling out a GTA set outside the United States, but don't hold your breath: the studio says there are plenty more stories to tell in America.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "WoW Forever's First Big Secret Has Been Discovered by Players",
+    body: "If there's one thing that's true about any version of World of Warcraft it's that Blizzard loves hiding convoluted quest chains behind mundane objects, the first of which has been found in WoW Forever",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+    body: "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems.\n\nThe vuln",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+    body: "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Nintendo Defends Decision to Cut Mario and Yoshi Easter Eggs From The Legend of Zelda: Ocarina of Time Remake",
     body: "Nintendo has defended its decision to scrub the secret appearance of Mario characters from its The Legend of Zelda: Ocarina of Time remake.",
     time: "just now",
