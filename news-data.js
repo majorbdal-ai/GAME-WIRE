@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Nintendo Defends Decision to Cut Mario and Yoshi Easter Eggs From The Legend of Zelda: Ocarina of Time Remake",
+    body: "Nintendo has defended its decision to scrub the secret appearance of Mario characters from its The Legend of Zelda: Ocarina of Time remake.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The Legend of Zelda: Ocarina of Time Remake Players Use In-Game Ocarina to Play Everything From Linkin Park, Titanic, and Japanese Supermarket Themes",
+    body: "The much anticipated remake of The Legend of Zelda: Ocarina of Time launched on November 5, and one feature has fast become a big hit: the fact that you can now play any tune you like on Link\u2019s ocarin",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+    body: "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday.\n\nThey included 24 apps built by staff at the soci",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+    body: "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they\u2019re given, and traceability that\u2019s separate from any human\u2019s. That was true for us",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "I Tried the Pok\u00e9mon Happy Meal \u2014 Here\u2019s What I Learned (and What I Pulled)",
     body: "I Tried the Pok\u00e9mon Happy Meal \u2014 Here\u2019s What I Learned (and What I Pulled)",
     time: "just now",
