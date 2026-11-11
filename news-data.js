@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "I Tried the Pok\u00e9mon Happy Meal \u2014 Here\u2019s What I Learned (and What I Pulled)",
+    body: "I Tried the Pok\u00e9mon Happy Meal \u2014 Here\u2019s What I Learned (and What I Pulled)",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Pok\u00e9mon TCG\u2019s Delta Reign Elite Trainer Box Is Already Down to Almost Market Price Across Walmart & Amazon",
+    body: "Pok\u00e9mon TCG Delta Reign Elite Trainer Box drops to $89.95 at Walmart, beating Amazon's new record-low $98.49 price and almost matching market value.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
+    body: "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild.\n\nThe authentication bypass flaw, which does not",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
+    body: "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities,",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "We Asked Nintendo of America's Nate Bihldorff About Localizing Ocarina of Time's Most Obscure Secrets",
     body: "\"The localization team, absolutely, puts the most importance on those single lines that are really, really hard to find.\"",
     time: "just now",
