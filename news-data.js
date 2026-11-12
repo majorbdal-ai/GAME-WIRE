@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "GTA 4\u2019s Three Leaf Clover Heist Showed How Not to Rob a Bank \u2013 Art of the Level",
+    body: "This is how Michael Mann\u2019s Heat inspired GTA 4\u2019s legendary Three Leaf Clover mission, shaping Rockstar\u2019s realistic sound design and the future of videogame heists.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Saros Gets $20 Discount at Amazon Ahead of Black Friday, Returning to Its Lowest Price Point There",
+    body: "Physical copies of Saros on PS5 are $20 off at Amazon ahead of Black Friday sales, returning the game to its lowest price point there of $49.99.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+    body: "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
+    body: "A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising amount",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "A Death Metal Guitarist Is So Into WoW Forever, He Took it Onstage With a Steam Deck",
     body: "World of Warcraft Forever is off to a monumental start, with more players wandering Azeroth than ever before. And at least one death metal guitarist can't put it down long enough to watch his opener p",
     time: "just now",
