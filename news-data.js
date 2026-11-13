@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Crazy Taxi: World Tour Final Map Revealed",
+    body: "The next map confirmed for Crazy Taxi: World Tour is India, boasting three different zones that celebrate the country\u2019s many cultures and hallmarks \u2014 and yes, Bollywood films make an appearance.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "25 Years Ago, Kojima Made the Perfect Metal Gear Solid for the 2020s",
+    body: "When Metal Gear Solid 2 launched 25 years ago it seemed almost indecipherable. Today, it's clear that Kojima's sequel was decades ahead of its time, predicting digital disinformation, AI deepfakes, an",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+    body: "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
+    body: "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out.\n\nOne of them, Mior, can al",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "\u2018Maybe We\u2019ve Gone a Step Too Far\u2019 \u2014 Ocarina of Time Remake Producer Reveals the Game's ReDeads Were Originally Supposed to Be Even Scarier",
     body: "Producer Hidemaro Fujibayashi explained why the development team behind the Ocarina of Time Remake toned down the ReDeads to make them less scary.",
     time: "just now",
