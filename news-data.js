@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "\u2018Maybe We\u2019ve Gone a Step Too Far\u2019 \u2014 Ocarina of Time Remake Producer Reveals the Game's ReDeads Were Originally Supposed to Be Even Scarier",
+    body: "Producer Hidemaro Fujibayashi explained why the development team behind the Ocarina of Time Remake toned down the ReDeads to make them less scary.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Doom Developer id Software Confirms Work on New Game, Will Be Directed by Hugo Martin",
+    body: "At Xbox's 25th anniversary celebration at its Fan Fest event in Seattle, id Software confirmed that it is working on a new game, wrapping up last year's Doom: The Dark Ages with the release of the upc",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "When an AI Agent Goes Wrong, Can You Stop It?",
+    body: "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
+    body: "A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan.\n\nEnea, a telecom and cybersecurity software c",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "GTA 6's Burger Shot Restaurant Is Expanding Across Florida With Real Meals Inspired by the Game",
     body: "GTA 6's fast-food hamburger chain, Burger Shot, is expanding with new locations across Florida starting this weekend thanks to a collaboration with Skinny Louie.",
     time: "just now",
