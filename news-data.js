@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Magic: The Gathering\u2019s Star Trek Commander Precons Ranked: Why We Are the Borg Takes the Top Spot",
+    body: "We ranked all four Magic: The Gathering Star Trek Commander precons\u2014from Picard\u2019s Federation Fleet to We Are the Borg\u2014by gameplay, value, and key reprints.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Try Unlimited Checklist Tracking on IGN\u2019s GTA 5 Guides This November",
+    body: "Try Unlimited Checklist Tracking on IGN\u2019s GTA 5 Guides This November",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+    body: "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Explo",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
+    body: "N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell.\n\n\"We are restricting certain N-central fea",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Some of These GTA 6 Clips Look So Good That I Don't Care if It's Running at 30fps",
     body: "Earlier this week, Rockstar confirmed that GTA 6 would be running at 30fps on all of the consoles, including the PS5 Pro. And while I wasn't surprised, I've been watching some of the clips that have b",
     time: "just now",
