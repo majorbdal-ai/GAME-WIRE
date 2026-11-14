@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "GTA 6 Will Do Something the Franchise Has Never Done Before: Encourage Empathy",
+    body: "Rockstar has confirmed GTA 6 features something the franchise has never had before: mechanisms that encourage empathy.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "When GTA 5 Took On Zuckerberg and Hit Peak Satire",
+    body: "This is how Rockstar brought together bad fashion, a miserable gangster, an exploding phone, and fake Zuckerberg getting his just deserts to create GTA 5's memorable takedown of Silicon Valley.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
+    body: "The ongoing campaign targeting ConnectWise ScreenConnect deployments involves the exploitation of a now-patched critical security flaw in the remote access software, and not a new vulnerability, it ha",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
+    body: "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week.\n\nThe company has already applied mitigations agai",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Magic: The Gathering\u2019s Star Trek Commander Precons Ranked: Why We Are the Borg Takes the Top Spot",
     body: "We ranked all four Magic: The Gathering Star Trek Commander precons\u2014from Picard\u2019s Federation Fleet to We Are the Borg\u2014by gameplay, value, and key reprints.",
     time: "just now",
