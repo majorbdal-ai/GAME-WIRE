@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The Best Deals Today: Asus TUF Gaming Laptop, Saros, 4K Blu-ray Sale, and More",
+    body: "The Best Deals Today: Asus TUF Gaming Laptop, Saros, 4K Blu-ray Sale, and More",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "GTA 6 Leak Seemingly Reveals Full Track List Days Before Launch",
+    body: "The full track list for Grand Theft Auto VI: The Album seems to have leaked online just days before GTA 6's launch.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
+    body: "PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution.\n\nThe security flaw, tracked a",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
+    body: "Starting Tuesday, an attacker used stolen credentials for 4,837 GitHub accounts to plant a secret stealer in repositories those accounts could write to, according to Aikido Security, a security softwa",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "League of Legends: New Dawn Unveiled With Debut Trailer, Riot Announces Major Overhaul Coming in 2027",
     body: "At the 2026 League of Legends World Championship Finals, Riot Games officially unveiled League of Legends: New Dawn. The large-scale update is scheduled for 2027 and will bring changes to the game's c",
     time: "just now",
