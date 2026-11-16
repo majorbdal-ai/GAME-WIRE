@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Xbox at 25: My Memories From Across Xbox\u2019s Entire (and Quite Incredible) History",
+    body: "I\u2019ve been lucky enough to have a front-row seat for most of the Xbox\u2019s 25 years, covering the high highs and low lows of Microsoft\u2019s pivot into the living room. It\u2019s been quite a ride since November 1",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Magic: The Gathering\u2019s Star Trek Commander Precons Ranked: Why We Are the Borg Takes the Top Spot",
+    body: "We ranked all four Magic: The Gathering Star Trek Commander precons\u2014from Picard\u2019s Federation Fleet to We Are the Borg\u2014by gameplay, value, and key reprints.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
+    body: "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records.\n",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
+    body: "An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server.\n\nTh",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "The Best Deals Today: Control Resonant, Apple AirPods Pro 3, 4K Blu-ray Sales, and More",
     body: "The Best Deals Today: Control Resonant, Apple AirPods Pro 3, 4K Blu-ray Sales, and More",
     time: "just now",
