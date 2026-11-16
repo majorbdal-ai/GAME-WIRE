@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Pok\u00e9mon TCG: Delta Reign Booster Bundles Are Checking Out for Just $32 at Amazon",
+    body: "Pok\u00e9mon TCG: Delta reign booster bundles are back in stock at Amazon and now way below the current market price when compared to TCGplayer. But don't hang around, as we expect these to sell out fast.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "World of Warcraft Raids Are About to Get Easier",
+    body: "As the second season of World of Warcraft Midnight winds down, it's clear that The Venomous Abyss was a bit harder than it should have been.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
+    body: "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CA",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
+    body: "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Xbox at 25: My Memories From Across Xbox\u2019s Entire (and Quite Incredible) History",
     body: "I\u2019ve been lucky enough to have a front-row seat for most of the Xbox\u2019s 25 years, covering the high highs and low lows of Microsoft\u2019s pivot into the living room. It\u2019s been quite a ride since November 1",
     time: "just now",
