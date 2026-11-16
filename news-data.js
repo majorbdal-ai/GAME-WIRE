@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The Best Deals Today: Control Resonant, Apple AirPods Pro 3, 4K Blu-ray Sales, and More",
+    body: "The Best Deals Today: Control Resonant, Apple AirPods Pro 3, 4K Blu-ray Sales, and More",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Xbox at 25: My Memories From Across Xbox\u2019s Entire (and Quite Incredible) History",
+    body: "I\u2019ve been lucky enough to have a front-row seat for most of the Xbox\u2019s 25 years, covering the high highs and low lows of Microsoft\u2019s pivot into the living room. It\u2019s been quite a ride since November 1",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Italy Fines Meta \u20ac805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
+    body: "Meta was fined \u20ac805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post.\n\nThe Garante, Italy's data protection a",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+    body: "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws.\n\nThese cover 7",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "GTA 6's Jason and Lucia Will Start as Small-Time Criminals Who Have to Work Up to High-Value Jobs",
     body: "GTA 6 will let Jason and Lucia pull off high-value jobs, but Rockstar Games asks players to work up from being small-time criminals first.",
     time: "just now",
