@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Grand Theft Auto 6 Lucia Actress Finally Revealed \u2014 And Yes, It's Who You Probably Suspected",
+    body: "On the eve of launching GTA 6, we finally now know who portrays main character Lucia Caminos.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The Macro Is World of Warcraft: Forever\u2019s Accessibility Secret Weapon",
+    body: "The tiny-but-mighty macro keyboard shortcut in World of Warcraft: Forever has proven the perfect accessibility tool.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+    body: "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+    body: "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram.\n\n\"Trigram is a large-sca",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "GTA 6 Global Release Times Confirmed: Here's How to Play Early Via the New Zealand Trick",
     body: "GTA 6 will have a regional release, which means certain people can actually play it early thanks to what's called the New Zealand trick. Here's how it works.",
     time: "just now",
