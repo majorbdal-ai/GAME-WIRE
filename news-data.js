@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "There Really Is No Escape From The Duolingo Owl, Who Will Soon Join Pok\u00e9mon Go",
+    body: "Not content with plaguing your phone's lock screen, Duo the Duolingo owl is next set to appear in Pok\u00e9mon Go.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Subway Is Releasing a GTA 6-Themed Sandwich, but There's a Catch",
+    body: "Subway is getting on the GTA 6 hype train with a sandwich themed after the highly anticipated game.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "\u26a1 Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
+    body: "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
+    body: "Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week.\n\nNo pat",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Pok\u00e9mon TCG: Delta Reign Booster Bundles Are Checking Out for Just $32 at Amazon",
     body: "Pok\u00e9mon TCG: Delta reign booster bundles are back in stock at Amazon and now way below the current market price when compared to TCGplayer. But don't hang around, as we expect these to sell out fast.",
     time: "just now",
