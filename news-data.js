@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "GTA 6 Global Release Times Confirmed: Here's How to Play Early Via the New Zealand Trick",
+    body: "GTA 6 will have a regional release, which means certain people can actually play it early thanks to what's called the New Zealand trick. Here's how it works.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "There Really Is No Escape From The Duolingo Owl, Who Will Soon Join Pok\u00e9mon Go",
+    body: "Not content with plaguing your phone's lock screen, Duo the Duolingo owl is next set to appear in Pok\u00e9mon Go.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
+    body: "An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early today.\n\nVisitors to ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
+    body: "ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is runni",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "There Really Is No Escape From The Duolingo Owl, Who Will Soon Join Pok\u00e9mon Go",
     body: "Not content with plaguing your phone's lock screen, Duo the Duolingo owl is next set to appear in Pok\u00e9mon Go.",
     time: "just now",
