@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "You Can Now Order McDonald\u2019s Through Discord",
+    body: "Discord has launched a McDonald's app, allowing users to order food through one of the most popular communication platforms.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Rockstar President Sam Houser Issues Rare Statement to Celebrate GTA 6 Launch",
+    body: "As GTA 6 launches around the world, Rockstar president and co-founder Sam Houser has issued a rare statement to celebrate the occasion and \"many more years\" of experiences ahead.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
+    body: "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philippines.\n\n",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
+    body: "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universit\u00e4t Berlin say.\n\nThat leave",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Sony Issues Official PS5 Firmware Update Warning, Confirms GTA 6 Requirement",
     body: "Sony has confirmed that the recently released PS5 firmware 14.23 update is required before playing GTA 6, in a social media post boosted by Rockstar Games.",
     time: "just now",
