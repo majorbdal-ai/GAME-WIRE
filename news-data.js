@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "GTA 6: The Optional Missions You Won\u2019t Want to Miss",
+    body: "GTA 6 is full of optional activities, but some are more essential than others. These are the seven side missions you really shouldn't miss out on.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Rockstar Publishes Full GTA 6 Credits \u2014 But Beware, They Contain Major Spoilers",
+    body: "With GTA 6 now launched across the world, Rockstar has published the game's full credits online \u2014 with a major spoiler hidden in plain view.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+    body: "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+    body: "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published toda",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "GTA 6 Launch Causes Massive Spike in Traffic for Internet Provider Xfinity",
     body: "Internet provider Xfinity has reported a massive spike in traffic on Xbox consoles for GTA 6's New Zealand launch.",
     time: "just now",
