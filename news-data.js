@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "A GTA 6 Location Was Teased by Rockstar All the Way Back in 2021 \u2014 And What's Inside Was Worth the Wait",
+    body: "In 2021, Rockstar fans believed that a GTA 6 screenshot was snuck into the GTA trilogy collection, but there's more to this theory than meets the eye.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "DevGamm Awards 2026 Winners Revealed",
+    body: "The 3rd annual DevGAMM Awards took place today, November 18, in Lisbon, Portugal, and celebrated 70 nominated games from 25 countries across 17 award categories. You can check out all of the winners r",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+    body: "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in.\n\nThe decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been prese",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+    body: "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts.\n\nEach flaw needs a specific",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "You Can Now Order McDonald\u2019s Through Discord",
     body: "Discord has launched a McDonald's app, allowing users to order food through one of the most popular communication platforms.",
     time: "just now",
