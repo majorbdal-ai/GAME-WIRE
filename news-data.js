@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Ubisoft Creates Generative AI Game Studio Called Motherbrain",
+    body: "Assassin\u2019s Creed developer Ubisoft has created a new subsidiary called Motherbrain, a studio dedicated specifically to the implementation of generative AI in its games.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "'I\u2019m So F**kin\u2019 Bitter' \u2014 Doja Cat Begs Rockstar to Put Her Music on the GTA 6 Soundtrack",
+    body: "Doja Cat is extremely unhappy about getting passed over as a featured artist in GTA 6, and she\u2019s making her feelings known in several blistering posts on social media.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+    body: "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. Th",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+    body: "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable g",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "GTA 6: The Optional Missions You Won\u2019t Want to Miss",
     body: "GTA 6 is full of optional activities, but some are more essential than others. These are the seven side missions you really shouldn't miss out on.",
     time: "just now",
