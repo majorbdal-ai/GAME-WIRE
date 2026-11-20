@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Sexyy Red Had the Best Response to Her Viral GTA 6 Moment With Jason",
+    body: "Rapper Sexyy Red has given a hilarious response to her cameo in GTA 6 after a clip of famous streamer IShowSpeed playing the game went viral.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "GTA 6 Is the Biggest Entertainment Launch of All Time at $3.79 Billion on Day One",
+    body: "Rockstar Games has confirmed GTA 6 retail sales reached $3.79 billion in its first 24 hours, securing its place as the biggest entertainment launch of all time.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+    body: "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages.\n\nThe vulnerability, track",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+    body: "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "You Can Find the 'Bikini Girl' From the GTA 6 Trailer In-Game, With a Nod to All the Fan Theories",
     body: "Grand Theft Auto 6's Bikini Girl has been found, and there's even a nod to the fan theory that she was Lucia all along.",
     time: "just now",
