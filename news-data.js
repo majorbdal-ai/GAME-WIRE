@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "RayNeo's Black Friday Sale Includes Discounts on AR Glasses, Plus a New Release of GT Max Call of Duty: Modern Warfare 4 Limited Edition AR Glasses",
+    body: "Save $94 on RayNeo GT Max AR Glasses and more.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Actor Who Plays Mandy in GTA 6 Excitedly Speaks Out After Character Goes Viral",
+    body: "Lexie Shoaibi, the actor who plays Mandy in GTA 6, is speaking out now that the game has been officially released worldwide.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
+    body: "SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-ass",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
+    body: "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Sexyy Red Had the Best Response to Her Viral GTA 6 Moment With Jason",
     body: "Rapper Sexyy Red has given a hilarious response to her cameo in GTA 6 after a clip of famous streamer IShowSpeed playing the game went viral.",
     time: "just now",
