@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The Best Deals Today: Silent Hill Townfall, Ocarina of Time Remake, Control Resonant, and More",
+    body: "The Best Deals Today: Silent Hill Townfall, Ocarina of Time Remake, Control Resonant, and More",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "GTA 6 Players Report Crashes on PS5 With Error CE-108255-1",
+    body: "GTA 6 players on PlayStation 5 have reported frequent crashes tied to error code CE-108255-1, and it looks like it's blocking them from progressing through the story while they wait for Sony and Rocks",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+    body: "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
+    body: "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS.\n\n\"ROM",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "GTA 6\u2019s Weirdest Cow Shows Why You Should Pause the Story Early To Explore Its Vast Map",
     body: "I escaped GTA 6's starting neighborhood to explore the wider world, and you'll never believe what happened with this cow I found.",
     time: "just now",
