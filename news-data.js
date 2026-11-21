@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "GTA 6\u2019s Weirdest Cow Shows Why You Should Pause the Story Early To Explore Its Vast Map",
+    body: "I escaped GTA 6's starting neighborhood to explore the wider world, and you'll never believe what happened with this cow I found.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "GTA 6 Players Are Running Into NPCs Who Fight Back So Hard You Probably Should Just Leave Them Alone",
+    body: "Just like in real life, there are some people you really shouldn\u2019t mess with in GTA 6. It\u2019s not always easy to tell at a glance either. Books, covers, and all that.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+    body: "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.\n\nThe same attack could",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+    body: "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "How a $6 Beer in GTA 6 Sent Me Into a Spiral of Crime and Anxiety",
     body: "How a $6 Beer in GTA 6 Sent Me Into a Spiral of Crime and Anxiety",
     time: "just now",
