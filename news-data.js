@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The Binding of Isaac Dev Removes Undisclosed AI-Generated Music From Repentance+ Following Creator Response, Review-Bombing",
+    body: "The Binding of Isaac developer Nicalis has removed undisclosed AI-generated music included in Repentance+ after backlash led to a review-bombing campaign on Steam and a response from the game's creato",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Neuralink Participant Showcases What It's Like to Play GTA 6 With His Mind",
+    body: "A Neuralink participant has shared a video showcasing how the technology has allowed him to drive boats, fly planes, and get in shootouts in GTA 6 with his mind.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
+    body: "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published toda",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
+    body: "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site.\n\nThat can lead to a sit",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "The Best Deals Today: Silent Hill Townfall, Ocarina of Time Remake, Control Resonant, and More",
     body: "The Best Deals Today: Silent Hill Townfall, Ocarina of Time Remake, Control Resonant, and More",
     time: "just now",
