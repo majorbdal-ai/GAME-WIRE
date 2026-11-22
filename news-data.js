@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Nintendo Knocks $20 off Physical Switch 2 Copies of Donkey Kong Bananza for Black Friday",
+    body: "Physical copies of Donkey Kong Bananza have received a $20 discount in Nintendo's Black Friday sale, bringing its price down to $49.99.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The Cosmere RPG Core Rulebook for The Stormlight Archive Is 50% Off Today",
+    body: "The Cosmere RPG Core Rulebook for The Stormlight Archive Is 50% Off Today",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+    body: "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week.\n\nSome of t",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+    body: "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it.\n\nGhostscript is the interpreter that many Linux serve",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "The Binding of Isaac Dev Removes Undisclosed AI-Generated Music From Repentance+ Following Creator Response, Review-Bombing",
     body: "The Binding of Isaac developer Nicalis has removed undisclosed AI-generated music included in Repentance+ after backlash led to a review-bombing campaign on Steam and a response from the game's creato",
     time: "just now",
