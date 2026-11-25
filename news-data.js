@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Diablo 4 Season 16 Fixes One of the Biggest Problems With Helltide",
+    body: "Diablo 4 Season 16: Season of Tyrael's Gambit officially kicks off on December 1. We finally know a bit more about what the new season holds in store, and it's going to make one of the biggest activit",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "The Witcher 4 Will Have a Comparable Leap From GTA 5 to GTA 6, Says CD Projekt Red",
+    body: "CD Projekt Red expects a leap between The Witcher 3 and 4 that is comparable to the one between GTA 5 and 6.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+    body: "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus.\n\nCentral to the group's",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+    body: "A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "GTA 6 Players Are Optimizing the Money Glitch to Within an Inch of Its Life to Make $100,000 in Just 10 Minutes",
     body: "We\u2019ve already covered players using infinite money glitches to get rich quickly in GTA 6, but people are taking it to the next level. New money-making optimization strategies are seeing players become",
     time: "just now",
