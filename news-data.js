@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "This GTA 6 Radio Station Represents Its Florida-Inspired Setting Perfectly",
+    body: "Southern hip-hop deserves its respect in rap history and GTA 6 celebrates it with its own radio station full of bangers from Outkast, T.I., Trick Daddy, Gucci Mane, and so many more.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "GTA 6: Breaking Down The Cleanest Bank Robbery We've Seen So Far",
+    body: "One GTA 6 player has robbed $160,000 in just one minute in the cleanest bank robbery we\u2019ve seen yet. Here's how they did it.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+    body: "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr.\n\nThe vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
+    body: "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its systems,\" the bur",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Yes, There Was One Thing Cut from GTA 6 for Australia, NZ",
     body: "Rockstar chopped out a temporary stat buff from GTA 6, although players down under may not ever really notice it.",
     time: "just now",
