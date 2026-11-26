@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Grab a Meta Quest 3S With Golf+ for Under $300 at Amazon Now for Black Friday",
+    body: "It's a great option if you're looking to get into VR, or want to upgrade an old headset.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "GTA 6 Animation Director Reveals Rockstar Made 3 Animations for Each Item Interaction",
+    body: "Mike Jones, the director of gameplay animation for GTA 6, revealed that the team at Rockstar created three separate animations for each item interaction in the game.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+    body: "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild.\n\nThe vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+    body: "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mit",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Rockstar Explains Why it Added Consequences to GTA 6's Violence and Crimes",
     body: "Rockstar Games boss Rob Nelson has explained why the studio added the divisive criminal profile system to GTA 6.",
     time: "just now",
