@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Microsoft-Owned GitHub Stuns Followers as It Celebrates AnyPS5 Repo in Now-Deleted Tweet",
+    body: "In a post that\u2019s since been deleted, Microsoft-owned code and software collaboration site GitHub celebrated the AnyPS5 repo \u201cpassing 58k stars\u201d from users on the platform as a result of the launch of ",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Chainsaws 'Would Have Been Too Much' Even for GTA 6, as Rockstar Explains Why Some Extra Violent Weapons Are Missing",
+    body: "Rockstar has explained why some extra violent weapons like chainsaws and katanas are missing from GTA 6.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+    body: "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+    body: "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that secu",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Grab a Meta Quest 3S With Golf+ for Under $300 at Amazon Now for Black Friday",
     body: "It's a great option if you're looking to get into VR, or want to upgrade an old headset.",
     time: "just now",
