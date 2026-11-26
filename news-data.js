@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Rockstar Explains Why it Added Consequences to GTA 6's Violence and Crimes",
+    body: "Rockstar Games boss Rob Nelson has explained why the studio added the divisive criminal profile system to GTA 6.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Spotify Reveals Massive Spike in Streams for Music Featured in GTA 6",
+    body: "Spotify has released new data that shows huge spikes in streams for music featured in GTA 6, including a Carly Rae Jepsen song from over a decade ago.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Credential Remediation Is Slow When You Don\u2019t Know What Will Break",
+    body: "TL;DR\n\n\n  More than 64% still valid after four years: GitGuardian\u2019s State of Secrets Sprawl 2026 found that most valid secrets discovered in 2022 still worked in January 2026, because teams stall on w",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
+    body: "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV) catalog, requiring federal agencies to a",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "This GTA 6 Radio Station Represents Its Florida-Inspired Setting Perfectly",
     body: "Southern hip-hop deserves its respect in rap history and GTA 6 celebrates it with its own radio station full of bangers from Outkast, T.I., Trick Daddy, Gucci Mane, and so many more.",
     time: "just now",
