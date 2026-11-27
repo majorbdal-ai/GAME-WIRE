@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "After Playing Infinity Nikki 3.0 for Four Hours, its New Cities and Outfits Are Just Some of the Additions Worth Returning For",
+    body: "The new 3.0 update has tons of new stuff to explore including new locations, outfits and gameplay systems, although don't expect any kind of proper challenge.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Lucia Actress Manni L. Perez Issues First Statement Since GTA 6 Launch",
+    body: "Manni L. Perez, the actress who plays Lucia in GTA 6, has issued her first statement since the game came out.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+    body: "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way yo",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+    body: "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Microsoft-Owned GitHub Stuns Followers as It Celebrates AnyPS5 Repo in Now-Deleted Tweet",
     body: "In a post that\u2019s since been deleted, Microsoft-owned code and software collaboration site GitHub celebrated the AnyPS5 repo \u201cpassing 58k stars\u201d from users on the platform as a result of the launch of ",
     time: "just now",
