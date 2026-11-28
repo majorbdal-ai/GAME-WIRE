@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "Jenga: Super Mario Edition Is 43% Off for Black Friday",
+    body: "Jenga: Super Mario Edition Is 43% Off for Black Friday",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Yooka-Laylee and the Impossible Lair Dev's Explanation for Skipping Xbox Sparks Backlash",
+    body: "Yooka-Laylee and the Impossible Lair: Definitive Edition developer Playtonic has come under fire from Xbox owners after it ruled out an Xbox Series X and S version of the rerelease.",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+    body: "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yeste",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
+    body: "Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution.\n\nThe proof-of-concept (PoC) exploit,",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "30 First-Person Shooter Masterpieces You Need to Play",
     body: "From the original corridor shooter pioneers to the incredibly sophisticated genre hybrids of the 2020s, these are the 30 first-person shooter masterpieces you need to play.",
     time: "just now",
