@@ -27,6 +27,46 @@ const NEWS_ALL = [
     tag: "TRENDING",
     category: "GAMING",
     color: "var(--brand)",
+    title: "The Official Elder Scrolls Cookbook Is at Its Lowest Price All Year on Black Friday",
+    body: "The Official Elder Scrolls Cookbook Is at Its Lowest Price All Year on Black Friday",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
+    title: "Metal Gear Solid Funko Pops Get Black Friday Discounts",
+    body: "Metal Gear Solid Funko Pops Get Black Friday Discounts",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
+    body: "Cross-platform password manager pCloud Pass has confirmed it was targeted by a cyber attack after users reported seeing unknown devices being connected to their accounts.\n\n\"A cyber attack targeting pC",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "tech",
+    tag: "TRENDING",
+    category: "HACKING",
+    color: "var(--violet)",
+    title: "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
+    body: "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment.\n\n\"Most of the packages pos",
+    time: "just now",
+    link: "#"
+  },
+  {
+    section: "gaming",
+    tag: "TRENDING",
+    category: "GAMING",
+    color: "var(--brand)",
     title: "Jenga: Super Mario Edition Is 43% Off for Black Friday",
     body: "Jenga: Super Mario Edition Is 43% Off for Black Friday",
     time: "just now",
